@@ -1,0 +1,149 @@
+/*main elements*/
+p {
+ 	text-indent: 50px;
+ }
+li{
+
+}
+li spam{
+	color: red;
+}
+.bg-tint{
+	background-color: rgba(0, 0, 0, 0.80);
+}
+/*custom color info banner*/
+.bg-custom{
+	background-color: #e9fb5e;
+}
+.bg-main{
+	background-color:  #233f92;
+}
+.bg-yellow {
+	background-color:  #fff;
+}
+.red{
+	color:  #233f92;
+}
+.yellow {
+	color:  #fff;
+}
+.img-link a:hover {
+	border-width: 20px;
+	border-color: #233f92;
+}
+.s-link a {
+	background-color: #233f92;
+	color: #fff;
+}
+.s-link a:hover {
+	background-color: #fff;
+	color: #000;
+	text-decoration: overline;
+	text-decoration-color: #dc3545;
+}
+.icon{
+ 	height: 32px;
+ 	width: 32px;
+}
+.thumbs-up{
+    background-image: url(../images/thumbs-up.png);
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 32px;
+    width: 32px;
+}
+/*banners*/
+.logo-banner{
+	background-image: url(../images/logo-min.png);
+	background-size: contain;
+	background-repeat: no-repeat;
+	height: 100%;
+	width: 30vw;
+}
+.contact-banner{
+    background-image: url(../images/stage.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 25vh;
+}
+.ow-banner{
+    background-image: url(../images/our-work.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 15vw;
+}
+.roof-banner{
+    background-image: url(../images/roof.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 15vw;
+}
+.tape-banner{
+    background-image: url(../images/tape.png);
+    background-size: contain;
+    background-repeat: repeat-x;
+    height: 20px;
+}
+ /*navigation*/
+.navbar-custom{
+	color: #fff !important;
+	border-color: #fff !important;
+}
+.nav-item {
+	font-size: 0.88em;
+	font-weight: bold !important;
+	text-transform: uppercase;
+}
+.activ{
+	background-color: #fff;
+	color: #233f92 !important;
+	border: 10px solid #fff;
+	border-radius: 8px;
+}
+.active a{
+	background-color: #fff;
+	color: #233f92 !important;
+	border: 10px solid #fff;
+	border-radius: 8px;
+	text-decoration: overline;
+	text-decoration-color: #dc3545;
+}
+.active a:hover{
+	color: #000 !important;
+	text-decoration: overline;
+	text-decoration-style: double;
+	text-decoration-color: #dc3545;
+}
+.inactive{
+	margin-left: 2px;
+	margin-right: 2px;
+}
+.inactive a{
+	color: #fff !important;
+	border: 10px solid #233f92;
+}
+.inactive a:hover{
+	background-color: #fff;
+	color: #000 !important;
+	border: 10px solid #fff;
+	border-radius: 8px;
+	text-decoration: overline;
+	text-decoration-style: double;
+	text-decoration-color: #dc3545;
+}
+.dropdown-item{
+	font-weight: bold !important;
+	text-transform: uppercase;
+	color: #fff !important;
+	border: 10px solid #233f92;
+}
+.dropdown-item:hover{
+	background-color: #fff;
+}
+/*footer*/
+  .footer {
+ 	background: #262626;
+    padding: 5em 0;
+    color: #fff;
+ }
+ 
