@@ -377,7 +377,11 @@ h6 {
 # Desktop Navigation
 --------------------------------------------------------------*/
 
-
+.navbar-brand, .nav-link{
+      -webkit-transform: skewX(-15deg);
+        -ms-transform: skewX(-15deg);
+        transform: skewX(-15deg);
+}
 
 /*--------------------------------------------------------------
 # About Section

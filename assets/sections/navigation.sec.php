@@ -5,28 +5,34 @@
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse" id="navbarSupportedContent">
-      <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-        <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Home</a>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link" href="#">Link</a>
-        </li>
-        <li class="nav-item dropdown">
-          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
-            Dropdown
-          </a>
-          <ul class="dropdown-menu">
-            <li><a class="dropdown-item" href="#">Action</a></li>
-            <li><a class="dropdown-item" href="#">Another action</a></li>
-            <li><hr class="dropdown-divider"></li>
-            <li><a class="dropdown-item" href="#">Something else here</a></li>
+      <ul class="navbar-nav ml-auto mt-2 mt-lg-0">
+            <li class="nav-item active">
+              <a class="nav-link" href="index.php">Home</a>
+            </li>
+            <li class="nav-item inactive">
+              <a class="nav-link" href="references.php">References</a>
+            </li>
+            <li class="nav-item inactive dropdown">
+              <a class="nav-link dropdown-toggle" id="dropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">Roofing    Services</a>
+            <div class="dropdown-menu bg-main" aria-labelledby="dropdownMenuLink">
+              <a class="dropdown-item" href="commercial-roofing.php">Commercial Roofing</a>
+              <a class="dropdown-item" href="chimneys.php">Chimneys</a>
+              <a class="dropdown-item" href="flat-roofing.php">Flat Roofing</a>
+              <a class="dropdown-item" href="roofline.php">Roofline</a>
+              <a class="dropdown-item" href="new-roofs.php">New Roofs</a>
+              <a class="dropdown-item" href="repairs.php">Repairs</a>
+           </div>
+            </li>
+            <li class="nav-item inactive">
+             <a class="nav-link" href="serviced-area.php">Serviced Area</a>
+            </li>
+            <li class="nav-item inactive">
+              <a class="nav-link" href="about.php">About Us</a>
+            </li>
+            <li class="nav-item inactive">
+              <a class="nav-link" href="contact.php">Contact Us</a>
+            </li>
           </ul>
-        </li>
-        <li class="nav-item">
-          <a class="nav-link disabled" aria-disabled="true">Disabled</a>
-        </li>
-      </ul>
       
     </div>
   </div>
