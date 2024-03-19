@@ -1,32 +1,65 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Top Roofers Ltd</title>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="google-site-verification" content="h7IFHI52_xaIoHS9kTdC3nWRa5O1_bignZHJTulnVtw" />
-  <link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico"/>
-	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-	<link href="https://fonts.googleapis.com/css?family=Great+Vibes&display=swap" rel="stylesheet">
-  <link rel="stylesheet" type="text/css" href="styles/style.css">
-  <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-171616224-2">
-  </script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    gtag('config', 'UA-171616224-2');
-  </script>
+  <title>EasyFix - Home</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.ico" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,600;1,700&family=Inter:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Cardo:ital,wght@0,400;0,700;1,400&display=swap"
+    rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/main.css" rel="stylesheet">
+
 </head>
 <body>
-
+  <!-- Preloader of the page -->
+  <div id="preloader">
+    <div class="line"></div>
+  </div>
 <!-- Info Banner -->
-<?php include 'sections/info-banner.sec.php';?>
+<?php include 'assets/sections/info-banner.sec.php';?>
 
 <!-- Navigation -->
-<?php include 'sections/navigation.sec.php';?>
+<?php include 'assets/sections/navigation.sec.php';?>
+
+  <!-- ======= Hero Section ======= -->
+  <section id="hero">
+    <div class="hero-container">
+      <div data-aos="fade-in">
+        <!-- <div class="hero-logo">
+          <img class="" src="assets/img/logo.png" alt="EasyFix Logo">
+        </div> -->
+
+        <h1 class="brand">Welcome to <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span></h1>
+        <h2>We provide <span class="typed"
+            data-typed-items="handyman, carpentry, cleaning, decorating, Gardening, Plumbing, Clearance, Fencing"></span>services</h2>
+        <div class="actions">
+          <a href="contact.html" class="btn-get-started">Get Started</a>
+          <a href="services.html" class="btn-services">Our Services</a>
+        </div>
+      </div>
+    </div>
+  </section>
+  <!-- End Hero -->
 
 <div class="container my-5">
   <div class="shadow-lg p-5 bg-white border-top border-danger rounded">
@@ -166,10 +199,22 @@
 </div>
 
 <!-- Footer -->
-<?php include "sections/footer.sec.php" ?>
-<!-- Scripts -->
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<?php include "assets/sections/footer.sec.php" ?>
+<!-- Back to top of the page -->
+  <a href="#" class="scroll-top d-flex align-items-center justify-content-center">
+    <i class="bi bi-arrow-up-short"></i>
+  </a>
+  
+
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/typed.js/typed.umd.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
 </body>
 </html>
