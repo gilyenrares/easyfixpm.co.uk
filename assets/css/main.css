@@ -1087,9 +1087,14 @@ h6 {
   background-size: contain;
 }
 
-.about-hero {
+.m-hero {
   background-position: top center !important;
   height: 50vh !important;
+}
+
+.s-hero {
+  background-position: top center !important;
+  height: 20vh !important;
 }
 
 @media (min-width: 1024px) {

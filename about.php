@@ -43,7 +43,7 @@
 
 <!-- Main body -->
   <!-- ======= Hero Section ======= -->
-  <section id="hero" class="about-hero">
+  <section id="hero" class="m-hero">
     <div class="hero-container">
       <div data-aos="fade-in">
         <!-- <div class="hero-logo">
@@ -117,23 +117,58 @@
 </section>
 
 
-<div class="container my-5">
-  <section class="p-3">
-    <article>
-    	<img src="images/logo-min.png" class="rounded float-left w-25 m-5" alt="Top Roofers Ltd logo">
-    	<p>EasyFix offers a complete service pack, and can help with all aspects of property management services – from fixing a damaged gate or repairing a fence to completely refurbishing a house – ensuring nothing is out of place and that repair you never got to is a thing of the past.</p>
+
+<div class="container py-5 text-center">
+  <div class="row d-flex align-items-center justify-content-md-center">
+    <div id="cover" class="col-12 col-md-6" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
+    </div>
+    <div class="col-12 col-md-6" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
+       <h2 class="brand">We are <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span>property maintenance</h2>
+       <p>EasyFix offers a complete service pack, and can help with all aspects of property management services – from fixing a damaged gate or repairing a fence to completely refurbishing a house – ensuring nothing is out of place and that repair you never got to is a thing of the past.</p>
 
     	<p>We work hand-in-hand with our clients, providing regular updates on progress with their specific project. From the first site visit, estimate and schedule of works through to completion, we are there for you every step of the way.</p>
-
-    	<p>Previously completed projects are available on our <a href="projects.php">Project</a> page, these can give you an idea of the quality and pride taken in our work. Please also feel free to visit our <a href="projects.php">Services</a> page for more details about our services.</p>
+    </div>
+    <div class="col-12">
+      <p>Previously completed projects are available on our <a class="text-danger" href="projects.php"> Project <i class="bi bi-box-arrow-up-right"></i></a> page, these can give you an idea of the quality and pride taken in our work. Please also feel free to visit our <a class="text-danger" href="projects.php"> Services <i class="bi bi-box-arrow-up-right"></i></a> page for more details about our services.</p>
 
 		<p>Following initial inspection of your project, you will receive a planned, easy-to-follow estimate with a schedule of works. This means you can rest assured that you’re getting what you pay for, carried out to the highest of industry standards, at a competitive price – all with a personal service that cannot be beaten.</p>
 
     	<p>We are generally providing our services across South-West London, and you'll be pleased to know we have completed many successful projects with a multitude of clients across our area. Our company has an excellent reputation in both the private and commercial sectors, offering everything from the smallest roof repair to brant new roofing projects.</p>
 
 		<p>When looking for a reputable roofing company, you need to know that they are fully qualified and vetted, competent at what they do and will get the job done efficiently and professionally at an affordable price.</p>
-  		</article>
+    </div>
+  </div>
+</div>
+
+
+<!-- ======= Hero Section ======= -->
+  <section id="hero" class="s-hero">
+    <div class="hero-container">
+      <div data-aos="fade-in">
+        <!-- <div class="hero-logo">
+          <img class="" src="assets/img/logo.png" alt="EasyFix Logo">
+        </div> -->
+
+        <h1 class="brand"><span class="bg-light px-2"><b>Easy</b><i>Fix</i></span></h1>
+        <h2 class="m-0">We operate in<span class="typed"
+            data-typed-items="South, West, North,  "></span> London</h2>
+        <p class="text-danger"><i class="bi bi-arrow-down-circle"></i> 
+        For more details contact us 
+        <i class="bi bi-arrow-down-circle"></i></p>
+        <div class="actions pb-2">
+          <a href="contact.php" class="btn btn-outline-danger">Contact</a>
+        </div>
+      </div>
+    </div>
   </section>
+  <!-- End Hero -->
+
+<div class="container my-5">
+  <div class="s-link">
+    </div>
+  	<section class="p-3">
+    	<img src="images/s-w-london.jpg" class="rounded w-100" alt="Marked area of South-West London">
+	</section>
 </div>
 
 <!-- Footer -->
