@@ -51,152 +51,216 @@
 
         <h1 class="brand">Welcome to <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span></h1>
         <h2>We provide <span class="typed"
-            data-typed-items="handyman, carpentry, cleaning, decorating, Gardening, Plumbing, Clearance, Fencing"></span>services</h2>
+            data-typed-items="Handyman, Patio, Stairs, Fencing, Parking Spaces, Panelling, Painting, Shelving, "></span>services</h2>
         <div class="actions">
-          <a href="contact.html" class="btn-get-started">Get Started</a>
-          <a href="services.html" class="btn-services">Our Services</a>
+          <a href="services.php" class="btn btn-outline-danger">Our Services</a>
+          <a href="contact.php" class="btn btn-info">Contact Us</a>
         </div>
       </div>
     </div>
   </section>
   <!-- End Hero -->
 
-<div class="container my-5">
-  <div class="shadow-lg p-5 bg-white border-top border-danger rounded">
-    <h1 class="display-5 text-center">Welcome to <b>Top</b>RoofersLtd</h1>
-    <div class="row mt-5" role="group" aria-label="Contact Buttons">
-      <a type="button" class="btn btn-success btn-lg btn-block" href="tel:+4475 960 92240">Call 075 960 92240</a>
-      <a type="button" class="btn btn-primary btn-lg btn-block" href="mailto:info@toproofersltd.com" >Email info@toproofersltd.com</a>
+  <div class="container py-5 text-center">
+  <div class="row d-flex align-items-center justify-content-md-center">
+    <div id="cover" class="col-12 col-md-8" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
+    </div>
+    <div class="col-12 col-md-4" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
+       <h2 class="brand">We are <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span>property maintenance</h2>
+       <p>We can help you whether you’re a homeowner, developer, landlord or a business with anything from a full refurbishment to replacing a socket – and everything in between!</p>
     </div>
   </div>
 </div>
 
-<!-- Carousel with images -->
-<div class="container">
-  <div id="carousel" class="carousel slide carousel-fade border border-dark shadow-lg mt-5 rounded" data-ride="carousel">
-    <div class="s-link">
-      <a class="d-block px-5 py-3 text-center border border-dark shadow-lg rounded" href="references.php">
-        <h2>References</h2>
-      </a>
-    </div>
-    <div class="carousel-inner">
-      <div class="carousel-item active" data-interval="3000">
-        <img src="images/w-1.jpg" class="d-block w-100 mr-auto ml-auto" alt="...">
-      </div>
-      <div class="carousel-item" data-interval="3000">
-        <img src="images/w-2.jpg" class="d-block w-100 mr-auto ml-auto" alt="...">
-      </div>
-      <div class="carousel-item" data-interval="3000">
-        <img src="images/w-3.jpg" class="d-block w-100 mr-auto ml-auto" alt="...">
-      </div>
-      <div class="carousel-item" data-interval="3000">
-        <img src="images/w-4.jpg" class="d-block w-100 mr-auto ml-auto" alt="...">
-      </div>
-      <div class="carousel-item" data-interval="3000">
-        <img src="images/w-5.jpg" class="d-block w-100 mr-auto ml-auto" alt="...">
-      </div>
-      <div class="carousel-item" data-interval="3000">
-        <img src="images/w-6.jpg" class="d-block w-100 mr-auto ml-auto" alt="...">
-      </div>
-    </div>
-    <a class="carousel-control-prev" href="#carousel" role="button" data-slide="prev">
-      <span class="carousel-control-prev-icon p-3 bg-main" aria-hidden="true"></span>
-      <span class="sr-only">Previous</span>
-    </a>
-    <a class="carousel-control-next" href="#carousel" role="button" data-slide="next">
-      <span class="carousel-control-next-icon p-3 bg-main" aria-hidden="true"></span>
-      <span class="sr-only">Next</span>
-    </a>
+<section
+	class="divider img"
+	style="background: url(assets/img/banners/workers-banner.jpg)"
+>
+	<div class="overlay"></div>
+	<div class="container-xl">
+		<div class="row">
+			<div class="col-lg-10 col-xl-10">
+				<div class="row">
+					<div
+						class="col-md-8 d-flex align-items-center "
+						data-aos="fade-up"
+						data-aos-delay="100"
+						data-aos-duration="1000"
+					>
+						<div>
+							<span class="subheading"
+								>You May Contact Us For Construction &amp; Renovation Work</span
+							>
+							<h1 class="mb-md-0 mb-4">We Are A Great</br> Construction Company</h1>
+						</div>
+					</div>
+					<div
+						class="col-md-4 d-flex align-items-center"
+						data-aos="fade-up"
+						data-aos-delay="100"
+						data-aos-duration="1000"
+					>
+						<p class="mb-0">
+							<a
+								href="tel:+44 7397 879010"
+								class="btn btn-primary py-md-4 py-3 px-md-5 px-4"
+								><i class="bi bi-telephone-outbound"></i> CALL US TODAY <i class="bi bi-telephone-outbound"></i></i></a
+							>
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</section>
+
+
+
+<div class="container pb-5 my-5">
+  <div class="d-flex align-items-center pt-5">
+    <h2 class="brand">What <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> property maintenance can do for me?</h2>
   </div>
+  <!-- ======= Service Section ======= -->
+<section id="gallery" class="gallery">
+	<div class="container-fluid">
+		<div class="row gy-4 justify-content-center">
+			<div class="col-md-6" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
+				<h2 class="gallery-item-title text-center">Patio and Grass</h2>
+				<div class="gallery-item h-100">
+					<img src="assets/img/banners/patio.jpg" class="img-fluid" alt="" />
+					<div
+						class="gallery-links d-flex align-items-center justify-content-center"
+					>
+						<a href="services.php" title="Video 1" class="glightbox2"
+							><i class="bi bi-arrows-angle-expand"></i
+						></a>
+						<a href="weddings.html" class="details-link"
+							><i class="bi bi-link-45deg"></i
+						></a>
+					</div>
+				</div>
+			</div>
+			<!-- End Service Item -->
+			<div class="col-md-6" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
+				<h2 class="gallery-item-title text-center">Fencing</h2>
+				<div class="gallery-item h-100">
+					<img src="assets/img/banners/fencing.jpg" class="img-fluid" alt="" />
+					<div
+						class="gallery-links d-flex align-items-center justify-content-center"
+					>
+						<a
+							href="assets/video/test.mp4"
+							title="Video 1"
+							class="glightbox preview-link"
+							><i class="bi bi-arrows-angle-expand"></i
+						></a>
+						<a href="services.php" class="details-link"
+							><i class="bi bi-link-45deg"></i
+						></a>
+					</div>
+				</div>
+			</div>
+			<!-- End Service Item -->
+			<div class="col-md-6" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
+				<h2 class="gallery-item-title text-center">Decorating</h2>
+				<div class="gallery-item h-100">
+					<img src="assets/img/banners/decorating.jpg" class="img-fluid" alt="" />
+					<div
+						class="gallery-links d-flex align-items-center justify-content-center"
+					>
+						<a
+							href="assets/video/teo-product.mp4"
+							title="Gallery 3"
+							class="glightbox preview-link"
+							><i class="bi bi-arrows-angle-expand"></i
+						></a>
+						<a href="services.php" class="details-link"
+							><i class="bi bi-link-45deg"></i
+						></a>
+					</div>
+				</div>
+			</div>
+			<!-- End Service Item -->
+			<div class="col-md-6" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
+				<h2 class="gallery-item-title text-center">Refurbishments</h2>
+				<div class="gallery-item h-100">
+					<img src="assets/img/banners/stairs.jpg" class="img-fluid" alt="" />
+					<div
+						class="gallery-links d-flex align-items-center justify-content-center"
+					>
+						<a
+							href="assets/video/test.mp4"
+							title="Gallery 4"
+							class="glightbox preview-link"
+							><i class="bi bi-arrows-angle-expand"></i
+						></a>
+						<a href="services.php" class="details-link"
+							><i class="bi bi-link-45deg"></i
+						></a>
+					</div>
+				</div>
+			</div>
+			<!-- End Service Item -->
+      <div class="col-md-6" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
+				<h2 class="gallery-item-title text-center">Handyman Jobs</h2>
+				<div class="gallery-item h-100">
+					<img src="assets/img/banners/handyman.jpg" class="img-fluid" alt="" />
+					<div
+						class="gallery-links d-flex align-items-center justify-content-center"
+					>
+						<a
+							href="assets/video/test.mp4"
+							title="Gallery 4"
+							class="glightbox preview-link"
+							><i class="bi bi-arrows-angle-expand"></i
+						></a>
+						<a href="services.php" class="details-link"
+							><i class="bi bi-link-45deg"></i
+						></a>
+					</div>
+				</div>
+			</div>
+			<!-- End Service Item -->
+            <div class="col-md-6" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
+				<h2 class="gallery-item-title text-center">Repairs Jobs</h2>
+				<div class="gallery-item h-100">
+					<img src="assets/img/banners/repairs.jpg" class="img-fluid" alt="" />
+					<div
+						class="gallery-links d-flex align-items-center justify-content-center"
+					>
+						<a
+							href="assets/video/test.mp4"
+							title="Gallery 4"
+							class="glightbox preview-link"
+							><i class="bi bi-arrows-angle-expand"></i
+						></a>
+						<a href="services.php" class="details-link"
+							><i class="bi bi-link-45deg"></i
+						></a>
+					</div>
+				</div>
+			</div>
+			<!-- End Service Item -->
+
+			<!-- <div class="col-xl-3 col-lg-4 col-md-6">
+            <div class="gallery-item h-100">
+              <img src="assets/img/gallery/gallery-4.jpg" class="img-fluid" alt="">
+              <div class="gallery-links d-flex align-items-center justify-content-center">
+                <a href="assets/img/gallery/gallery-4.jpg" title="Gallery 4" class="glightbox preview-link"><i
+                    class="bi bi-arrows-angle-expand"></i></a>
+                <a href="gallery-single.html" class="details-link"><i class="bi bi-link-45deg"></i></a>
+              </div>
+            </div>
+          </div> -->
+			<!-- End Service Item -->
+		</div>
+	</div>
+</section>
+<!-- End Service Section -->
+
 </div>
 
-<!--About us-->
-<div class="container my-5">
-  <div class="shadow-lg bg-white border-top border-danger rounded">
-    <div class="s-link">
-      <a class="d-block px-5 py-3 text-center border border-dark shadow-lg rounded" href="about.php">
-        <h2>About Us</h2>
-      </a>
-    </div>
-  <section class="p-3">
-    <p>Our team are dedicated and experienced roofers who strive to make your roofing work painless and as straight forward as possible. Using only the best quality roofing materials on the market today, we build roofs that are built to last but also look great for many years to come.</p>
-    <p>When looking for a reputable roofing company, you need to know that they are fully qualified and vetted, competent at what they do and will get the job done efficiently and professionally at an affordable price.</p>
-  </section>
-  </div>
-</div>
 
-<!--Roofing Services-->
-<div class="container my-5" id="rs">
-  <div class="shadow-lg bg-white border-top border-danger rounded">
-    <div class="s-link">
-      <a class="d-block px-5 py-3 text-center border border-dark shadow-lg rounded" href="#rs">
-        <h2>Roofing Services</h2>
-      </a>
-    </div>
-    <div class="row p-3 justify-content-md-center">
-      <div class="col-xl-4 col-lg-4 col-md-6 p-2">
-        <div class="card" >
-          <img src="images/10.jpg" class="card-img-top" alt="...">
-            <div class="card-body">
-              <h5 class="card-title">Commercial Roofing</h5>
-              <p class="card-text">Commercial roofing is one of the services that we provide to different businesses, covering a wide range of shapes and sizes for most types of warehouses...</p>
-              <a href="commercial-roofing.php" class="btn btn-outline-info">Find Out More</a>
-            </div>
-          </div>
-      </div>
-      <div class="col-xl-4 col-lg-4 col-md-6 p-2">
-        <div class="card">
-          <img src="images/chimney.jpg" class="card-img-top" alt="Picture of chimney">
-            <div class="card-body">
-              <h5 class="card-title">Chimneys</h5>
-              <p class="card-text">We offer a variety of services dealing in regards with chimney work such as: building or rebuilding of chimneys, lead work, tiles, mortar and re-pointing...</p>
-              <a href="chimneys.php" class="btn btn-outline-info">Find Out More</a>
-            </div>
-          </div>
-      </div>
-      <div class="col-xl-4 col-lg-4 col-md-6 p-2">
-        <div class="card" >
-          <img src="images/grp-flat-roof.jpg" class="card-img-top" alt="...">
-            <div class="card-body">
-              <h5 class="card-title">Flat Roofing</h5>
-              <p class="card-text">We offer a wide range of flat roofing services. From torch on felt, GRP fiberglass to EPDM rubber roofing according to customer requirements…</p>
-              <a href="flat-roofing.php" class="btn btn-outline-info">Find Out More</a>
-            </div>
-          </div>
-      </div>
-      <div class="col-xl-4 col-lg-4 col-md-6 p-2">
-        <div class="card" >
-          <img src="images/guttering.jpg" class="card-img-top" alt="...">
-            <div class="card-body">
-              <h5 class="card-title">Roofline Services</h5>
-              <p class="card-text"> We can provide guttering to fit any type of property covering a wide range of types and shapes. We also offer a gutter maintenance service… </p>
-              <a href="roofline.php" class="btn btn-outline-info">Find Out More</a>
-            </div>
-          </div>
-      </div>
-      <div class="col-xl-4 col-lg-4 col-md-6 p-2">
-        <div class="card" >
-          <img src="images/tile-roof.jpg" class="card-img-top" alt="...">
-            <div class="card-body">
-              <h5 class="card-title">New Roofs</h5>
-              <p class="card-text">If you are looking for a brand new roof then look no further as we can definitively help with that. For more information about new roofs head to…</p>
-              <a href="new-roofs.php" class="btn btn-outline-info">Find Out More</a>
-            </div>
-          </div>
-      </div>
-      <div class="col-xl-4 col-lg-4 col-md-6 p-2">
-        <div class="card" >
-          <img src="images/roof-repairs.jpg" class="card-img-top" alt="...">
-            <div class="card-body">
-              <h5 class="card-title">Roof Repairs</h5>
-              <p class="card-text">Roofing repairs take various forms. If you are simply looking for tile replacement, mortar re-pointing or cracks patched up for a cost-effective service…</p>
-              <a href="repairs.php" class="btn btn-outline-info">Find Out More</a>
-            </div>
-          </div>
-      </div>
-    </div>
-  </div>
-</div>
 
 <!-- Footer -->
 <?php include "assets/sections/footer.sec.php" ?>

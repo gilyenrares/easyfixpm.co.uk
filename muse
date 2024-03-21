@@ -3,3 +3,10 @@ https://www.behance.net/gallery/61644063/Red-White-Web-Design-landing-page-theme
 muse = https://preview.colorlib.com/#buildream
 
 locahost = http://localhost/easyfixpm.co.uk/index.php
+
+home
+about
+services
+projects
+get a quote
+contact
