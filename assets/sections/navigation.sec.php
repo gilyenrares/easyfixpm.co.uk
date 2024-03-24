@@ -15,7 +15,7 @@
             <li class="nav-item inactive dropdown">
               <a class="nav-link dropdown-toggle" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">Services</a>
             <div class="dropdown-menu bg-main" aria-labelledby="dropdownMenuLink">
-              <a class="dropdown-item" href="commercial-roofing.php">Commercial Roofing</a>
+              <a class="dropdown-item" href="services.php#decorating">Decorating</a>
               <a class="dropdown-item" href="chimneys.php">Chimneys</a>
               <a class="dropdown-item" href="flat-roofing.php">Flat Roofing</a>
               <a class="dropdown-item" href="roofline.php">Roofline</a>

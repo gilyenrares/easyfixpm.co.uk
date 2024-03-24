@@ -76,7 +76,7 @@
         &copy; Copyright <strong><span class="bg-light px-2"><b>Easy</b><i>Fix</i></span></strong> . All Rights Reserved
       </div>
       <div class="credits">
-        Designed by <a href="#">RGB-DEV</a>
+        Designed by <a href="#">RGB-DEV</a> UIcons by <a href="https://www.flaticon.com/uicons">Flaticon</a>
       </div>
     </div>
   </footer>

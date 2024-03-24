@@ -11,6 +11,8 @@
   --color-default: #fafafa;
   --color-primary: #970000;
   --color-secondary: #161718;
+  --color-gray: #363b42;
+  --color-dark: #212529;
 }
 
 /* Smooth scroll behavior */
@@ -560,7 +562,28 @@ h6 {
 /*--------------------------------------------------------------
 # Services Section
 --------------------------------------------------------------*/
+.s-item{color: var(--color-gray);}
+.s-item i{
+  font-size: 60px;
+  color: var(--color-gray);
+}
 
+.s-item:hover i{
+  color: var(--color-primary);
+}
+
+.carousel-caption {
+  background-color: rgba(0, 0, 0, 0.6);
+}
+ .carousel-item, .carousel-item img {
+  height: 60vh;
+ }
+@media (max-width:768px) {
+  .carousel-item,
+    .carousel-item img {
+      height: 30vh;
+    }
+}
 
 .gallery .gallery-item {
   position: relative;
