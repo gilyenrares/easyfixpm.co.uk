@@ -24,7 +24,7 @@
            </div>
             </li>
             <li class="nav-item inactive">
-              <a class="nav-link" href="references.php">Projects</a>
+              <a class="nav-link" href="projects.php">Projects</a>
             </li>
             <li class="nav-item inactive">
              <a class="nav-link" href="serviced-area.php">Get a quote</a>
