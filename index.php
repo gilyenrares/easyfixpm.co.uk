@@ -134,7 +134,7 @@
 						<a href="services.php" title="Video 1" class="glightbox2"
 							><i class="bi bi-arrows-angle-expand"></i
 						></a>
-						<a href="weddings.html" class="details-link"
+						<a href="#" class="details-link"
 							><i class="bi bi-link-45deg"></i
 						></a>
 					</div>
@@ -149,7 +149,7 @@
 						class="gallery-links d-flex align-items-center justify-content-center"
 					>
 						<a
-							href="assets/video/test.mp4"
+							href="#"
 							title="Video 1"
 							class="glightbox preview-link"
 							><i class="bi bi-arrows-angle-expand"></i
@@ -169,7 +169,7 @@
 						class="gallery-links d-flex align-items-center justify-content-center"
 					>
 						<a
-							href="assets/video/teo-product.mp4"
+							href="#"
 							title="Gallery 3"
 							class="glightbox preview-link"
 							><i class="bi bi-arrows-angle-expand"></i
@@ -189,7 +189,7 @@
 						class="gallery-links d-flex align-items-center justify-content-center"
 					>
 						<a
-							href="assets/video/test.mp4"
+							href="#"
 							title="Gallery 4"
 							class="glightbox preview-link"
 							><i class="bi bi-arrows-angle-expand"></i
@@ -209,7 +209,7 @@
 						class="gallery-links d-flex align-items-center justify-content-center"
 					>
 						<a
-							href="assets/video/test.mp4"
+							href="#"
 							title="Gallery 4"
 							class="glightbox preview-link"
 							><i class="bi bi-arrows-angle-expand"></i
@@ -229,7 +229,7 @@
 						class="gallery-links d-flex align-items-center justify-content-center"
 					>
 						<a
-							href="assets/video/test.mp4"
+							href="#"
 							title="Gallery 4"
 							class="glightbox preview-link"
 							><i class="bi bi-arrows-angle-expand"></i

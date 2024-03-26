@@ -10,3 +10,15 @@ services
 projects
 get a quote
 contact
+
+Nameserverseasyfixpm.co.uk
+ns-cloud-e1.googledomains.com
+Nameserver #1ns1.hostico.net
+ns-cloud-e2.googledomains.com
+Nameserver #2ns2.hostico.net
+ns-cloud-e3.googledomains.com
+Nameserver #3ns3.hostico.net
+ns-cloud-e4.googledomains.com
+Nameserver #4ns4.hostico.net
+The full propagation of nameservers can take between 12 and 72 hours.
+Reset Nameservers

@@ -12,7 +12,10 @@
             <li class="nav-item inactive">
               <a class="nav-link" href="about.php">About Us</a>
             </li>
-            <li class="nav-item inactive dropdown">
+            <li class="nav-item inactive">
+              <a class="nav-link" href="services.php">Services</a>
+            </li>
+            <!-- <li class="nav-item inactive dropdown">
               <a class="nav-link dropdown-toggle" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">Services</a>
             <div class="dropdown-menu bg-main" aria-labelledby="dropdownMenuLink">
               <a class="dropdown-item" href="services.php#decorating">Decorating</a>
@@ -22,12 +25,12 @@
               <a class="dropdown-item" href="new-roofs.php">New Roofs</a>
               <a class="dropdown-item" href="repairs.php">Repairs</a>
            </div>
-            </li>
+            </li> -->
             <li class="nav-item inactive">
               <a class="nav-link" href="projects.php">Projects</a>
             </li>
             <li class="nav-item inactive">
-             <a class="nav-link" href="serviced-area.php">Get a quote</a>
+             <a class="nav-link" href="getaquote.php">Get a quote</a>
             </li>
             <li class="nav-item inactive">
               <a class="nav-link" href="contact.php">Contact Us</a>

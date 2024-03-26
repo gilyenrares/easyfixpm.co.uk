@@ -1,152 +1,230 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<title>Contact Top Roofers</title>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<link rel="shortcut icon" type="image/x-icon" href="images/favicon.ico"/>
-	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
-	<link href="https://fonts.googleapis.com/css?family=Great+Vibes&display=swap" rel="stylesheet">
-	<link rel="stylesheet" type="text/css" href="styles/style.css">
-	<!-- Global site tag (gtag.js) - Google Analytics -->
-	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-171616224-2">
-  </script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
+  <meta charset="utf-8">
+  <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-    gtag('config', 'UA-171616224-2');
-  </script>
+  <title>EasyFix - About Us</title>
+  <meta content="" name="description">
+  <meta content="" name="keywords">
+
+  <!-- Favicons -->
+  <link href="assets/img/favicon.ico" rel="icon">
+  <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
+
+  <!-- Google Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link
+    href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,600;1,700&family=Inter:ital,wght@0,300;0,400;0,500;0,600;0,700;1,300;1,400;1,500;1,600;1,700&family=Cardo:ital,wght@0,400;0,700;1,400&display=swap"
+    rel="stylesheet">
+
+  <!-- Vendor CSS Files -->
+  <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="assets/vendor/bootstrap-icons/bootstrap-icons.css" rel="stylesheet">
+  <link href="assets/vendor/swiper/swiper-bundle.min.css" rel="stylesheet">
+  <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
+  <link href="assets/vendor/aos/aos.css" rel="stylesheet">
+
+  <!-- Template Main CSS File -->
+  <link href="assets/css/main.css" rel="stylesheet">
+
 </head>
 <body>
-
+  <!-- Preloader of the page -->
+  <div id="preloader">
+    <div class="line"></div>
+  </div>
 <!-- Info Banner -->
-<?php include 'sections/info-banner.sec.php';?>
+<?php include 'assets/sections/info-banner.sec.php';?>
 
 <!-- Navigation -->
-<?php include 'sections/navigation.sec.php';?>
-
-<!-- Succesful alert -->
-<?php if(isset($_GET['contact-submit'])){
-        echo '<div class="container mt-3 alert alert-success" role="alert">
-                <button type="button" class="close" data-dismiss="alert" aria-label="Close">
-                  <span aria-hidden="true">&times;</span>
-                </button>
-                <h4 class="alert-heading">Well done!</h4>
-                <p>Aww yeah, you successfully sent your inquiry. This means that we got your message and we will be in contact with you shortly.</p>
-                <hr>
-                <p class="mb-0">However, if you need to contact us as soon as possible, then <a href="tel:+4475 960 92240">call us</a>.</p>
-              </div>';
-            } ?>
-
-<!--Contact Us-->
-<div class="container my-5">
-  <div class="shadow-lg p-5 bg-white border-top border-danger rounded">
-    <h1 class="display-5 text-center">Contact <b>Top</b>RoofersLtd</h1>
-  </div>
-</div>
-
-<!-- Title Banner -->
-<div class="container my-5">
-  <div class="shadow-lg bg-white border-top border-danger rounded">
-    <div class="s-link">
-      <a class="d-block px-5 py-3 text-center border border-dark shadow-lg rounded" href="contact.php">
-        <h2>Contact Details</h2>
-      </a>
-    </div>
-    
-  <section class="p-3">
-    <p>Our team are dedicated and experienced roofers who strive to make your roofing work painless and as straight forward as possible. Using only the best quality roofing materials on the market today, we build roofs that are built to last but also look great for many years to come.</p>
-    <!-- id requiered for good positioning of the viewframe -->
-    <p id="get-quote">When looking for a reputable roofing company, you need to know that they are fully qualified and vetted, competent at what they do and will get the job done efficiently and professionally at an affordable price.</p>
-  </section>
-  </div>
-</div>
+<?php include 'assets/sections/navigation.sec.php';?>
 
 <!-- Main body -->
-<div class="container my-5">
-  <div class="shadow-lg bg-white border-top border-danger rounded">
-    <div class="s-link">
-      <a class="d-block px-5 py-3 text-center border border-dark shadow-lg rounded" href="contact.php">
-        <h2>Contact Form</h2>
-      </a>
-    </div>
-  <section class="p-3">
-  <p>Please do not hesitate to get in touch with us for a no-obligation quote, or with any inquires you may have. You can contact us via <a href="mailto:info@toproofersltd.com">email</a>, or <a href="tel:+4475 960 92240">phone</a>, or by using our <a href="#contactForm">contact form</a> bellow.</p>
+  <!-- ======= Hero Section ======= -->
+  <section id="hero" class="m-hero">
+    <div class="hero-container">
+      <div data-aos="fade-in">
+        <!-- <div class="hero-logo">
+          <img class="" src="assets/img/logo.png" alt="EasyFix Logo">
+        </div> -->
 
-<div class="btn-group btn-group-lg d-flex mt-2" role="group" aria-label="Contact Buttons">
-	<a type="button" class="btn btn-success border-secondary rounded text-white mr-2" href="tel:+4475 960 92240">Call us</a>
-	<a type="button" class="btn btn-primary border-secondary rounded text-white" href="mailto:info@toproofersltd.com" >Email us</a>
-</div> <hr>
-	
-<!-- contact form -->
-	<form action="includes/contact.inc.php" method="post">
-  		<div class="form-row">
-    		<div class="form-group col-md-6">
- 		    	<label for="firstName">Your Name:</label>
-      			<input type="text" class="form-control" name="fn" id="firstName" placeholder="First Name" value="<?php if (isset($_GET['fn'])) {echo $_GET['fn'];} ?>" required="required">
-    		</div>
-    		<div class="form-group col-md-6">
-      			<label for="lastName">Family Name:</label>
-      			<input type="text" class="form-control" name="ln" id="lastName" placeholder="Last Name" value="<?php if (isset($_GET['ln'])) {echo $_GET['ln'];} ?>" required="required">
-    		</div>
-  		</div>
-  		<div class="form-group">
-    		<label for="email">Email Address:</label>
-    		<input type="email" class="form-control" name="email" id="email" placeholder="example@abc.com" value="<?php if (isset($_GET['email'])) {echo $_GET['email'];} ?>" required="required">
-  		</div>
-  		<div class="form-row">
-    		<div class="form-group col-md-6">
-      			<label for="phone">Telephone:</label>
-      			<input type="phone" class="form-control" name="phno" id="phone" placeholder="Phone Number"value="<?php if (isset($_GET['phno'])) {echo $_GET['phno'];} ?>" required="required">
-    		</div>
-    		<div class="form-group col-md-4">
-      			<label for="inputArea">Area:</label>
-      			<select id="inputArea" name="area" class="form-control" required="required">
-        		<option>Other Area</option>
-        		<option>Croydon</option>
-        		<option>Ealing</option>
-        		<option>Fulham</option>
-        		<option>Hammersmith</option>
-        		<option>Hillingdon</option>
-        		<option>Hounslow</option>
-        		<option>Kingston</option>
-        		<option>Merton</option>
-        		<option>Richmond</option>
-        		<option>Sutton</option>
-        		<option>Wandsworth</option>
-      			</select>
-    		</div>
-    		<div class="form-group col-md-2">
-      			<label for="postcode">Postcode</label>
-      			<input type="text" class="form-control" name="pscd" id="postcode" value="<?php if (isset($_GET['pscd'])) {echo $_GET['pscd'];} ?>" required="required" >
-    		</div>
-  		</div>
-      <div class="form-group">
-        <label for="description">Describe what service do you require from us</label>
-        <textarea  class="form-control" name="description" id="description" rows="4" value="<?php if (isset($_GET['description'])) {echo $_GET['description'];} ?>" required="required"></textarea>
+        <h1 class="brand">Contact <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span></h1>
+        <h2>Get in touch regarding <span class="typed"
+            data-typed-items="new work, current work, more information, , "></span></h2>
+        <div class="actions">
+          <a href="tel:+44 7397 879010" class="btn btn-info py-md-4 py-3 px-md-5 px-4">
+            <i class="bi bi-telephone-outbound"></i>  CALL NOW  <i class="bi bi-telephone-outbound"></i></i>
+          </a>
+        </div>
       </div>
-  		<div class="form-group">
-    		<div class="form-check">
-      			<input class="form-check-input" name="agree" type="checkbox" id="check" required="required">
-      			<label class="form-check-label" for="check">I Agree to receive a call back from Top Roofers Ltd.</label>
-    		</div>
-  		</div>
-      <div class="btn-group btn-group-lg d-flex mt-2" role="group" aria-label="Basic example">
-        <button type="submit" class="btn btn-success border-secondary mr-2 rounded text-white" name="contact-submit" >Submit Request</button>
-        <a type="button" class="btn btn-warning border-secondary rounded text-white" href="https://rbg-dev.com/contact.php" target="_blank">Report Issue *</a>
-      </div> 
-	</form><hr>
-  <p><i>* If you encounter any issue with our website or any other related problem, please notify </i><img src="images/rbg-logo.png" width="38" height="19"> RBG-DEVELOPMENT<i> our partner web development team, by using the button above (NOTE: YOU WILL BE REDIRECTED TO RBG-DEVELOPMET WEBSITE). </i></p>
+    </div>
   </section>
-	</div>
+  <!-- End Hero -->
+
+
+ <div class="container py-5 text-center">
+  <div class="row d-flex align-items-center justify-content-md-center">
+    <div class="col-12 col-md-4" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
+       <h2 class="brand">We are <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span>property maintenance</h2>
+       <p>We can help you whether you’re a homeowner, developer, landlord or a business with anything from a full refurbishment to replacing a socket – and everything in between!</p>
+    </div>
+    <div id="cover" class="col-12 col-md-8" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
+    </div>
+  </div>
 </div>
+
+<section
+	class="divider img"
+	style="background: url(assets/img/banners/workers-banner.jpg)"
+>
+	<div class="overlay"></div>
+	<div class="container-xl">
+		<div class="row">
+			<div class="col-lg-10 col-xl-10">
+				<div class="row">
+					<div
+						class="col-md-8 d-flex align-items-center "
+						data-aos="fade-up"
+						data-aos-delay="100"
+						data-aos-duration="1000"
+					>
+						<div>
+							<span class="subheading"
+								>You May Contact Us For Construction &amp; Renovation Work</span
+							>
+							<h1 class="mb-md-0 mb-4">We Are A Great</br> Construction Company</h1>
+						</div>
+					</div>
+					<div
+						class="col-md-4 d-flex align-items-center"
+						data-aos="fade-up"
+						data-aos-delay="100"
+						data-aos-duration="1000"
+					>
+						<p class="mb-0">
+							<a
+								href="tel:+44 7397 879010"
+								class="btn btn-info py-md-4 py-3 px-md-5 px-4"
+								><i class="bi bi-telephone-outbound"></i>  CALL FOR MORE  <i class="bi bi-telephone-outbound"></i></i></a
+							>
+						</p>
+					</div>
+				</div>
+			</div>
+		</div>
+</div>
+</section>
+Edgeworth@1521
+<!-- ======= Hero Section ======= -->
+  <section id="hero" class="s-hero">
+    <div class="hero-container">
+      <!-- contact form -->
+	<section id="contact" class="contact py-4">
+      <div class="container">
+
+        <!-- Info items -->
+        <div class="row gy-4 justify-content-center">
+
+          <div class="col-lg-3">
+            <div class="info-item d-flex">
+              <i class="bi bi-geo-alt flex-shrink-0"></i>
+              <div>
+                <h4>Location:</h4>
+                <p>London, United Kingdom</p>
+              </div>
+            </div>
+          </div><!-- End Info Item -->
+
+          <div class="col-lg-4">
+            <div class="info-item d-flex">
+              <i class="bi bi-envelope flex-shrink-0"></i>
+              <div>
+                <h4>Email:</h4>
+                <p>contact@easyfixpm.co.uk</p>
+              </div>
+            </div>
+          </div><!-- End Info Item -->
+
+          <div class="col-lg-3">
+            <div class="info-item d-flex">
+              <i class="bi bi-phone flex-shrink-0"></i>
+              <div>
+                <h4>Call:</h4>
+                <p>07397 879010</p>
+              </div>
+            </div>
+          </div><!-- End Info Item -->
+
+        </div>
+        <!-- Contact form -->
+        <div class="row justify-content-center mt-4">
+          <div class="col-lg-9">
+            <form action="forms/contact.php" method="post" class="php-email-form">
+              <div class="row">
+                <div class="col-md-6 form-group">
+                  <input type="text" name="name" class="form-control" id="name" placeholder="Your Name" required>
+                </div>
+                <div class="col-md-6 form-group mt-3 mt-md-0">
+                  <input type="text" class="form-control" name="tel" id="tel" placeholder="Telephone" required>
+                </div>
+              </div>
+              <div class="form-group mt-3">
+                <input type="email" class="form-control" name="email" id="email" placeholder="Email" required>
+              </div>
+              <div class="form-group mt-3">
+                <textarea class="form-control" name="message" rows="5" placeholder="Message" required></textarea>
+              </div>
+              <div class="my-3">
+                <div class="loading">Loading</div>
+                <div class="error-message"></div>
+                <div class="sent-message">Your message has been sent. Thank you!</div>
+              </div>
+              <div class="text-center"><button type="submit" name="contact-submit">Send Message</button></div>
+            </form>
+          </div>
+        </div>
+
+      </div>
+    </section>
+    <!-- End Contact Section -->
+    </div>
+  </section>
+  <!-- End Hero -->
+
+
+
+
+
+<div class="container py-5 text-center">
+  <div class="row d-flex align-items-center justify-content-md-center">
+
+
+  </div>
+</div>
+
+
+
+
+
 <!-- Footer -->
-<?php include "sections/footer.sec.php" ?>
-<!-- Scripts -->
-<script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
-<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<?php include "assets/sections/footer.sec.php" ?>
+<!-- Back to top of the page -->
+  <a href="#" class="scroll-top d-flex align-items-center justify-content-center">
+    <i class="bi bi-arrow-up-short"></i>
+  </a>
+  
+
+
+  <!-- Vendor JS Files -->
+  <script src="assets/vendor/aos/aos.js"></script>
+  <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+  <script src="assets/vendor/swiper/swiper-bundle.min.js"></script>
+  <script src="assets/vendor/glightbox/js/glightbox.min.js"></script>
+  <script src="assets/vendor/typed.js/typed.umd.js"></script>
+
+  <!-- Template Main JS File -->
+  <script src="assets/js/main.js"></script>
 </body>
 </html>
