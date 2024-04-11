@@ -183,13 +183,6 @@
   </section>
   <!-- End Hero -->
 
-<div class="container my-5">
-  <div class="s-link">
-    </div>
-  	<section class="p-3">
-    	<img src="assets/img/service-area.jpg" class="rounded w-100" alt="Marked area of South-West London">
-	</section>
-</div>
 
 <!-- Footer -->
 <?php include "assets/sections/footer.sec.php" ?>
