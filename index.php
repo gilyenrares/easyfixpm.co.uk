@@ -54,7 +54,7 @@
             data-typed-items="Handyman, Patio, Stairs, Fencing, Parking Spaces, Panelling, Painting, Shelving, "></span>services</h2>
         <div class="actions">
           <a href="services.php" class="btn btn-outline-danger">Our Services</a>
-          <a href="contact.php" class="btn btn-info">Contact Us</a>
+          <a href="getaquote.php" class="btn btn-info">Free Quote</a>
         </div>
       </div>
     </div>

@@ -1,6 +1,6 @@
 <nav class="navbar sticky-top navbar-expand-lg bg-body-tertiary bg-main" data-bs-theme="dark">
   <div class="container">
-    <a class="navbar-brand" href="#"><h1 class="brand"> <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span></h1></a>
+    <a class="navbar-brand" href="index.php"><h1 class="brand"> <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span></h1></a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>

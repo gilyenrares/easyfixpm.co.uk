@@ -231,46 +231,8 @@
   </div>
   <!-- ======= End project Item ======= -->
 
-  <section
-	class="divider img mb-1"
-	style="background: url(assets/img/banners/workers-banner.jpg)"
->
-	<div class="overlay"></div>
-	<div class="container-xl">
-		<div class="row">
-			<div class="col-lg-10 col-xl-10">
-				<div class="row">
-					<div
-						class="col-md-8 d-flex align-items-center "
-						data-aos="fade-up"
-						data-aos-delay="100"
-						data-aos-duration="1000"
-					>
-						<div>
-							<span class="subheading"> We Can Finish Your Big &amp; Small Projects</span
-							>
-							<h1 class="mb-md-0 mb-4">We Are Here</br> To Get The Job Done</h1>
-						</div>
-					</div>
-					<div
-						class="col-md-4 d-flex align-items-center"
-						data-aos="fade-up"
-						data-aos-delay="100"
-						data-aos-duration="1000"
-					>
-						<p class="mb-0">
-							<a
-								href="tel:+44 7397 879010"
-								class="btn btn-primary py-md-4 py-3 px-md-5 px-4"
-								><i class="bi bi-telephone-outbound"></i> CALL US TODAY <i class="bi bi-telephone-outbound"></i></i></a
-							>
-						</p>
-					</div>
-				</div>
-			</div>
-		</div>
-	</div>
-</section>
+<!-- Company area -->
+<?php include "assets/sections/company-banner.sec.php" ?>
 
 
   <!-- ======= Project Item ======= -->
@@ -348,23 +310,8 @@
   </div>
   <!-- ======= End project Item ======= -->
 
-  <!-- ======= Hero Section ======= -->
-  <section id="hero" class="s-hero mb-1">
-    <div class="hero-container">
-      <div data-aos="fade-up">
-        <h1 class="brand"><span class="bg-light px-2"><b>Easy</b><i>Fix</i></span></h1>
-        <h2 class="m-0">We operate in<span class="typed"
-            data-typed-items="South, West, North,  "></span> London</h2>
-        <p class="text-danger"><i class="bi bi-arrow-down-circle"></i> 
-        For more details contact us 
-        <i class="bi bi-arrow-down-circle"></i></p>
-        <div class="actions pb-2">
-          <a href="contact.php" class="btn btn-outline-danger">Contact</a>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- End Hero -->
+ <!-- Operation area -->
+<?php include "assets/sections/area-banner.sec.php" ?>
 
   <!-- ======= Project Item ======= -->
   <div class="project-item" style="background-image: url(assets/img/projects/16/e2.jpg)">
