@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>EasyFix - About Us</title>
+  <title>EasyFix - Contact Us</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -107,7 +107,7 @@
         <!-- Contact form -->
         <div class="row justify-content-center mt-4">
           <div class="col-lg-9">
-            <form action="assets/includes/quote.inc.php" method="post" class="php-email-form">
+            <form action="assets/includes/contact.inc.php" method="post" class="php-email-form">
               <div class="row">
                 <div class="col-md-6 form-group">
                  <input type="text" class="form-control" name="name" id="name" placeholder="Your Name" value="<?php if (isset($_GET['name'])) {echo $_GET['name'];} ?>" required="required">

@@ -52,8 +52,8 @@ if (isset($_POST['quote-submit'])) {
   }
   else {
 
-      // Sending an copy of the enquery to the contact-us email
-      $to = "gilyenrares@gmail.com";
+      // Sending an copy of the enquery to the info email info@easyfixpm.co.uk
+      $to = "info@easyfixpm.co.uk";
       $subject = 'Quote request from: '.$email;
       $message = "Email generated automatically by Easy Fix on behalf of: \r\n";
       $message .= $title." ";

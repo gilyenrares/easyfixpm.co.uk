@@ -140,36 +140,8 @@
   </div>
 </div>
 
-
-<!-- ======= Hero Section ======= -->
-  <section id="hero" class="s-hero">
-    <div class="hero-container">
-      <div data-aos="fade-in">
-        <!-- <div class="hero-logo">
-          <img class="" src="assets/img/logo.png" alt="EasyFix Logo">
-        </div> -->
-
-        <h1 class="brand"><span class="bg-light px-2"><b>Easy</b><i>Fix</i></span></h1>
-        <h2 class="m-0">We operate in<span class="typed"
-            data-typed-items="South, West, North,  "></span> London</h2>
-        <p class="text-danger"><i class="bi bi-arrow-down-circle"></i> 
-        For more details contact us 
-        <i class="bi bi-arrow-down-circle"></i></p>
-        <div class="actions pb-2">
-          <a href="contact.php" class="btn btn-outline-danger">Contact</a>
-        </div>
-      </div>
-    </div>
-  </section>
-  <!-- End Hero -->
-
-<div class="container my-5">
-  <div class="s-link">
-    </div>
-  	<section class="p-3">
-    	<img src="assets/img/service-area.jpg" class="rounded w-100" alt="Marked area of South-West London">
-	</section>
-</div>
+<!-- Operation area -->
+<?php include "assets/sections/operation-area.sec.php" ?>
 
 <!-- Footer -->
 <?php include "assets/sections/footer.sec.php" ?>
