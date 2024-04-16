@@ -18,7 +18,7 @@
 							<span class="subheading"
 								>You May Contact Us For Construction &amp; Renovation Work</span
 							>
-							<h1 class="mb-md-0 mb-4">We Are A Great</br> Construction Company</h1>
+							<h1 class="mb-md-0 mb-4">We Are A Great </br> Team Of Sole Traders</h1>
 						</div>
 					</div>
 					<div
