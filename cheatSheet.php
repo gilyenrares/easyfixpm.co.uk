@@ -13,6 +13,10 @@
 <?php include "assets/sections/footer.sec.php" ?>
 
 
+<!-- Callback Form -->
+<?php include "assets/sections/form-callback.sec.php" ?>
+
+
 
 <!-- Company banner -->
 <?php include "assets/sections/banner-company.sec.php" ?>
@@ -36,8 +40,33 @@
 <!-- Gardening Carousel -->
 <?php include "assets/sections/carousel-g.sec.php" ?>
 
+<!-- Repairs Carousel -->
+<?php include "assets/sections/carousel-rep.sec.php" ?>
 
 
+  <!-- =======Small Hero Section ======= -->
+  <section id="hero" class="s-hero">
+    <div class="hero-container">
+  
+    </div>
+  </section>
+  <!-- End Hero -->
+
+  <!-- =======Medium Hero Section ======= -->
+  <section id="hero" class="m-hero">
+    <div class="hero-container">
+  
+    </div>
+  </section>
+  <!-- End Hero -->
+
+<!-- =======Large Hero Section ======= -->
+  <section id="hero" >
+    <div class="hero-container">
+  
+    </div>
+  </section>
+  <!-- End Hero -->
 
 
 

@@ -381,6 +381,68 @@
 	</div>
 </div>
 <!-- End Service Item -->
+      			<div
+	class="col-md-4"
+	data-aos="fade-up"
+	data-aos-delay="100"
+	data-aos-duration="1000"
+>
+	<h2 class="gallery-item-title text-center">Repairs</h2>
+	<!-- Modal -->
+	<div
+		class="modal modal-xl fade"
+		id="repModal"
+		tabindex="-1"
+		aria-labelledby="repModalLabel"
+		aria-hidden="true"
+	>
+		<div class="modal-dialog modal-dialog-centered">
+			<div class="modal-content text-bg-dark">
+				<div class="modal-header">
+					<h1 class="modal-title fs-5 brand" id="repModalLabel">
+						<span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> Repairs
+					</h1>
+					<button
+						type="button"
+						class="btn-close"
+						data-bs-dismiss="modal"
+						aria-label="Close"
+					></button>
+				</div>
+				<div class="modal-body">
+					<!-- Repairs Carousel -->
+				<?php include "assets/sections/carousel-rep.sec.php" ?>
+				</div>
+				<div class="modal-footer">
+					<a href="services.php" class="btn btn-primary">
+						Find Out More <i class="bi bi-box-arrow-up-right"></i>
+					</a>
+					<button type="button" class="btn btn-danger" data-bs-dismiss="modal">
+						Close
+					</button>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- End Modal -->
+	<div class="gallery-item h-100">
+		<img src="assets/img/banners/handyman.jpg" class="img-fluid" alt="" />
+		<div class="gallery-links d-flex align-items-center justify-content-center">
+			<a
+				href="#"
+				title="Repairs"
+				data-bs-toggle="modal"
+				data-bs-target="#repModal"
+			>
+				<i class="bi bi-arrows-angle-expand"></i
+			></a>
+			<a href="services.php" class="details-link"
+				><i class="bi bi-link-45deg"></i
+			></a>
+		</div>
+	</div>
+</div>
+<!-- End Service Item -->
 			<!-- End Service Item -->
       <div class="col-md-4" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000">
 				<h2 class="gallery-item-title text-center">Repairs Jobs</h2>

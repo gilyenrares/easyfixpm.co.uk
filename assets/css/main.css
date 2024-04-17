@@ -1081,6 +1081,8 @@ h6 {
 }
 
 .contact .php-email-form input,
+.contact .php-email-form select,
+.contact .php-email-form option,
 .contact .php-email-form textarea {
   border-radius: 4px;
   box-shadow: none;
@@ -1105,6 +1107,12 @@ h6 {
   color: #fff;
   transition: 0.4s;
   border-radius: 4px;
+}
+.credits i{
+  color: var(--color-default);
+}
+.credits a{
+  color: var(--color-primary);
 }
 
 .form-control::placeholder{

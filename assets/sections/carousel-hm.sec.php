@@ -1,6 +1,5 @@
 <!-- ======= Carousel Section ======= -->
 
-<div class="container py-5 text-center">
 <div id="hm-ref" class="carousel slide carousel-fade" data-bs-ride="carousel">
   <div class="carousel-indicators">
     <button type="button" data-bs-target="#hm-ref" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -62,7 +61,5 @@
     <span class="carousel-control-next-icon" aria-hidden="true"></span>
     <span class="visually-hidden">Next</span>
   </button>
-</div>
-
 </div>
 <!-- ======= End Carousel Section ======= -->
