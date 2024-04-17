@@ -90,21 +90,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <!-- Footer -->
 <?php include "assets/sections/footer.sec.php" ?>
 <!-- Back to top of the page -->

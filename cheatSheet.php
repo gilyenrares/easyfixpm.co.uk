@@ -43,6 +43,9 @@
 <!-- Repairs Carousel -->
 <?php include "assets/sections/carousel-rep.sec.php" ?>
 
+<!-- Other Services Carousel -->
+<?php include "assets/sections/carousel-os.sec.php" ?>
+
 
   <!-- =======Small Hero Section ======= -->
   <section id="hero" class="s-hero">

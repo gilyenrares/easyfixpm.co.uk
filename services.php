@@ -123,6 +123,9 @@
 <!-- Operation area -->
 <?php include "assets/sections/banner-area.sec.php" ?>
 
+<!-- Other Services Carousel -->
+<?php include "assets/sections/carousel-os.sec.php" ?>
+
 <!-- Footer -->
 <?php include "assets/sections/footer.sec.php" ?>
 <!-- Back to top of the page -->
