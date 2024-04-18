@@ -42,6 +42,38 @@
           </div><!-- End Info Item -->
 
         </div>
+        <hr class="mt-4">
+        <!-- <div class="container  text-center">
+          <div class="row d-flex align-items-center justify-content-md-center">
+            <div id="cover" class="col-12 col-md-4"></div>
+            <div class="col-12 col-md-4 text-white" >
+              <h2 class="brand"><span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> property maintenance</h2>
+              <p>We can help you whether you’re a homeowner, developer, landlord or a business with anything from a full refurbishment to replacing a socket – and everything in between!</p>
+            </div>
+            <div class="col-12 col-md-2 text-white" >
+              <h2 class="brand">Services</h2>
+              <ul class="list-group list-group-flush">
+                <li >An item</li>
+                <li>A second item</li>
+                <li >A third item</li>
+                <li >A fourth item</li>
+                <li >And a fifth one</li>
+              </ul>
+            </div>
+            <div class="col-12 col-md-2 text-white" >
+              <h2 class="brand">Services</h2>
+              <ul class="list-group list-group-flush">
+                <li >An item</li>
+                <li>A second item</li>
+                <li >A third item</li>
+                <li >A fourth item</li>
+                <li >And a fifth one</li>
+              </ul>
+            </div>
+          </div>
+        </div> -->
+
+
         <!-- Contact form -->
         <div class="row justify-content-center mt-4">
           <div class="col-lg-9">

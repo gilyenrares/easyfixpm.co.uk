@@ -9,6 +9,7 @@
 </script>
   <!-- Favicons -->
   <link href="assets/img/favicon.ico" rel="icon">
+  <link href="assets/img/favicon-32x32.png" rel="x-icon">
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon">
 
   <!-- Google Fonts -->

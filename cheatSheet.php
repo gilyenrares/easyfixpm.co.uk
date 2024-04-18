@@ -50,6 +50,14 @@
 <?php include "assets/sections/carousel-os.sec.php" ?>
 
 
+
+<!-- Project 1 Carousel -->
+<?php include "assets/sections/carousel-p1.sec.php" ?>
+
+<!-- Project 2 Carousel -->
+<?php include "assets/sections/carousel-p2.sec.php" ?>
+
+
   <!-- =======Small Hero Section ======= -->
   <section id="hero" class="s-hero">
     <div class="hero-container">
@@ -75,8 +83,26 @@
   <!-- End Hero -->
 
 
+cwebp b1.jpg -o b1.webp
+cwebp b2.jpg -o b2.webp
+cwebp b3.jpg -o b3.webp
+cwebp b4.jpg -o b4.webp
+cwebp b5.jpg -o b5.webp
+cwebp b6.jpg -o b6.webp
 
-cwebp workers-banner.jpg -o workers-banner.webp
+cwebp m1.jpg -o m1.webp
+cwebp m2.jpg -o m2.webp
+cwebp m3.jpg -o m3.webp
+cwebp m4.jpg -o m4.webp
+cwebp m5.jpg -o m5.webp
+cwebp m6.jpg -o m6.webp
+
+cwebp e1.jpg -o e1.webp
+cwebp e2.jpg -o e2.webp
+cwebp e3.jpg -o e3.webp
+cwebp e4.jpg -o e4.webp
+cwebp e5.jpg -o e5.webp
+cwebp e6.jpg -o e6.webp
 
 
 

@@ -91,7 +91,7 @@
 					<div class="gallery-item h-100">
 						<img src="assets/img/banners/patio.webp" class="img-fluid" alt="" />
 						<div class="gallery-links d-flex align-items-center justify-content-center">
-							<a href="#" title="Driveways & Patios" data-bs-toggle="modal" data-bs-target="#dpModal"> <i class="bi bi-arrows-angle-expand"></i></a>
+							<a href="#" class="details-arrow" title="Driveways & Patios" data-bs-toggle="modal" data-bs-target="#dpModal"> <i class="bi bi-arrows-angle-expand"></i></a>
 							<a href="services.php" class="details-link"><i class="bi bi-link-45deg"></i></a>
 						</div>
 					</div>
@@ -125,7 +125,7 @@
 					<div class="gallery-item h-100">
 						<img src="assets/img/banners/fencing.webp" class="img-fluid" alt="" />
 						<div class="gallery-links d-flex align-items-center justify-content-center">
-							<a href="#" title="Fencing" data-bs-toggle="modal" data-bs-target="#fModal"> <i class="bi bi-arrows-angle-expand"></i></a>
+							<a href="#" class="details-arrow" title="Fencing" data-bs-toggle="modal" data-bs-target="#fModal"> <i class="bi bi-arrows-angle-expand"></i></a>
 							<a href="services.php" class="details-link"><i class="bi bi-link-45deg"></i></a>
 						</div>
 					</div>
@@ -159,7 +159,7 @@
 					<div class="gallery-item h-100">
 						<img src="assets/img/banners/decorating.webp" class="img-fluid" alt="" />
 						<div class="gallery-links d-flex align-items-center justify-content-center">
-							<a href="#" title="Fencing" data-bs-toggle="modal" data-bs-target="#decoModal"> <i class="bi bi-arrows-angle-expand"></i></a>
+							<a href="#" class="details-arrow" title="Decorating" data-bs-toggle="modal" data-bs-target="#decoModal"> <i class="bi bi-arrows-angle-expand"></i></a>
 							<a href="services.php" class="details-link"><i class="bi bi-link-45deg"></i></a>
 						</div>
 					</div>
@@ -192,7 +192,7 @@
 					<div class="gallery-item h-100">
 						<img src="assets/img/banners/gardening.webp" class="img-fluid" alt="" />
 						<div class="gallery-links d-flex align-items-center justify-content-center">
-							<a href="#" title="Fencing" data-bs-toggle="modal" data-bs-target="#gModal"> <i class="bi bi-arrows-angle-expand"></i></a>
+							<a href="#" class="details-arrow" title="Gardening" data-bs-toggle="modal" data-bs-target="#gModal"> <i class="bi bi-arrows-angle-expand"></i></a>
 							<a href="services.php" class="details-link"><i class="bi bi-link-45deg"></i></a>
 						</div>
 					</div>
@@ -225,13 +225,13 @@
 					<div class="gallery-item h-100">
 						<img src="assets/img/banners/handyman.webp" class="img-fluid" alt="" />
 						<div class="gallery-links d-flex align-items-center justify-content-center">
-							<a href="#" title="Fencing" data-bs-toggle="modal" data-bs-target="#hmModal"> <i class="bi bi-arrows-angle-expand"></i></a>
+							<a href="#" class="details-arrow" title="Handymen" data-bs-toggle="modal" data-bs-target="#hmModal"> <i class="bi bi-arrows-angle-expand"></i></a>
 							<a href="services.php" class="details-link"><i class="bi bi-link-45deg"></i></a>
 						</div>
 					</div>
 				</div>
 				<!-- End Service Item -->
-				<div class="col-md-4" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
+				<div class="col-md-4" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000">
 					<h2 class="gallery-item-title text-center">Repairs</h2>
 					<!-- Modal -->
 					<div class="modal modal-xl fade" id="repModal" tabindex="-1" aria-labelledby="repModalLabel" aria-hidden="true">
@@ -258,7 +258,7 @@
 					<div class="gallery-item h-100">
 						<img src="assets/img/banners/repairs.webp" class="img-fluid" alt="" />
 						<div class="gallery-links d-flex align-items-center justify-content-center">
-							<a href="#" title="Repairs" data-bs-toggle="modal" data-bs-target="#repModal"> <i class="bi bi-arrows-angle-expand"></i></a>
+							<a href="#" class="details-arrow" title="Repairs" data-bs-toggle="modal" data-bs-target="#repModal"> <i class="bi bi-arrows-angle-expand"></i></a>
 							<a href="services.php" class="details-link"><i class="bi bi-link-45deg"></i></a>
 						</div>
 					</div>

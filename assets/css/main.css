@@ -48,6 +48,12 @@ h6 {
   font-family: var(--font-primary);
 }
 
+hr{
+  color: var(--color-default);
+  height: 3px;
+  margin: 0 15vw;
+}
+
 .brand span b {
   color: #000 !important;
 }
@@ -437,33 +443,7 @@ h6 {
 /*--------------------------------------------------------------
 # About Section
 --------------------------------------------------------------*/
-.about .content h2 {
-  font-weight: 700;
-  font-size: 24px;
-  color: var(--color-primary);
-}
 
-.about .content ul {
-  list-style: none;
-  padding: 0;
-}
-
-.about .content ul li {
-  margin-bottom: 20px;
-  display: flex;
-  align-items: center;
-}
-
-.about .content ul strong {
-  margin-right: 10px;
-}
-
-.about .content ul i {
-  font-size: 16px;
-  margin-right: 5px;
-  color: var(--color-primary);
-  line-height: 0;
-}
 
 /*--------------------------------------------------------------
 # Services Section
@@ -488,100 +468,6 @@ h6 {
 }
 
 /*--------------------------------------------------------------
-# Testimonials Section
---------------------------------------------------------------*/
-.testimonials {
-  margin-top: 80px;
-}
-
-.testimonials .testimonial-item {
-  box-sizing: content-box;
-  padding: 30px;
-  margin: 40px 30px;
-  background: var(--color-secondary);
-  min-height: 320px;
-  display: flex;
-  flex-direction: column;
-  text-align: center;
-  transition: 0.3s;
-}
-
-.testimonials .testimonial-item .stars {
-  margin-bottom: 15px;
-}
-
-.testimonials .testimonial-item .stars i {
-  color: #ffc107;
-  margin: 0 1px;
-}
-
-.testimonials .testimonial-item .testimonial-img {
-  width: 90px;
-  border-radius: 50%;
-  border: 5px solid #474a4d;
-  margin: 0 auto;
-}
-
-.testimonials .testimonial-item h3 {
-  font-size: 18px;
-  font-weight: bold;
-  margin: 10px 0 5px 0;
-  color: #fff;
-}
-
-.testimonials .testimonial-item h4 {
-  font-size: 14px;
-  color: rgba(255, 255, 255, 0.5);
-  margin: 0;
-}
-
-.testimonials .testimonial-item p {
-  font-style: italic;
-  margin: 0 auto 15px auto;
-}
-
-.testimonials .swiper-pagination {
-  margin-top: 20px;
-  position: relative;
-}
-
-.testimonials .swiper-pagination .swiper-pagination-bullet {
-  width: 12px;
-  height: 12px;
-  background-color: rgba(255, 255, 255, 0.2);
-  opacity: 1;
-}
-
-.testimonials .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: rgba(255, 255, 255, 0.5);
-}
-
-.testimonials .swiper-slide {
-  opacity: 0.3;
-}
-
-@media (max-width: 1199px) {
-  .testimonials .swiper-slide-active {
-    opacity: 1;
-  }
-
-  .testimonials .swiper-pagination {
-    margin-top: 0;
-  }
-
-  .testimonials .testimonial-item {
-    margin: 40px 20px;
-  }
-}
-
-@media (min-width: 1200px) {
-  .testimonials .swiper-slide-next {
-    opacity: 1;
-    transform: scale(1.12);
-  }
-}
-
-/*--------------------------------------------------------------
 # Services Section
 --------------------------------------------------------------*/
 .s-item{color: var(--color-gray);}
@@ -594,6 +480,15 @@ h6 {
   color: var(--color-primary);
 }
 
+.carousel-badge{
+  position: absolute;
+    right: 15%;
+    top: 1.25rem;
+    left: 15%;
+    padding-bottom: 1.25rem;
+    color: #fff;
+    text-align: center;
+  }
 
 .carousel-caption {
   background-color: rgba(0, 0, 0, 0.6);
@@ -647,21 +542,28 @@ h6 {
 }
 
 .gallery .gallery-links .preview-link,
+.gallery .gallery-links .details-arrow,
 .gallery .gallery-links .details-link {
   font-size: 20px;
   color: rgba(255, 255, 255, 0.5);
   transition: 0.3s;
   line-height: 1.2;
-  margin: 30px 8px 0 8px;
+  margin: 30px 20px 0 20px;
 }
 
 .gallery .gallery-links .preview-link:hover,
+.gallery .gallery-links .details-arrow:hover,
 .gallery .gallery-links .details-link:hover {
   color: #fff;
 }
 
 .gallery .gallery-links .details-link {
-  font-size: 30px;
+  font-size: 35px;
+  line-height: 0;
+}
+
+.gallery .gallery-links .details-arrow {
+  font-size: 23px;
   line-height: 0;
 }
 
@@ -670,6 +572,7 @@ h6 {
 }
 
 .gallery .gallery-item:hover .preview-link,
+.gallery .gallery-item:hover .details-arrow,
 .gallery .gallery-item:hover .details-link {
   margin-top: 0;
 }
@@ -925,39 +828,6 @@ h6 {
 .services .service-item:hover i {
   background: #1d1f20;
   color: #fff;
-}
-
-/*--------------------------------------------------------------
-# Pricing Section
---------------------------------------------------------------*/
-.pricing {
-  margin-top: 80px;
-}
-
-.pricing .pricing-item {
-  border-bottom: 1px dashed #474a4d;
-  width: 100%;
-  height: 100%;
-  padding: 0 0 15px 0;
-}
-
-.pricing .pricing-item h3 {
-  margin: 0;
-  font-size: 18px;
-  font-weight: 500;
-  color: rgba(255, 255, 255, 0.6);
-}
-
-.pricing .pricing-item h4 {
-  margin: 0;
-  font-size: 16px;
-}
-
-.asterisk {
-  font-family: Georgia, 'Times New Roman', Times, serif;
-  font-size: 13px;
-  font-style: italic;
-  padding: 0 0 15px 0;
 }
 
 /*--------------------------------------------------------------
