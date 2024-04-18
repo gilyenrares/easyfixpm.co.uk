@@ -14,9 +14,9 @@
 </head>
 <body>
   <!-- Preloader of the page -->
-  <div id="preloader">
+  <!-- <div id="preloader">
     <div class="line"></div>
-  </div>
+  </div> -->
 <!-- Info Banner -->
 <?php include 'assets/sections/info-banner.sec.php';?>
 

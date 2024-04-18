@@ -1,7 +1,7 @@
 <!-- ======= Company Section ======= -->
 <section
 	class="divider img"
-	style="background: url(assets/img/banners/workers-banner.jpg)"
+	style="background: url(assets/img/banners/workers-banner.webp)"
 >
 	<div class="overlay"></div>
 	<div class="container-xl">

@@ -14,9 +14,9 @@
 </head>
 <body>
   <!-- Preloader of the page -->
-  <div id="preloader">
+  <!-- <div id="preloader">
     <div class="line"></div>
-  </div>
+  </div> -->
 <!-- Info Banner -->
 <?php include 'assets/sections/info-banner.sec.php';?>
 
@@ -28,10 +28,6 @@
   <section id="hero" class="m-hero">
     <div class="hero-container">
       <div data-aos="fade-in">
-        <!-- <div class="hero-logo">
-          <img class="" src="assets/img/logo.png" alt="EasyFix Logo">
-        </div> -->
-
         <h1 class="brand">Get a free <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> quote</h1>
         <h2>Want your work done <span class="typed"
             data-typed-items="today, tomorrow, next week, other date, "></span></h2>

@@ -5,29 +5,32 @@
       <div class="container">
 
         <!-- Info items -->
-        <div class="row gy-4 justify-content-center">
+        <div class="row gy-4 d-flex justify-content-center">
 
-          <div class="col-lg-3">
+          <div class="col-lg-4">
             <div class="info-item d-flex">
               <i class="bi bi-geo-alt flex-shrink-0"></i>
               <div>
                 <h4>Location:</h4>
-                <p>London, United Kingdom</p>
-              </div>
-            </div>
-          </div><!-- End Info Item -->
-
-          <div class="col-lg-4">
-            <div class="info-item d-flex">
-              <i class="bi bi-envelope flex-shrink-0"></i>
-              <div>
-                <h4>Email:</h4>
-                <p>contact@easyfixpm.co.uk</p>
+                <p>Gloucestershire, United Kingdom</p>
               </div>
             </div>
           </div><!-- End Info Item -->
 
           <div class="col-lg-3">
+            <a href="mailto:info@easyfixpm.co.uk">
+            <div class="info-item d-flex">
+              <i class="bi bi-envelope flex-shrink-0"></i>
+              <div>
+                <h4>Email:</h4>
+                <p>info@easyfixpm.co.uk</p>
+              </div>
+            </div>
+            </a>
+          </div><!-- End Info Item -->
+
+          <div class="col-lg-2">
+            <a href="tel:+44 7397 879010">
             <div class="info-item d-flex">
               <i class="bi bi-phone flex-shrink-0"></i>
               <div>
@@ -35,6 +38,7 @@
                 <p>07397 879010</p>
               </div>
             </div>
+            </a>
           </div><!-- End Info Item -->
 
         </div>

@@ -3,6 +3,9 @@
 <!-- Links -->
 <?php include 'assets/sections/links.sec.php';?>
 
+<!-- Links -->
+<?php include 'assets/sections/google-tag.sec.php';?>
+
 <!-- Info Banner -->
 <?php include 'assets/sections/info-banner.sec.php';?>
 
@@ -73,7 +76,7 @@
 
 
 
-
+cwebp workers-banner.jpg -o workers-banner.webp
 
 
 
