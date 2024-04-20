@@ -27,7 +27,7 @@
 <!-- Operation area -->
 <?php include "assets/sections/banner-area.sec.php" ?>
 
-<!-- Auto List banner -->
+<!-- Auto List banner not finished-->
 <?php include "assets/sections/banner-auto-list.sec.php" ?>
 
 
