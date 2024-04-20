@@ -27,6 +27,9 @@
 <!-- Operation area -->
 <?php include "assets/sections/banner-area.sec.php" ?>
 
+<!-- Auto List banner -->
+<?php include "assets/sections/banner-auto-list.sec.php" ?>
+
 
 <!-- Driveways & Patios Carousel -->
 <?php include "assets/sections/carousel-dp.sec.php" ?>
@@ -56,6 +59,18 @@
 
 <!-- Project 2 Carousel -->
 <?php include "assets/sections/carousel-p2.sec.php" ?>
+
+<!-- Project 3 Carousel -->
+<?php include "assets/sections/carousel-p3.sec.php" ?>
+
+<!-- Project 4 Carousel -->
+<?php include "assets/sections/carousel-p4.sec.php" ?>
+
+<!-- Project 5 Carousel -->
+<?php include "assets/sections/carousel-p5.sec.php" ?>
+
+<!-- Project 6 Carousel -->
+<?php include "assets/sections/carousel-p6.sec.php" ?>
 
 
   <!-- =======Small Hero Section ======= -->
@@ -105,7 +120,7 @@ cwebp e5.jpg -o e5.webp
 cwebp e6.jpg -o e6.webp
 
 
-
+https://developers.google.com/speed/webp/docs/precompiled
 
 
 https://www.behance.net/gallery/61644063/Red-White-Web-Design-landing-page-theme

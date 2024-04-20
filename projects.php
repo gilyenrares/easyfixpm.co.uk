@@ -120,48 +120,114 @@
   <!-- ======= End project Item ======= -->
 
   <!-- ======= Project Item ======= -->
-  <div class="project-item" style="background-image: url(assets/img/projects/3/e3.jpg)">
+  <div class="project-item" style="background-image: url(assets/img/projects/3/e3.webp)">
     <div class="container" data-aos="fade-up">
       <div class="col-12 col-md-6 col-lg-4 project-item-details text-white rounded p-2 ps-3">
-        <h2 class="brand">Project three</h2>
+        <h2 class="brand">Metal Stairs</h2>
         <i class="bi bi-house-up-fill text-success"> Residential</i>
         <div class="row justify-content-between align-items-center pt-4">
-          <a class="col-4 pb-1 text-danger" href="#">View more <i class="bi bi-arrow-up-right-square"></i></a>
+          <a class="col-4 pb-1 text-danger" href="#" data-bs-toggle="modal" data-bs-target="#p3Modal">View more <i class="bi bi-arrow-up-right-square"></i></a>
           <h4 class="brand col-4 me-3"><span class="bg-light px-2"><b>Easy</b><i>Fix</i></span></h4>
         </div>
       </div>
     </div>
   </div>
+  <!-- Modal -->
+    <div class="modal modal-xl fade" id="p3Modal" tabindex="-1" aria-labelledby="p3ModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content text-bg-dark">
+          <div class="modal-header">
+            <h1 class="modal-title fs-5 brand" id="p3ModalLabel">
+              <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> Metal Stairs - Residential Project
+            </h1>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <!-- Project 3 Carousel -->
+            <?php include "assets/sections/carousel-p3.sec.php" ?>
+          </div>
+          <div class="modal-footer">
+            <a href="getaquote.php" class="btn btn-primary"> I Want A Quote <i class="bi bi-box-arrow-up-right"></i> </a>
+            <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End Modal -->
   <!-- ======= End project Item ======= -->
 
   <!-- ======= Project Item ======= -->
-  <div class="project-item" style="background-image: url(assets/img/projects/4/e2.jpg)">
+  <div class="project-item" style="background-image: url(assets/img/projects/4/e2.webp)">
     <div class="container" data-aos="fade-up">
       <div class="col-12 col-md-6 col-lg-4 project-item-details text-white rounded p-2 ps-3">
-        <h2 class="brand">Project four</h2>
+        <h2 class="brand">New Fence</h2>
         <i class="bi bi-house-up-fill text-success"> Residential</i>
         <div class="row justify-content-between align-items-center pt-4">
-          <a class="col-4 pb-1 text-danger" href="#">View more <i class="bi bi-arrow-up-right-square"></i></a>
+          <a class="col-4 pb-1 text-danger" href="#" data-bs-toggle="modal" data-bs-target="#p4Modal">View more <i class="bi bi-arrow-up-right-square"></i></a>
           <h4 class="brand col-4 me-3"><span class="bg-light px-2"><b>Easy</b><i>Fix</i></span></h4>
         </div>
       </div>
     </div>
   </div>
+  <!-- Modal -->
+    <div class="modal modal-xl fade" id="p4Modal" tabindex="-1" aria-labelledby="p4ModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content text-bg-dark">
+          <div class="modal-header">
+            <h1 class="modal-title fs-5 brand" id="p4ModalLabel">
+              <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> New Fence - Residential Project
+            </h1>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <!-- Project 4 Carousel -->
+            <?php include "assets/sections/carousel-p4.sec.php" ?>
+          </div>
+          <div class="modal-footer">
+            <a href="getaquote.php" class="btn btn-primary"> I Want A Quote <i class="bi bi-box-arrow-up-right"></i> </a>
+            <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End Modal -->
   <!-- ======= End project Item ======= -->
 
   <!-- ======= Project Item ======= -->
-  <div class="project-item" style="background-image: url(assets/img/projects/5/e1.jpg)">
+  <div class="project-item" style="background-image: url(assets/img/projects/5/e1.webp)">
     <div class="container" data-aos="fade-up">
       <div class="col-12 col-md-6 col-lg-4 project-item-details text-white rounded p-2 ps-3">
-        <h2 class="brand">Project five</h2>
+        <h2 class="brand">Parking Space</h2>
         <i class="bi bi-house-up-fill text-success"> Residential</i>
         <div class="row justify-content-between align-items-center pt-4">
-          <a class="col-4 pb-1 text-danger" href="#">View more <i class="bi bi-arrow-up-right-square"></i></a>
+          <a class="col-4 pb-1 text-danger" href="#" data-bs-toggle="modal" data-bs-target="#p5Modal">View more <i class="bi bi-arrow-up-right-square"></i></a>
           <h4 class="brand col-4 me-3"><span class="bg-light px-2"><b>Easy</b><i>Fix</i></span></h4>
         </div>
       </div>
     </div>
   </div>
+  <!-- Modal -->
+    <div class="modal modal-xl fade" id="p5Modal" tabindex="-1" aria-labelledby="p5ModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content text-bg-dark">
+          <div class="modal-header">
+            <h1 class="modal-title fs-5 brand" id="p5ModalLabel">
+              <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> Parking Space - Residential Project
+            </h1>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <!-- Project 5 Carousel -->
+            <?php include "assets/sections/carousel-p5.sec.php" ?>
+          </div>
+          <div class="modal-footer">
+            <a href="getaquote.php" class="btn btn-primary"> I Want A Quote <i class="bi bi-box-arrow-up-right"></i> </a>
+            <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End Modal -->
   <!-- ======= End project Item ======= -->
 
   <!-- ======= Hero Section ======= -->
@@ -182,19 +248,42 @@
   </section>
   <!-- End Hero Section-->
 
+
   <!-- ======= Project Item ======= -->
-  <div class="project-item" style="background-image: url(assets/img/projects/6/e3.jpg)">
+  <div class="project-item" style="background-image: url(assets/img/projects/6/e3.webp)">
     <div class="container" data-aos="fade-up">
       <div class="col-12 col-md-6 col-lg-4 project-item-details text-white rounded p-2 ps-3">
-        <h2 class="brand">Project six</h2>
+        <h2 class="brand">Wood Panelling</h2>
         <i class="bi bi-house-up-fill text-success"> Residential</i>
         <div class="row justify-content-between align-items-center pt-4">
-          <a class="col-4 pb-1 text-danger" href="#">View more <i class="bi bi-arrow-up-right-square"></i></a>
+          <a class="col-4 pb-1 text-danger" href="#" data-bs-toggle="modal" data-bs-target="#p6Modal">View more <i class="bi bi-arrow-up-right-square"></i></a>
           <h4 class="brand col-4 me-3"><span class="bg-light px-2"><b>Easy</b><i>Fix</i></span></h4>
         </div>
       </div>
     </div>
   </div>
+  <!-- Modal -->
+    <div class="modal modal-xl fade" id="p6Modal" tabindex="-1" aria-labelledby="p6ModalLabel" aria-hidden="true">
+      <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content text-bg-dark">
+          <div class="modal-header">
+            <h1 class="modal-title fs-5 brand" id="p6ModalLabel">
+              <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span>Wood Panelling - Residential Project
+            </h1>
+            <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+          </div>
+          <div class="modal-body">
+            <!-- Project 6 Carousel -->
+            <?php include "assets/sections/carousel-p6.sec.php" ?>
+          </div>
+          <div class="modal-footer">
+            <a href="getaquote.php" class="btn btn-primary"> I Want A Quote <i class="bi bi-box-arrow-up-right"></i> </a>
+            <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End Modal -->
   <!-- ======= End project Item ======= -->
 
   <!-- ======= Project Item ======= -->
