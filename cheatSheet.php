@@ -81,6 +81,9 @@
 <!-- Project 9 Carousel -->
 <?php include "assets/sections/carousel-p9.sec.php" ?>
 
+<!-- Project 10 Carousel -->
+<?php include "assets/sections/carousel-p10.sec.php" ?>
+
 
   <!-- =======Small Hero Section ======= -->
   <section id="hero" class="s-hero">
