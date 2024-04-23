@@ -195,8 +195,8 @@
     class="pagination justify-content-center my-2"
   >
     <li class="page-item">
-      <a class="page-link" href="projects.php?page=1" aria-label="Previous"> Previous 
-        <span aria-hidden="true">&laquo;</span>
+      <a class="page-link" href="projects.php?page=1" aria-label="Previous">
+        <span aria-hidden="true">&laquo;</span> Previous
       </a>
     </li>
     <li class="page-item" aria-current="page">

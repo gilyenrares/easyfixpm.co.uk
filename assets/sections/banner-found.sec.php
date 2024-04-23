@@ -9,7 +9,7 @@
         Contact us for free
         <i class="bi bi-arrow-down-circle"></i></p>
         <div class="actions pb-2">
-          <a href="contact.php" class="btn btn-outline-danger">Contact</a>
+          <a href="contact.php" class="btn btn-danger">Contact</a>
         </div>
       </div>
     </div>

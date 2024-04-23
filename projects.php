@@ -50,9 +50,13 @@
     include "assets/sections/projects-1to5.sec.php";
   }elseif($page==2){
     include "assets/sections/projects-6to10.sec.php";
-  }
-  
-
+  }elseif($page==3){
+    include "assets/sections/projects-11to15.sec.php";
+  }elseif($page==4){
+    include "assets/sections/projects-16to20.sec.php";
+  }else {
+  include "assets/sections/projects-1to5.sec.php";
+}
 } else {
   include "assets/sections/projects-1to5.sec.php";
 }?>

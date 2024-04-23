@@ -197,8 +197,8 @@
     class="pagination justify-content-center my-2"
   >
     <li class="page-item disabled">
-      <a class="page-link" href="#" aria-label="Previous"> Previous 
-        <span aria-hidden="true">&laquo;</span>
+      <a class="page-link" href="#" aria-label="Previous">
+        <span aria-hidden="true">&laquo;</span> Previous
       </a>
     </li>
     <li class="page-item active" aria-current="page">

@@ -5,7 +5,7 @@
   <div class="modal-dialog modal-dialog-centered">
     <div class="modal-content text-bg-dark">
       <div class="modal-header">
-        <h1 class="modal-title fs-5" id="areaModalLabel">Areas We Cover</h1>
+        <h1 class="modal-title fs-5" id="areaModalLabel"><i class="fi fi-sr-land-layer-location"></i> Areas We Cover</h1>
         <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
       </div>
       <div class="modal-body"> 
@@ -27,10 +27,11 @@
         For more details contact us 
         <i class="bi bi-arrow-down-circle"></i></p>
         <div class="actions pb-2">
-          <a href="contact.php" class="btn btn-primary">Contact</a>
+          <a href="contact.php" class="btn btn-primary">Contact <i class="bi bi-box-arrow-up-right"></i></a>
           <!-- Button trigger modal -->
           <button type="button" class="btn btn-success py-2 px-4" data-bs-toggle="modal" data-bs-target="#areaModal">
-          Show area
+          Show area 
+						<i class="fi fi-sr-land-layer-location"></i>
           </button>
         </div>
       </div>
