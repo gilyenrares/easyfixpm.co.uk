@@ -1,4 +1,4 @@
-<!-- Callback form -->
+<!--------- Callback form ----------->
 <div class="row justify-content-center pt-3 bg-main rounded">
 	<h2 class="brand text-white">
 		Let <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> call you
@@ -37,3 +37,4 @@
 		</div>
 	</div>
 </div>
+<!-- End Form -->

@@ -24,8 +24,11 @@
 <!-- Company banner -->
 <?php include "assets/sections/banner-company.sec.php" ?>
 
-<!-- Operation area -->
+<!-- Operation area banner -->
 <?php include "assets/sections/banner-area.sec.php" ?>
+
+<!-- Found something banner -->
+<?php include "assets/sections/banner-found.sec.php" ?>
 
 <!-- Auto List banner not finished-->
 <?php include "assets/sections/banner-auto-list.sec.php" ?>

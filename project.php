@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
-  <title>EasyFix - Contact Us</title>
+  <title>EasyFix - Project</title>
   <meta content="" name="description">
   <meta content="" name="keywords">
 
@@ -32,9 +32,9 @@
 </head>
 <body>
   <!-- Preloader of the page -->
-  <div id="preloader">
+  <!-- <div id="preloader">
     <div class="line"></div>
-  </div>
+  </div> -->
 <!-- Info Banner -->
 <?php include 'assets/sections/info-banner.sec.php';?>
 
@@ -42,54 +42,15 @@
 <?php include 'assets/sections/navigation.sec.php';?>
 
 <!-- Main body -->
-<!-- ======= Hero Section ======= -->
-<section id="hero" class="m-hero">
-	<div class="hero-container">
-		<div data-aos="fade-in">
-			<!-- <div class="hero-logo">
-          <img class="" src="assets/img/logo.png" alt="EasyFix Logo">
-        </div> -->
 
-			<h1 class="brand">
-				Project <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span>
-			</h1>
-			<h2>Project highlights <span class="typed" data-typed-items="Motivated, Experienced, Professional, Fair, Family, "></span></h2>
-			<div class="actions">
-				<a href="getaquote.php" class="btn btn-outline-primary">Get Your Free Quote</a>
-			</div>
-		</div>
-	</div>
-</section>
-<!-- End Hero -->
-<!-- ======= Hero Section ======= -->
-<section id="hero" class="s-hero">
-	<div class="hero-container py-5">
-		<!-- Driveways & Patios Carousel -->
-		<?php include "assets/sections/carousel-g.sec.php" ?>
-	</div>
-</section>
-<!-- End Hero -->
-
-<div class="container py-5 text-center">
-	<div class="row d-flex align-items-center justify-content-md-center">
-		<div class="col-12 col-md-8" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
-			<h2 class="brand">
-				<span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> property maintenance
-			</h2>
-			<h3>Job Brief</h3>
-			<p>We can help you whether you’re a homeowner, developer, landlord or a business with anything from a full refurbishment to replacing a socket – and everything in between!</p>
-			<h3>The Solution</h3>
-			<p>We can help you whether you’re a homeowner, developer, landlord or a business with anything from a full refurbishment to replacing a socket – and everything in between!</p>
-		</div>
-		<div class="col-12 col-md-4" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
+<!-- Project Builder -->
+<?php include "assets/includes/project-open.inc.php" ?>
+<div class="col-12 col-md-4" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
 			<!-- Callback Form -->
 			<?php include "assets/sections/form-callback.sec.php" ?>
 		</div>
 	</div>
 </div>
-
-
-
 <!-- Footer -->
 <?php include "assets/sections/footer.sec.php" ?>
 <!-- Back to top of the page -->

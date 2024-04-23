@@ -1,6 +1,6 @@
 <div class="bg-dark">
     <div class="container">
-    	<div class="row justify-content-lg-between">
+    	<div class="row justify-content-between">
             <div class="col-sm-4">
                 <div class="row my-2 justify-content-between">
                      <div class="header-social-links">
