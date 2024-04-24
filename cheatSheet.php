@@ -30,8 +30,8 @@
 <!-- Found something banner -->
 <?php include "assets/sections/banner-found.sec.php" ?>
 
-<!-- Auto List banner not finished-->
-<?php include "assets/sections/banner-auto-list.sec.php" ?>
+<!-- Latest Project banner -->
+<?php include "assets/sections/banner-projects.sec.php" ?>
 
 
 <!-- Driveways & Patios Carousel -->

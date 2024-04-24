@@ -69,6 +69,14 @@
 
     	<p>We work hand-in-hand with our clients, providing regular updates on progress with their specific project. From the first site visit, estimate and schedule of works through to completion, we are there for you every step of the way.</p>
     </div>
+  </div>
+</div>
+
+<!-- Latest Project banner -->
+<?php include "assets/sections/banner-projects.sec.php" ?>
+
+<div class="container py-5 text-center">
+  <div class="row d-flex align-items-center justify-content-md-center">
     <div class="col-12">
       <p>Previously completed projects are available on our <a class="text-danger" href="projects.php"> Project <i class="bi bi-box-arrow-up-right"></i></a> page, these can give you an idea of the quality and pride taken in our work. Please also feel free to visit our <a class="text-danger" href="projects.php"> Services <i class="bi bi-box-arrow-up-right"></i></a> page for more details about our services.</p>
 
@@ -80,8 +88,7 @@
     </div>
   </div>
 </div>
-<!-- Auto List banner not finished-->
-<?php include "assets/sections/banner-auto-list.sec.php" ?>
+
 <!-- Operation area -->
 <?php include "assets/sections/banner-area.sec.php" ?>
 

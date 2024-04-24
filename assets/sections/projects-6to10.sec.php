@@ -1,3 +1,31 @@
+<!-- Pagination -->
+<nav aria-label="Page navigation">
+  <ul
+    class="pagination justify-content-center py-3"
+  >
+    <li class="page-item">
+      <a class="page-link" href="projects.php?page=1" aria-label="Previous">
+        <span aria-hidden="true">&laquo;</span> Previous
+      </a>
+    </li>
+    <li class="page-item" aria-current="page">
+      <a class="page-link" href="projects.php?page=1">1</a>
+    </li>
+    <li class="page-item active"><a class="page-link" href="projects.php?page=2">2</a></li>
+    <li class="page-item">
+      <a class="page-link" href="projects.php?page=3">3</a>
+    </li>
+    <li class="page-item">
+      <a class="page-link" href="projects.php?page=4">4</a>
+    </li>
+    <li class="page-item">
+      <a class="page-link" href="projects.php?page=3" aria-label="Next"> Next 
+        <span aria-hidden="true">&raquo;</span>
+      </a>
+    </li>
+  </ul>
+</nav>
+<!-- End pagination -->
 <!-- ======= Project Item ======= -->
   <div class="project-item" style="background-image: url(assets/img/projects/6/e3.webp)">
     <div class="container" data-aos="fade-up">
@@ -192,7 +220,7 @@
 <!-- Pagination -->
 <nav aria-label="Page navigation">
   <ul
-    class="pagination justify-content-center my-2"
+    class="pagination justify-content-center py-3"
   >
     <li class="page-item">
       <a class="page-link" href="projects.php?page=1" aria-label="Previous">
