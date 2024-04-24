@@ -66,6 +66,7 @@
           </div>
           <div class="modal-footer">
             <a href="getaquote.php" class="btn btn-primary"> I Want A Quote <i class="bi bi-box-arrow-up-right"></i> </a>
+            <a href="project.php?project=Garden%20Refurbishment&id=2" class="btn btn-info"> Project Page <i class="bi bi-box-arrow-up-right"></i> </a>
             <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
           </div>
         </div>

@@ -80,7 +80,8 @@
     </div>
   </div>
 </div>
-
+<!-- Auto List banner not finished-->
+<?php include "assets/sections/banner-auto-list.sec.php" ?>
 <!-- Operation area -->
 <?php include "assets/sections/banner-area.sec.php" ?>
 

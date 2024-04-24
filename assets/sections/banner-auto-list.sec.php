@@ -1,43 +1,55 @@
 <!-- ======= Auto List Section ======= -->
-<section
-	class="divider img"
-	style="background: url(assets/img/banners/workers-banner.webp)"
->
-	<div class="overlay"></div>
-	<div class="container-xl">
-		<div class="row">
-			<div class="col-lg-10 col-xl-10">
-				<div class="row">
-					<div
-						class="col-md-8 d-flex align-items-center "
-						data-aos="fade-up"
-						data-aos-delay="100"
-						data-aos-duration="1000"
-					>
-						<div>
-							<span class="subheading"
-								>You May Contact Us For Construction &amp; Renovation Work</span
-							>
-							<h1 class="mb-md-0 mb-4">We Are A Great </br> Team Of Sole Traders</h1>
-						</div>
-					</div>
-					<div
-						class="col-md-4 d-flex "
-					>
-						<ul class="auto-list">
-              <li>Garden patio. </li>
-              <li>Garden Refurbishment.</li>
-              <li>Metal Stairs.</li>
-              <li>New Fence.</li>
-              <li>Parking Space.</li>
-              <li>Wood Panelling.</li>
-              <li>Lorem, ipsum.</li>
-              <li>Lorem ipsum dolor sit.</li>
-              <li>Lorem, ipsum.</li>
-              <li>Lorem ipsum dolor sit.</li>
-            </ul>
-					</div>
-				</div>
+<section id="hero" class="s-hero">
+	<div class="hero-container">
+		<div class="spinner-container">
+			<div class="carousel-card" id="far-left">
+				<img class="carousel-img" src="assets/img/projects/1/e1.webp" alt="" />
+				<h3 class="carousel-title">TEST 1</h3>
+				
+			</div>
+			<div class="carousel-card" id="left">
+				<img class="carousel-img" src="assets/img/projects/2/e4.webp" alt="" />
+				<h3 class="carousel-title">TEST 2</h3>
+			</div>
+			<div class="carousel-card" id="center">
+				<img class="carousel-icon" src="https://placeimg.com/75/75/tech/grayscale" alt="" />
+				<h3 class="carousel-title">TEST 3</h3>
+				<p class="carousel-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+			</div>
+			<div class="carousel-card" id="right">
+				<img class="carousel-icon" src="https://placeimg.com/75/75/tech/grayscale" alt="" />
+				<h3 class="carousel-title">TEST 4</h3>
+				<p class="carousel-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+			</div>
+			<div class="carousel-card" id="far-right">
+				<img class="carousel-icon" src="https://placeimg.com/75/75/tech/grayscale" alt="" />
+				<h3 class="carousel-title">TEST 5</h3>
+				<p class="carousel-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+			</div>
+			<div class="carousel-card" id="behind-far-right">
+				<img class="carousel-icon" src="https://placeimg.com/75/75/tech/grayscale" alt="" />
+				<h3 class="carousel-title">TEST 6</h3>
+				<p class="carousel-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+			</div>
+			<div class="carousel-card" id="behind-right">
+				<img class="carousel-icon" src="https://placeimg.com/75/75/tech/grayscale" alt="" />
+				<h3 class="carousel-title">TEST 7</h3>
+				<p class="carousel-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+			</div>
+			<div class="carousel-card" id="behind">
+				<img class="carousel-icon" src="https://placeimg.com/75/75/tech/grayscale" alt="" />
+				<h3 class="carousel-title">TEST 8</h3>
+				<p class="carousel-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+			</div>
+			<div class="carousel-card" id="behind-left">
+				<img class="carousel-icon" src="https://placeimg.com/75/75/tech/grayscale" alt="" />
+				<h3 class="carousel-title">TEST 9</h3>
+				<p class="carousel-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+			</div>
+			<div class="carousel-card" id="behind-far-left">
+				<img class="carousel-icon" src="https://placeimg.com/75/75/tech/grayscale" alt="" />
+				<h3 class="carousel-title">TEST 10</h3>
+				<p class="carousel-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
 			</div>
 		</div>
 	</div>
