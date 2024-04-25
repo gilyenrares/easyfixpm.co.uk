@@ -5,8 +5,7 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
   <title>EasyFix - Contact Us</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+  <meta content="Contact EasyFix property maintenance for almost any king of jobs in or around your residential or commercial property in Gloucestershire area." name="description">
 
   <!-- Links -->
 <?php include 'assets/sections/links.sec.php';?>
@@ -28,10 +27,6 @@
   <section id="hero" class="m-hero">
     <div class="hero-container">
       <div data-aos="fade-in">
-        <!-- <div class="hero-logo">
-          <img class="" src="assets/img/logo.png" alt="EasyFix Logo">
-        </div> -->
-
         <h1 class="brand">Contact <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span></h1>
         <h2>Get in touch regarding <span class="typed"
             data-typed-items="new work, current work, more information, , "></span></h2>

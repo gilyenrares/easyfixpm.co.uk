@@ -5,8 +5,7 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
   <title>EasyFix - Services</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+  <meta content="Services that EasyFix property maintenance provides to residential and commercial domain in Gloucestershire area." name="description">
 
 <!-- Links -->
 <?php include 'assets/sections/links.sec.php';?>

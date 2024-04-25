@@ -5,8 +5,7 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
   <title>EasyFix - About Us</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+  <meta content="Learn more about our EasyFix property maintenance company powered by a group of skilled sole traders working in Gloucestershire area." name="description">
 
  <!-- Links -->
 <?php include 'assets/sections/links.sec.php';?>
@@ -14,9 +13,9 @@
 </head>
 <body>
   <!-- Preloader of the page -->
-  <!-- <div id="preloader">
+  <div id="preloader">
     <div class="line"></div>
-  </div> -->
+  </div>
 <!-- Info Banner -->
 <?php include 'assets/sections/info-banner.sec.php';?>
 
@@ -28,10 +27,6 @@
   <section id="hero" class="m-hero">
     <div class="hero-container">
       <div data-aos="fade-in">
-        <!-- <div class="hero-logo">
-          <img class="" src="assets/img/logo.png" alt="EasyFix Logo">
-        </div> -->
-
         <h1 class="brand">About <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span></h1>
         <h2>We are a <span class="typed"
             data-typed-items="Motivated, Experienced, Professional, Fair, Family, "></span>company</h2>

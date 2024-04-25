@@ -5,8 +5,7 @@
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
 
   <title>EasyFix - Get a Quote</title>
-  <meta content="" name="description">
-  <meta content="" name="keywords">
+  <meta content="Get a free quote from EasyFix property maintenance for almost any king of jobs in or around your residential or commercial property in Gloucestershire area." name="description">
 
   <!-- Links -->
 <?php include 'assets/sections/links.sec.php';?>
