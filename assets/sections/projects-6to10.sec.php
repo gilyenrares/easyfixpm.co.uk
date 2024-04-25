@@ -29,7 +29,7 @@
 <!-- ======= Project Item ======= -->
   <div class="project-item" style="background-image: url(assets/img/projects/6/e3.webp)">
     <div class="container" data-aos="fade-up">
-      <div class="col-12 col-md-6 col-lg-4 project-item-details text-white rounded p-2 ps-3">
+      <div class="col-12 col-md-7 col-lg-5 project-item-details text-white rounded p-2 ps-3">
         <h2 class="brand">Wood Panelling</h2>
         <i class="bi bi-house-up-fill text-success"> Residential</i>
         <div class="row justify-content-between align-items-center pt-4">
@@ -55,6 +55,7 @@
           </div>
           <div class="modal-footer">
             <a href="getaquote.php" class="btn btn-primary"> I Want A Quote <i class="bi bi-box-arrow-up-right"></i> </a>
+            <a href="project.php?project=Wood%20Panelling&id=6" class="btn btn-info"> Project Page <i class="bi bi-box-arrow-up-right"></i> </a>
             <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
           </div>
         </div>
@@ -66,7 +67,7 @@
   <!-- ======= Project Item ======= -->
   <div class="project-item" style="background-image: url(assets/img/projects/7/e1.webp)">
     <div class="container" data-aos="fade-up">
-      <div class="col-12 col-md-6 col-lg-4 project-item-details text-white rounded p-2 ps-3">
+      <div class="col-12 col-md-7 col-lg-5 project-item-details text-white rounded p-2 ps-3">
         <h2 class="brand">New Fence & Gate</h2>
         <i class="bi bi-house-up-fill text-success"> Residential</i>
         <div class="row justify-content-between align-items-center pt-4">
@@ -92,6 +93,7 @@
           </div>
           <div class="modal-footer">
             <a href="getaquote.php" class="btn btn-primary"> I Want A Quote <i class="bi bi-box-arrow-up-right"></i> </a>
+            <a href="project.php?project=New%20Fence%20%26%20Gate&id=7" class="btn btn-info"> Project Page <i class="bi bi-box-arrow-up-right"></i> </a>
             <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
           </div>
         </div>
@@ -103,7 +105,7 @@
   <!-- ======= Project Item ======= -->
   <div class="project-item" style="background-image: url(assets/img/projects/8/m2.webp)">
     <div class="container" data-aos="fade-up">
-      <div class="col-12 col-md-6 col-lg-4 project-item-details text-white rounded p-2 ps-3">
+      <div class="col-12 col-md-7 col-lg-5 project-item-details text-white rounded p-2 ps-3">
         <h2 class="brand">Windows Painting</h2>
         <i class="bi bi-house-up-fill text-success"> Residential</i>
         <div class="row justify-content-between align-items-center pt-4">
@@ -129,6 +131,7 @@
           </div>
           <div class="modal-footer">
             <a href="getaquote.php" class="btn btn-primary"> I Want A Quote <i class="bi bi-box-arrow-up-right"></i> </a>
+            <a href="project.php?project=Windows%20Painting&id=8" class="btn btn-info"> Project Page <i class="bi bi-box-arrow-up-right"></i> </a>
             <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
           </div>
         </div>
@@ -143,7 +146,7 @@
   <!-- ======= Project Item ======= -->
   <div class="project-item" style="background-image: url(assets/img/projects/9/m2.webp)">
     <div class="container" data-aos="fade-up">
-      <div class="col-12 col-md-6 col-lg-4 project-item-details text-white rounded p-2 ps-3">
+      <div class="col-12 col-md-7 col-lg-5 project-item-details text-white rounded p-2 ps-3">
         <h2 class="brand">Window Painting</h2>
         <i class="bi bi-house-up-fill text-success"> Residential</i>
         <div class="row justify-content-between align-items-center pt-4">
@@ -169,6 +172,7 @@
           </div>
           <div class="modal-footer">
             <a href="getaquote.php" class="btn btn-primary"> I Want A Quote <i class="bi bi-box-arrow-up-right"></i> </a>
+            <a href="project.php?project=Window%20Repainting&id=9" class="btn btn-info"> Project Page <i class="bi bi-box-arrow-up-right"></i> </a>
             <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
           </div>
         </div>
@@ -180,7 +184,7 @@
   <!-- ======= Project Item ======= -->
   <div class="project-item" style="background-image: url(assets/img/projects/10/e1.webp)">
     <div class="container" data-aos="fade-up">
-      <div class="col-12 col-md-6 col-lg-4 project-item-details text-white rounded p-2 ps-3">
+      <div class="col-12 col-md-7 col-lg-5 project-item-details text-white rounded p-2 ps-3">
         <h2 class="brand">Window & door repaint</h2>
         <i class="bi bi-building-fill-up text-primary"> Commercial</i>
         <div class="row justify-content-between align-items-center pt-4">
@@ -206,6 +210,7 @@
           </div>
           <div class="modal-footer">
             <a href="getaquote.php" class="btn btn-primary"> I Want A Quote <i class="bi bi-box-arrow-up-right"></i> </a>
+            <a href="project.php?project=Window%20%26%20Door%20Repainting&id=10" class="btn btn-info"> Project Page <i class="bi bi-box-arrow-up-right"></i> </a>
             <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
           </div>
         </div>

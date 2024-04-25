@@ -80,7 +80,7 @@
     <div class="col-12">
       <p>EasyFix Property Maintenance is a small team of sole traders working in Gloucestershire area. We offer property maintenance from small jobs to complete projects for domestic and commercial premises. There is no job too small, and we can offer a quick estimated quote after an initial discussion. We're fully insured, friendly and professional.</p>
 
-      <p>Previously completed projects are available on our <a class="text-danger" href="projects.php"> Project <i class="bi bi-box-arrow-up-right"></i></a> page, these can give you an idea of the quality and pride taken in our work. Please also feel free to visit our <a class="text-danger" href="projects.php"> Services <i class="bi bi-box-arrow-up-right"></i></a> page for more details about our services.</p>
+      <p>Previously completed projects are available on our <a class="text-danger" href="projects.php"> Project <i class="bi bi-box-arrow-up-right"></i></a> page, these can give you an idea of the quality and pride taken in our work. Please also feel free to visit our <a class="text-danger" href="services.php"> Services <i class="bi bi-box-arrow-up-right"></i></a> page for more details about our services.</p>
 
 		  <p>Following initial inspection of your project, you will receive a planned, easy-to-follow estimate with a schedule of works. This means you can rest assured that you’re getting what you pay for, carried out to the highest of industry standards, at a competitive price – all with a personal service that cannot be beaten.</p>
 

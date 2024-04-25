@@ -29,7 +29,7 @@
  <!-- ======= Project Item ======= -->
   <div class="project-item" style="background-image: url(assets/img/projects/16/e2.jpg)">
     <div class="container" data-aos="fade-up">
-      <div class="col-12 col-md-6 col-lg-4 project-item-details text-white rounded p-2 ps-3">
+      <div class="col-12 col-md-7 col-lg-5 project-item-details text-white rounded p-2 ps-3">
         <h2 class="brand">Project sixteen</h2>
         <i class="bi bi-house-up-fill text-success"> Residential</i>
         <div class="row justify-content-between align-items-center pt-4">
@@ -44,7 +44,7 @@
   <!-- ======= Project Item ======= -->
   <div class="project-item" style="background-image: url(assets/img/projects/17/e8.jpg)">
     <div class="container" data-aos="fade-up">
-      <div class="col-12 col-md-6 col-lg-4 project-item-details text-white rounded p-2 ps-3">
+      <div class="col-12 col-md-7 col-lg-5 project-item-details text-white rounded p-2 ps-3">
         <h2 class="brand">Project seventeen</h2>
         <i class="bi bi-house-up-fill text-success"> Residential</i>
         <div class="row justify-content-between align-items-center pt-4">
@@ -62,7 +62,7 @@
   <!-- ======= Project Item ======= -->
   <div class="project-item" style="background-image: url(assets/img/projects/18/e2.jpg)">
     <div class="container" data-aos="fade-up">
-      <div class="col-12 col-md-6 col-lg-4 project-item-details text-white rounded p-2 ps-3">
+      <div class="col-12 col-md-7 col-lg-5 project-item-details text-white rounded p-2 ps-3">
         <h2 class="brand">Project eighteen</h2>
         <i class="bi bi-house-up-fill text-success"> Residential</i>
         <div class="row justify-content-between align-items-center pt-4">
@@ -77,7 +77,7 @@
   <!-- ======= Project Item ======= -->
   <div class="project-item" style="background-image: url(assets/img/projects/19/e3.jpg)">
     <div class="container" data-aos="fade-up">
-      <div class="col-12 col-md-6 col-lg-4 project-item-details text-white rounded p-2 ps-3">
+      <div class="col-12 col-md-7 col-lg-5 project-item-details text-white rounded p-2 ps-3">
         <h2 class="brand">Project nineteen</h2>
         <i class="bi bi-house-up-fill text-success"> Residential</i>
         <div class="row justify-content-between align-items-center pt-4">

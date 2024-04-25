@@ -33,14 +33,28 @@ if (isset($_GET['project'])) {
 <div class="container py-5 text-center">
 	<div class="row d-flex align-items-center justify-content-md-center">
 		<div class="col-12 col-md-8" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
-			<h2 class="brand">'.$row["projectName"].' by <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> property maintenance
+			<h2 class="brand">'.$row["projectName"].' by </br><span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> property maintenance
 			</h2>'.$row["projectDescription"].'</div>';
 		}
-	}
+	}else{
+  echo'<!-- ======= Hero Section ======= -->
+<section id="hero" class="s-hero">
+	<div class="hero-container py-5">
+		<h2 class="brand">Error the <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> Page you are looking for does not exist.</h2></div>
+</section>
+<!-- End Hero -->
+<div class="container py-5 text-center">
+	<div class="row d-flex align-items-center justify-content-md-center">
+		<div class="col-12 col-md-8" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
+			<h2 class="brand">Find what <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> page are you looking for in our <a class="text-danger" href="projects.php"> Projects <i class="bi bi-box-arrow-up-right"></i></a> page.
+			</h2>
+		</div>';
+}
 } elseif (isset($_GET['service'])) {
-	$currentId = mysqli_real_escape_string($conn, $_GET['lesson']);
-	$sql = "SELECT class.className, subject.subjectName,lesson.lessonId, lesson.lessonName, lesson.lessonChapter, lesson.lessonContent, lesson.lessonTimeStamp, lesson.lessonAuthor FROM(( lesson INNER JOIN class ON class.classId=lesson.lessonClass) INNER JOIN subject ON subject.subjectId=lesson.lessonSubject) WHERE lessonId='$currentId';";
+	$service = mysqli_real_escape_string($conn, $_GET['service']);
+	$id = mysqli_real_escape_string($conn, $_GET['id']);
 
+	$sql = "SELECT * FROM services WHERE serviceName='$service' AND serviceId='$id';";
 	$result = mysqli_query($conn, $sql);
 	$resultCheck = mysqli_num_rows($result);
 
@@ -55,9 +69,32 @@ if (isset($_GET['project'])) {
 	  				<div class="card-footer text-muted">Added on: '.$row["lessonTimeStamp"].' by: '.$row["lessonAuthor"].'</div>
 				</div>';
 		}
-	}
+	}else{
+  echo'<!-- ======= Hero Section ======= -->
+<section id="hero" class="s-hero">
+	<div class="hero-container py-5">
+		<h2 class="brand">Error the <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> Page you are looking for does not exist.</h2></div>
+</section>
+<!-- End Hero -->
+<div class="container py-5 text-center">
+	<div class="row d-flex align-items-center justify-content-md-center">
+		<div class="col-12 col-md-8" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
+			<h2 class="brand">Find what <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> page are you looking for in our <a class="text-danger" href="services.php"> Services <i class="bi bi-box-arrow-up-right"></i></a> page.
+			</h2>
+		</div>';
+}
 }else{
-  echo'<h2 class="brand">Error by <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> property maintenance
-			</h2>';
+  echo'<!-- ======= Hero Section ======= -->
+<section id="hero" class="s-hero">
+	<div class="hero-container py-5">
+		<h2 class="brand">Error the <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> Page you are looking for does not exist.</h2></div>
+</section>
+<!-- End Hero -->
+<div class="container py-5 text-center">
+	<div class="row d-flex align-items-center justify-content-md-center">
+		<div class="col-12 col-md-8" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
+			<h2 class="brand">Find what </br><span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> page are you looking for in <a class="text-danger" href="projects.php"> Projects <i class="bi bi-box-arrow-up-right"></i></a> page or <a class="text-danger" href="services.php"> Services <i class="bi bi-box-arrow-up-right"></i></a> Page.
+			</h2>
+		</div>';
 }
  ?>

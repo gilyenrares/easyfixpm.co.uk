@@ -29,7 +29,7 @@
 <!-- ======= Project Item ======= -->
   <div class="project-item" style="background-image: url(assets/img/projects/11/e2.jpg)">
     <div class="container" data-aos="fade-up">
-      <div class="col-12 col-md-6 col-lg-4 project-item-details text-white rounded p-2 ps-3">
+      <div class="col-12 col-md-7 col-lg-5 project-item-details text-white rounded p-2 ps-3">
         <h2 class="brand">Project eleven</h2>
         <i class="bi bi-house-up-fill text-success"> Residential</i>
         <div class="row justify-content-between align-items-center pt-4">
@@ -44,7 +44,7 @@
   <!-- ======= Project Item ======= -->
   <div class="project-item" style="background-image: url(assets/img/projects/12/e1.jpg)">
     <div class="container" data-aos="fade-up">
-      <div class="col-12 col-md-6 col-lg-4 project-item-details text-white rounded p-2 ps-3">
+      <div class="col-12 col-md-7 col-lg-5 project-item-details text-white rounded p-2 ps-3">
         <h2 class="brand">Project twelve</h2>
         <i class="bi bi-house-up-fill text-success"> Residential</i>
         <div class="row justify-content-between align-items-center pt-4">
@@ -59,7 +59,7 @@
   <!-- ======= Project Item ======= -->
   <div class="project-item" style="background-image: url(assets/img/projects/13/e2.jpg)">
     <div class="container" data-aos="fade-up">
-      <div class="col-12 col-md-6 col-lg-4 project-item-details text-white rounded p-2 ps-3">
+      <div class="col-12 col-md-7 col-lg-5 project-item-details text-white rounded p-2 ps-3">
         <h2 class="brand">Project thirteen</h2>
         <i class="bi bi-house-up-fill text-success"> Residential</i>
         <div class="row justify-content-between align-items-center pt-4">
@@ -77,7 +77,7 @@
   <!-- ======= Project Item ======= -->
   <div class="project-item" style="background-image: url(assets/img/projects/14/e10.jpg)">
     <div class="container" data-aos="fade-up">
-      <div class="col-12 col-md-6 col-lg-4 project-item-details text-white rounded p-2 ps-3">
+      <div class="col-12 col-md-7 col-lg-5 project-item-details text-white rounded p-2 ps-3">
         <h2 class="brand">Project fourteen</h2>
         <i class="bi bi-house-up-fill text-success"> Residential</i>
         <div class="row justify-content-between align-items-center pt-4">
@@ -92,7 +92,7 @@
   <!-- ======= Project Item ======= -->
   <div class="project-item" style="background-image: url(assets/img/projects/15/e2.jpg)">
     <div class="container" data-aos="fade-up">
-      <div class="col-12 col-md-6 col-lg-4 project-item-details text-white rounded p-2 ps-3">
+      <div class="col-12 col-md-7 col-lg-5 project-item-details text-white rounded p-2 ps-3">
         <h2 class="brand">Project fifteen</h2>
         <i class="bi bi-house-up-fill text-success"> Residential</i>
         <div class="row justify-content-between align-items-center pt-4">

@@ -29,7 +29,7 @@
   <!-- ======= Project Item ======= -->
   <div class="project-item" style="background-image: url(assets/img/projects/1/e1.webp)">
     <div class="container" data-aos="fade-up">
-      <div class="col-12 col-md-6 col-lg-4 project-item-details text-white rounded p-2 ps-3">
+      <div class="col-12 col-md-7 col-lg-5 project-item-details text-white rounded p-2 ps-3">
         <h2 class="brand">Garden Patio</h2>
         <i class="bi bi-house-up-fill text-success"> Residential</i>
         <div class="row justify-content-between align-items-center pt-4">
@@ -67,7 +67,7 @@
   <!-- ======= Project Item ======= -->
   <div class="project-item" style="background-image: url(assets/img/projects/2/e4.webp)">
     <div class="container" data-aos="fade-up">
-      <div class="col-12 col-md-6 col-lg-4 project-item-details text-white rounded p-2 ps-3">
+      <div class="col-12 col-md-7 col-lg-5 project-item-details text-white rounded p-2 ps-3">
         <h2 class="brand">Garden Refurbishment</h2>
         <i class="bi bi-house-up-fill text-success"> Residential</i>
         <div class="row justify-content-between align-items-center pt-4">
@@ -105,7 +105,7 @@
   <!-- ======= Project Item ======= -->
   <div class="project-item" style="background-image: url(assets/img/projects/3/e3.webp)">
     <div class="container" data-aos="fade-up">
-      <div class="col-12 col-md-6 col-lg-4 project-item-details text-white rounded p-2 ps-3">
+      <div class="col-12 col-md-7 col-lg-5 project-item-details text-white rounded p-2 ps-3">
         <h2 class="brand">Metal Stairs</h2>
         <i class="bi bi-house-up-fill text-success"> Residential</i>
         <div class="row justify-content-between align-items-center pt-4">
@@ -131,6 +131,7 @@
           </div>
           <div class="modal-footer">
             <a href="getaquote.php" class="btn btn-primary"> I Want A Quote <i class="bi bi-box-arrow-up-right"></i> </a>
+            <a href="project.php?project=Metal%20Stairs&id=3" class="btn btn-info"> Project Page <i class="bi bi-box-arrow-up-right"></i> </a>
             <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
           </div>
         </div>
@@ -145,7 +146,7 @@
   <!-- ======= Project Item ======= -->
   <div class="project-item" style="background-image: url(assets/img/projects/4/e2.webp)">
     <div class="container" data-aos="fade-up">
-      <div class="col-12 col-md-6 col-lg-4 project-item-details text-white rounded p-2 ps-3">
+      <div class="col-12 col-md-7 col-lg-5 project-item-details text-white rounded p-2 ps-3">
         <h2 class="brand">New Fence</h2>
         <i class="bi bi-house-up-fill text-success"> Residential</i>
         <div class="row justify-content-between align-items-center pt-4">
@@ -171,6 +172,7 @@
           </div>
           <div class="modal-footer">
             <a href="getaquote.php" class="btn btn-primary"> I Want A Quote <i class="bi bi-box-arrow-up-right"></i> </a>
+            <a href="project.php?project=New%20Fence&id=4" class="btn btn-info"> Project Page <i class="bi bi-box-arrow-up-right"></i> </a>
             <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
           </div>
         </div>
@@ -182,7 +184,7 @@
   <!-- ======= Project Item ======= -->
   <div class="project-item" style="background-image: url(assets/img/projects/5/e1.webp)">
     <div class="container" data-aos="fade-up">
-      <div class="col-12 col-md-6 col-lg-4 project-item-details text-white rounded p-2 ps-3">
+      <div class="col-12 col-md-7 col-lg-5 project-item-details text-white rounded p-2 ps-3">
         <h2 class="brand">Parking Space</h2>
         <i class="bi bi-house-up-fill text-success"> Residential</i>
         <div class="row justify-content-between align-items-center pt-4">
@@ -208,6 +210,7 @@
           </div>
           <div class="modal-footer">
             <a href="getaquote.php" class="btn btn-primary"> I Want A Quote <i class="bi bi-box-arrow-up-right"></i> </a>
+            <a href="project.php?project=Parking%20Space&id=5" class="btn btn-info"> Project Page <i class="bi bi-box-arrow-up-right"></i> </a>
             <button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
           </div>
         </div>
