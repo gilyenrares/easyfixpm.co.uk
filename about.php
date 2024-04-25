@@ -78,13 +78,13 @@
 <div class="container py-5 text-center">
   <div class="row d-flex align-items-center justify-content-md-center">
     <div class="col-12">
+      <p>EasyFix Property Maintenance is a small team of sole traders working in Gloucestershire area. We offer property maintenance from small jobs to complete projects for domestic and commercial premises. There is no job too small, and we can offer a quick estimated quote after an initial discussion. We're fully insured, friendly and professional.</p>
+
       <p>Previously completed projects are available on our <a class="text-danger" href="projects.php"> Project <i class="bi bi-box-arrow-up-right"></i></a> page, these can give you an idea of the quality and pride taken in our work. Please also feel free to visit our <a class="text-danger" href="projects.php"> Services <i class="bi bi-box-arrow-up-right"></i></a> page for more details about our services.</p>
 
-		<p>Following initial inspection of your project, you will receive a planned, easy-to-follow estimate with a schedule of works. This means you can rest assured that you’re getting what you pay for, carried out to the highest of industry standards, at a competitive price – all with a personal service that cannot be beaten.</p>
+		  <p>Following initial inspection of your project, you will receive a planned, easy-to-follow estimate with a schedule of works. This means you can rest assured that you’re getting what you pay for, carried out to the highest of industry standards, at a competitive price – all with a personal service that cannot be beaten.</p>
 
-    	<p>We are generally providing our services across South-West London, and you'll be pleased to know we have completed many successful projects with a multitude of clients across our area. Our company has an excellent reputation in both the private and commercial sectors, offering everything from the smallest roof repair to brant new roofing projects.</p>
-
-		<p>When looking for a reputable roofing company, you need to know that they are fully qualified and vetted, competent at what they do and will get the job done efficiently and professionally at an affordable price.</p>
+      <p>We are generally providing our services across Gloucestershire area, and you'll be pleased to know we have completed many successful projects with a multitude of clients across our area. Our company has an excellent reputation in both the private and commercial sectors, offering everything from the smallest repair to brand new building projects.</p>
     </div>
   </div>
 </div>
