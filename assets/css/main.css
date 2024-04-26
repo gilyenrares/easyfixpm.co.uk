@@ -48,6 +48,10 @@ h6 {
   font-family: var(--font-primary);
 }
 
+article p{
+  text-indent: 40px;
+}
+
 hr{
   color: var(--color-default);
   height: 3px;
@@ -766,6 +770,14 @@ hr{
 /*--------------------------------------------------------------
 # Services Section
 --------------------------------------------------------------*/
+.service-list{
+  list-style: none;
+}
+.service-list li i{
+  color: green;
+}
+
+
 .services .service-item {
   padding: 50px 30px;
   transition: all ease-in-out 0.4s;
@@ -1224,6 +1236,10 @@ hr{
   font-size: 1rem;
 }
 
+.btn-spinner {
+  transform: translateY(40px);
+}
+
 .spinner-container {
   padding: 20px;
   display: flex;
@@ -1265,6 +1281,14 @@ hr{
   border-radius: 50%;
   height: 75px;
   width: 75px;
+}
+
+#center a{
+  display: inline-block;
+}
+
+#far-left a, #left a, #right a, #far-right a, #behind-far-right a, #behind-right a, #behind a, #behind-left a, #behind-far-left a{
+  display: none;
 }
 
 #far-left {

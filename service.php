@@ -26,12 +26,10 @@
 
 <!-- Service Builder -->
 <?php include "assets/includes/page-builder.inc.php" ?>
-<div class="col-12 col-md-4" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
-			<!-- Callback Form -->
-			<?php include "assets/sections/form-callback.sec.php" ?>
-		</div>
-	</div>
-</div>
+
+<!-- Latest Project banner -->
+<?php include "assets/sections/banner-projects.sec.php" ?>
+
 <!-- Footer -->
 <?php include "assets/sections/footer.sec.php" ?>
 <!-- Back to top of the page -->
@@ -39,8 +37,6 @@
     <i class="bi bi-arrow-up-short"></i>
   </a>
   
-
-
   <!-- Vendor JS Files -->
   <script src="assets/vendor/aos/aos.js"></script>
   <script src="assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>

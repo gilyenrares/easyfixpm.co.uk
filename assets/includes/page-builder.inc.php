@@ -66,7 +66,7 @@ if (isset($_GET['project'])) {
 		<div data-aos="fade-in">
 			<h1 class="brand">'.$row["serviceName"].' <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span>
 			</h1>
-			<h2>service highlights <span class="typed" data-typed-items="'.$row["serviceHighlights"].'"></span></h2>
+			<h2>Popular Materials: <span class="typed" data-typed-items="'.$row["serviceHighlights"].'"></span></h2>
 			<div class="actions">
 				<a href="getaquote.php" class="btn btn-outline-primary">Get Your Free Quote</a>
 			</div>
@@ -74,16 +74,20 @@ if (isset($_GET['project'])) {
 	</div>
 </section>
 <!-- End Hero -->
+<div class="container py-5">
+	<div class="row d-flex justify-content-md-center">
+		<h2 class="brand text-center pb-3">'.$row["serviceName"].' by </br><span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> property maintenance</h2>
+		<article class="col-12 col-md-6" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">'.$row["serviceDescription"].'</article>
+			<div class="col-12 col-md-6" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
+			<h3 class="text-center">'.$row["serviceName"].' Services</h3>'.$row["serviceList"].'
+    </div>
+	</div>
+</div>
 <!-- ======= Hero Section ======= -->
 <section id="hero" class="s-hero">
 	<div class="hero-container py-5">'.$row["serviceCarousel"].'</div>
 </section>
-<!-- End Hero -->
-<div class="container py-5 text-center">
-	<div class="row d-flex align-items-center justify-content-md-center">
-		<div class="col-12 col-md-8" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
-			<h2 class="brand">'.$row["serviceName"].' by </br><span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> property maintenance
-			</h2>'.$row["serviceDescription"].'</div>';
+<!-- End Hero -->';
 		}
 	}else{
   echo'<!-- ======= Hero Section ======= -->

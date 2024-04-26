@@ -6,7 +6,7 @@
 
   <title>EasyFix Property Maintenance - Home</title>
   <meta name="description" content="EasyFix it's a small property maintenance company powered by a group of skilled sole traders working in Gloucestershire area.">
-
+	<link rel="icon" href="assets/img/favicon.ico">
 
 <!-- Links -->
 <?php include 'assets/sections/links.sec.php';?>
@@ -92,7 +92,7 @@
 						<img src="assets/img/banners/patio.webp" class="img-fluid" alt="" />
 						<div class="gallery-links d-flex align-items-center justify-content-center">
 							<a href="#" class="details-arrow" title="Driveways & Patios" data-bs-toggle="modal" data-bs-target="#dpModal"> <i class="bi bi-arrows-angle-expand"></i></a>
-							<a href="services.php" class="details-link"><i class="bi bi-link-45deg"></i></a>
+							<a href="service.php?service=Driveways%20%26%20Patios&id=1" class="details-link"><i class="bi bi-link-45deg"></i></a>
 						</div>
 					</div>
 				</div>
