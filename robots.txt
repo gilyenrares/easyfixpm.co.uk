@@ -1,4 +1,5 @@
 User-Agent: *
 Allow: /
-
+Disallow: /project.php
+Disallow: /service.php
 Sitemap: https://www.easyfixpm.co.uk/sitemap.xml

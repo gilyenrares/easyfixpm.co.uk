@@ -127,12 +127,6 @@
 
 <!-- Footer -->
 <?php include "assets/sections/footer.sec.php" ?>
-<!-- Back to top of the page -->
-  <a href="#" class="scroll-top d-flex align-items-center justify-content-center">
-    <i class="bi bi-arrow-up-short"></i>
-  </a>
-  
-
 
   <!-- Vendor JS Files -->
   <script src="assets/vendor/aos/aos.js"></script>

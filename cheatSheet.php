@@ -16,9 +16,22 @@
 <?php include "assets/sections/footer.sec.php" ?>
 
 
+<!-- Callback Modal -->
+<?php include "assets/sections/modal-callback.sec.php" ?>
+<!-- Callback Modal button -->
+<a href="#" class="btn btn-primary" title="Request a Callback" data-bs-toggle="modal" data-bs-target="#callbackModal"> <i class="bi bi-arrows-angle-expand"></i></a>
+
+<!-- Contact Options Modal -->
+<?php include "assets/sections/modal-contact-options.sec.php" ?>
+<!-- Contact Options Modal button -->
+<a href="#" class="fab d-flex align-items-center justify-content-center"data-bs-toggle="modal" data-bs-target="#contactOptionsModal"><i class="fi fi-sr-customer-service"></i></a>
+
+
 <!-- Callback Form -->
 <?php include "assets/sections/form-callback.sec.php" ?>
 
+<!-- Contact Form -->
+<?php include "assets/sections/form-contact.sec.php" ?>
 
 
 <!-- Company banner -->

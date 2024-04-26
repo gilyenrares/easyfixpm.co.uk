@@ -117,6 +117,18 @@ document.addEventListener('DOMContentLoaded', () => {
 	}
 
 	/**
+	 * Fab button
+	 */
+	const fab = document.querySelector('.fab');
+	if (fab) {
+		const toggleFab = function () {
+			window.scrollY > 100 ? fab.classList.add('active') : fab.classList.remove('active');
+		};
+		window.addEventListener('load', toggleFab);
+		document.addEventListener('scroll', toggleFab);
+	}
+
+	/**
 	 * Initiate glightbox
 	 */
 	const glightbox = GLightbox({

@@ -1,21 +1,3 @@
-<ul class="row service-list">
-	<li class="col-6 py-2"><i class="fi fi-sr-check"></i> Block Paving</li>
-	<li class="col-6 py-2"><i class="fi fi-sr-check"></i> Bonded Aggregate Surfacing</li>
-	<li class="col-6 py-2"><i class="fi fi-sr-check"></i> Driveway Cleaning / Sealing</li>
-	<li class="col-6 py-2"><i class="fi fi-sr-check"></i> Driveway Repair</li>
-	<li class="col-6 py-2"><i class="fi fi-sr-check"></i> Driveway / Patio Design</li>
-	<li class="col-6 py-2"><i class="fi fi-sr-check"></i> Emergency Driveways / Patios / Paths Service</li>
-	<li class="col-6 py-2"><i class="fi fi-sr-check"></i> Gravel / Shingle Driveways</li>
-	<li class="col-6 py-2"><i class="fi fi-sr-check"></i> Gritting</li>
-	<li class="col-6 py-2"><i class="fi fi-sr-check"></i> Patios / Paving</li>
-	<li class="col-6 py-2"><i class="fi fi-sr-check"></i> Patterned Imprinted Concrete</li>
-	<li class="col-6 py-2"><i class="fi fi-sr-check"></i> Permeable Paving</li>
-	<li class="col-6 py-2"><i class="fi fi-sr-check"></i> Polished Concrete</li>
-	<li class="col-6 py-2"><i class="fi fi-sr-check"></i> Resin Bond Surfacing</li>
-	<li class="col-6 py-2"><i class="fi fi-sr-check"></i> Resin Bound Surfacing</li>
-	<li class="col-6 py-2"><i class="fi fi-sr-check"></i> Soakaways</li>
-	<li class="col-6 py-2"><i class="fi fi-sr-check"></i> Tarmac Driveways</li>
-</ul>
 <!-- Contact form -->
 <div class="row justify-content-center mt-4">
 	<div class="col-lg-9">

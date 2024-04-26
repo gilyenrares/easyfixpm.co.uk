@@ -42,66 +42,37 @@
           </div><!-- End Info Item -->
 
         </div>
-        <hr class="mt-4">
-        <!-- <div class="container  text-center">
-          <div class="row d-flex align-items-center justify-content-md-center">
-            <div id="cover" class="col-12 col-md-4"></div>
-            <div class="col-12 col-md-4 text-white" >
+        <hr class="my-4">
+        <div class="container">
+          <div class="row d-flex justify-content-md-center">
+            <div class="col-12 col-md-4 text-white text-center" >
               <h2 class="brand"><span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> property maintenance</h2>
-              <p>We can help you whether you’re a homeowner, developer, landlord or a business with anything from a full refurbishment to replacing a socket – and everything in between!</p>
+              <p>EasyFix Property Maintenance is a small team of sole traders working in Gloucestershire area. We offer services from small jobs to complete projects for domestic and commercial premises. There is no job too small, and we can offer a quick estimated quote after an initial discussion. We're fully insured, friendly and professional.</p>
             </div>
             <div class="col-12 col-md-2 text-white" >
               <h2 class="brand">Services</h2>
-              <ul class="list-group list-group-flush">
-                <li >An item</li>
-                <li>A second item</li>
-                <li >A third item</li>
-                <li >A fourth item</li>
-                <li >And a fifth one</li>
+              <ul class="list-group list-group-flush service-list">
+                <li><a class="nav-link" href="#">Driveways & patios</a></li>
+                <li><a class="nav-link" href="#">Fencing</a></li>
+                <li><a class="nav-link" href="#">Decorating</a></li>
+                <li><a class="nav-link" href="#">Gardening</a></li>
+                <li><a class="nav-link" href="#">Handyman</a></li>
+                <li><a class="nav-link" href="#">Repairs</a></li>
               </ul>
             </div>
             <div class="col-12 col-md-2 text-white" >
-              <h2 class="brand">Services</h2>
-              <ul class="list-group list-group-flush">
-                <li >An item</li>
-                <li>A second item</li>
-                <li >A third item</li>
-                <li >A fourth item</li>
-                <li >And a fifth one</li>
+              <h2 class="brand">General</h2>
+              <ul class="list-group list-group-flush service-list">
+                <li><a class="nav-link" href="index.php">Home</a></li>
+                <li><a class="nav-link" href="about.php">About Us</a></li>
+                <li><a class="nav-link" href="services.php">Services</a></li>
+                <li><a class="nav-link" href="projects.php">Projects</a></li>
+                <li><a class="nav-link" href="getaquote.php">Get a quote</a></li>
+                <li><a class="nav-link" href="contact.php">Contact Us</a></li>
               </ul>
             </div>
-          </div>
-        </div> -->
-
-
-        <!-- Contact form -->
-        <div class="row justify-content-center mt-4">
-          <div class="col-lg-9">
-            <form action="assets/includes/contact.inc.php" method="post" class="php-email-form">
-              <div class="row">
-                <div class="col-md-6 form-group">
-                  <input type="text" class="form-control" name="name" id="name" placeholder="Your Name" value="<?php if (isset($_GET['name'])) {echo $_GET['name'];} ?>" required="required">
-                </div>
-                <div class="col-md-6 form-group mt-3 mt-md-0">
-                  <input type="phone" class="form-control" name="phno" id="phone" placeholder="Telephone"value="<?php if (isset($_GET['phno'])) {echo $_GET['phno'];} ?>" required="required">
-                </div>
-              </div>
-              <div class="form-group mt-3">
-                <input type="email" class="form-control" name="email" id="email" placeholder="Email" value="<?php if (isset($_GET['email'])) {echo $_GET['email'];} ?>" required="required">
-              </div>
-              <div class="form-group mt-3">
-                <textarea  class="form-control" name="description" id="description" placeholder="Message" rows="6" value="<?php if (isset($_GET['description'])) {echo $_GET['description'];} ?>" required="required"></textarea>
-              </div>
-              <div class="my-3">
-                <div class="loading">Loading</div>
-                <div class="error-message"></div>
-                <div class="sent-message">Your message has been sent. Thank you!</div>
-              </div>
-              <div class="text-center"><button type="submit" name="contact-submit">Send Message</button></div>
-            </form>
           </div>
         </div>
-
       </div>
     </section>
     <!-- End Contact Section -->
@@ -112,8 +83,19 @@
         &copy; Copyright <strong><span class="bg-light px-2"><b>Easy</b><i>Fix</i></span></strong> . All Rights Reserved
       </div>
       <div class="credits">
-        Designed by <a href="#">RGB-DEV</a> UIcons by <a href="https://www.flaticon.com/uicons">Flaticon</a>
+        Built by <a href="#">RGB-DEV</a> UIcons by <a href="https://www.flaticon.com/uicons">Flaticon</a>
       </div>
     </div>
   </footer>
   <!-- ======= End Footer======= -->
+
+  <!-- Back to top of the page -->
+  <a href="#" class="scroll-top d-flex align-items-center justify-content-center">
+    <i class="bi bi-arrow-up-short"></i>
+  </a>
+<!-- Contact floating action button -->
+<!-- Contact Options Modal -->
+<?php include "assets/sections/modal-contact-options.sec.php" ?>
+  <a href="#" class="fab d-flex align-items-center justify-content-center"data-bs-toggle="modal" data-bs-target="#contactOptionsModal">
+    <i class="fi fi-sr-customer-service"></i>
+  </a>

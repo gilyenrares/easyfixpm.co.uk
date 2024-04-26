@@ -206,6 +206,32 @@ hr{
   opacity: 1;
   bottom: 15px;
 }
+ .fab{
+  position: fixed;
+  opacity: 1;
+  right: 15px;
+  bottom: 15px;
+  z-index: 99999;
+  background: var(--color-primary);
+  width: 44px;
+  height: 44px;
+  border-radius: 50px;
+  transition: all 0.4s;
+ }
+ .fab i {
+   font-size: 24px;
+   color: #fff;
+   line-height: 0;
+ }
+ .fab:hover {
+   background: rgba(39, 167, 118, 0.8);
+   color: #fff;
+ }
+ .fab.active {
+   visibility: visible;
+   opacity: 1;
+   bottom: 75px;
+ }
 
 /*--------------------------------------------------------------
 # Preloader
