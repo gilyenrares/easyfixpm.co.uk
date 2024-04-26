@@ -1,5 +1,5 @@
 <!-- Modal -->
-<div class="modal modal-xl fade" id="callbackModal" tabindex="-1" aria-labelledby="callbackModalLabel" aria-hidden="true">
+<div class="modal modal-lg fade" id="callbackModal" tabindex="-1" aria-labelledby="callbackModalLabel" aria-hidden="true">
 	<div class="modal-dialog modal-dialog-centered">
 		<div class="modal-content text-bg-dark">
 			<div class="modal-header">

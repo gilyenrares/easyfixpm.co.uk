@@ -47,7 +47,7 @@ if (isset($_POST['contact-submit'])) {
       $message .= "Contact details: \r\n";
       $message .= "Email:  ".$email." \r\n";
       $message .= "Telephone:  ".$phno."\r\n";
-      $message .= "Client has accepted to be contacted back via phone call.";
+      $message .= "Client has Accepted to be contacted back via phone call.";
        imap_mail(
         $to,
         $subject,

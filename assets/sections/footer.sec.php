@@ -94,8 +94,10 @@
     <i class="bi bi-arrow-up-short"></i>
   </a>
 <!-- Contact floating action button -->
+<!-- Callback Modal -->
+<?php include "assets/sections/modal-callback.sec.php" ?>
 <!-- Contact Options Modal -->
 <?php include "assets/sections/modal-contact-options.sec.php" ?>
-  <a href="#" class="fab d-flex align-items-center justify-content-center"data-bs-toggle="modal" data-bs-target="#contactOptionsModal">
+  <a href="#" class="fab d-flex align-items-center justify-content-center" data-bs-toggle="modal" data-bs-target="#contactOptionsModal">
     <i class="fi fi-sr-customer-service"></i>
   </a>
