@@ -60,14 +60,30 @@ if (isset($_GET['project'])) {
 
 	if ($resultCheck > 0) {
 		while ($row = mysqli_fetch_assoc($result)) {
-			echo '<div class="card border border-dark mb-2 shadow-lg">
-					<div class="card-header text-center"><p class="font-italic text-center"> '.$row["className"].'<b> -> </b> '.$row["subjectName"].'<b> -> </b>  '.$row["lessonChapter"].'<b> -> </b> '.$row["lessonName"].'</p></div>
-	  				<div class="card-body">
-	    				<h4 class="card-title text-center">'.$row["lessonName"].'</h4>
-	    				<p class="card-text">'.$row["lessonContent"].'</p>
-	  				</div>
-	  				<div class="card-footer text-muted">Added on: '.$row["lessonTimeStamp"].' by: '.$row["lessonAuthor"].'</div>
-				</div>';
+			echo '<!-- ======= Hero Section ======= -->
+      <section id="hero" class="m-hero">
+	<div class="hero-container">
+		<div data-aos="fade-in">
+			<h1 class="brand">'.$row["serviceName"].' <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span>
+			</h1>
+			<h2>service highlights <span class="typed" data-typed-items="'.$row["serviceHighlights"].'"></span></h2>
+			<div class="actions">
+				<a href="getaquote.php" class="btn btn-outline-primary">Get Your Free Quote</a>
+			</div>
+		</div>
+	</div>
+</section>
+<!-- End Hero -->
+<!-- ======= Hero Section ======= -->
+<section id="hero" class="s-hero">
+	<div class="hero-container py-5">'.$row["serviceCarousel"].'</div>
+</section>
+<!-- End Hero -->
+<div class="container py-5 text-center">
+	<div class="row d-flex align-items-center justify-content-md-center">
+		<div class="col-12 col-md-8" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
+			<h2 class="brand">'.$row["serviceName"].' by </br><span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> property maintenance
+			</h2>'.$row["serviceDescription"].'</div>';
 		}
 	}else{
   echo'<!-- ======= Hero Section ======= -->
