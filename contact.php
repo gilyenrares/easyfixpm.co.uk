@@ -57,8 +57,8 @@
     </div>
   </div>
 </div>
-  <!-- Operation area banner -->
-  <?php include "assets/sections/banner-area.sec.php" ?>
+ <!-- Company banner -->
+<?php include "assets/sections/banner-company.sec.php" ?>
 
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="s-hero">

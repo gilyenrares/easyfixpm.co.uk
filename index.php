@@ -81,7 +81,8 @@
 									<?php include "assets/sections/carousel-dp.sec.php" ?>
 								</div>
 								<div class="modal-footer">
-									<a href="services.php" class="btn btn-primary"> Find Out More <i class="bi bi-box-arrow-up-right"></i> </a>
+									<a href="services.php" class="btn btn-primary"> Our Services <i class="bi bi-box-arrow-up-right"></i> </a>
+									<a href="service.php?service=Driveways%20%26%20Patios&id=1" class="btn btn-info">More info <i class="bi bi-box-arrow-up-right"></i> </a>
 									<button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
 								</div>
 							</div>
@@ -115,7 +116,8 @@
 									<?php include "assets/sections/carousel-f.sec.php" ?>
 								</div>
 								<div class="modal-footer">
-									<a href="services.php" class="btn btn-primary"> Find Out More <i class="bi bi-box-arrow-up-right"></i> </a>
+									<a href="services.php" class="btn btn-primary"> Our Services <i class="bi bi-box-arrow-up-right"></i> </a>
+									<a href="service.php?service=Fencing&id=2" class="btn btn-info">More info <i class="bi bi-box-arrow-up-right"></i> </a>
 									<button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
 								</div>
 							</div>
@@ -126,7 +128,7 @@
 						<img src="assets/img/banners/fencing.webp" class="img-fluid" alt="" />
 						<div class="gallery-links d-flex align-items-center justify-content-center">
 							<a href="#" class="details-arrow" title="Fencing" data-bs-toggle="modal" data-bs-target="#fModal"> <i class="bi bi-arrows-angle-expand"></i></a>
-							<a href="services.php" class="details-link"><i class="bi bi-link-45deg"></i></a>
+							<a href="service.php?service=Fencing&id=2" class="details-link"><i class="bi bi-link-45deg"></i></a>
 						</div>
 					</div>
 				</div>
@@ -149,7 +151,8 @@
 									<?php include "assets/sections/carousel-deco.sec.php" ?>
 								</div>
 								<div class="modal-footer">
-									<a href="services.php" class="btn btn-primary"> Find Out More <i class="bi bi-box-arrow-up-right"></i> </a>
+									<a href="services.php" class="btn btn-primary"> Our Services <i class="bi bi-box-arrow-up-right"></i> </a>
+									<a href="service.php?service=Decorating&id=3" class="btn btn-info">More info <i class="bi bi-box-arrow-up-right"></i> </a>
 									<button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
 								</div>
 							</div>
@@ -160,7 +163,7 @@
 						<img src="assets/img/banners/decorating.webp" class="img-fluid" alt="" />
 						<div class="gallery-links d-flex align-items-center justify-content-center">
 							<a href="#" class="details-arrow" title="Decorating" data-bs-toggle="modal" data-bs-target="#decoModal"> <i class="bi bi-arrows-angle-expand"></i></a>
-							<a href="services.php" class="details-link"><i class="bi bi-link-45deg"></i></a>
+							<a href="service.php?service=Decorating&id=3" class="details-link"><i class="bi bi-link-45deg"></i></a>
 						</div>
 					</div>
 				</div>
