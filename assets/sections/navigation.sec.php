@@ -12,20 +12,18 @@
             <li class="nav-item inactive">
               <a class="nav-link" href="about.php">About Us</a>
             </li>
-            <li class="nav-item inactive">
-              <a class="nav-link" href="services.php">Services</a>
-            </li>
-            <!-- <li class="nav-item inactive dropdown">
+            <li class="nav-item inactive dropdown">
               <a class="nav-link dropdown-toggle" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">Services</a>
             <div class="dropdown-menu bg-main" aria-labelledby="dropdownMenuLink">
-              <a class="dropdown-item" href="services.php#decorating">Decorating</a>
-              <a class="dropdown-item" href="chimneys.php">Chimneys</a>
-              <a class="dropdown-item" href="flat-roofing.php">Flat Roofing</a>
-              <a class="dropdown-item" href="roofline.php">Roofline</a>
-              <a class="dropdown-item" href="new-roofs.php">New Roofs</a>
-              <a class="dropdown-item" href="repairs.php">Repairs</a>
+              <a class="dropdown-item" href="services.php">Services</a>
+              <a class="dropdown-item" href="service.php?service=Driveways%20%26%20Patios&id=1">Driveways/Patios</a>
+              <a class="dropdown-item" href="service.php?service=Fencing&id=2">Fencing</a>
+              <a class="dropdown-item" href="service.php?service=Decorating&id=3">Decorating</a>
+              <a class="dropdown-item" href="service.php?service=Gardening&id=4">Gardening</a>
+              <a class="dropdown-item" href="service.php?service=Handyman&id=5">Handyman</a>
+              <a class="dropdown-item" href="service.php?service=Repairs&id=6">Repairs</a>
            </div>
-            </li> -->
+            </li>
             <li class="nav-item inactive">
               <a class="nav-link" href="projects.php">Projects</a>
             </li>

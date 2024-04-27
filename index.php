@@ -185,7 +185,8 @@
 									<?php include "assets/sections/carousel-g.sec.php" ?>
 								</div>
 								<div class="modal-footer">
-									<a href="services.php" class="btn btn-primary"> Find Out More <i class="bi bi-box-arrow-up-right"></i> </a>
+									<a href="services.php" class="btn btn-primary"> Our Services <i class="bi bi-box-arrow-up-right"></i> </a>
+									<a href="service.php?service=Gardening&id=4" class="btn btn-info">More info <i class="bi bi-box-arrow-up-right"></i> </a>
 									<button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
 								</div>
 							</div>
@@ -196,7 +197,7 @@
 						<img src="assets/img/banners/gardening.webp" class="img-fluid" alt="" />
 						<div class="gallery-links d-flex align-items-center justify-content-center">
 							<a href="#" class="details-arrow" title="Gardening" data-bs-toggle="modal" data-bs-target="#gModal"> <i class="bi bi-arrows-angle-expand"></i></a>
-							<a href="services.php" class="details-link"><i class="bi bi-link-45deg"></i></a>
+							<a href="service.php?service=Gardening&id=4" class="details-link"><i class="bi bi-link-45deg"></i></a>
 						</div>
 					</div>
 				</div>
@@ -218,7 +219,8 @@
 									<?php include "assets/sections/carousel-hm.sec.php" ?>
 								</div>
 								<div class="modal-footer">
-									<a href="services.php" class="btn btn-primary"> Find Out More <i class="bi bi-box-arrow-up-right"></i> </a>
+									<a href="services.php" class="btn btn-primary"> Our Services <i class="bi bi-box-arrow-up-right"></i> </a>
+									<a href="service.php?service=Handyman&id=5" class="btn btn-info">More info <i class="bi bi-box-arrow-up-right"></i> </a>
 									<button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
 								</div>
 							</div>
@@ -229,7 +231,7 @@
 						<img src="assets/img/banners/handyman.webp" class="img-fluid" alt="" />
 						<div class="gallery-links d-flex align-items-center justify-content-center">
 							<a href="#" class="details-arrow" title="Handymen" data-bs-toggle="modal" data-bs-target="#hmModal"> <i class="bi bi-arrows-angle-expand"></i></a>
-							<a href="services.php" class="details-link"><i class="bi bi-link-45deg"></i></a>
+							<a href="service.php?service=Handyman&id=5" class="details-link"><i class="bi bi-link-45deg"></i></a>
 						</div>
 					</div>
 				</div>
@@ -251,7 +253,8 @@
 									<?php include "assets/sections/carousel-rep.sec.php" ?>
 								</div>
 								<div class="modal-footer">
-									<a href="services.php" class="btn btn-primary"> Find Out More <i class="bi bi-box-arrow-up-right"></i> </a>
+									<a href="services.php" class="btn btn-primary"> Our Services <i class="bi bi-box-arrow-up-right"></i> </a>
+									<a href="service.php?service=Repairs&id=6" class="btn btn-info">More info <i class="bi bi-box-arrow-up-right"></i> </a>
 									<button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
 								</div>
 							</div>
@@ -262,7 +265,7 @@
 						<img src="assets/img/banners/repairs.webp" class="img-fluid" alt="" />
 						<div class="gallery-links d-flex align-items-center justify-content-center">
 							<a href="#" class="details-arrow" title="Repairs" data-bs-toggle="modal" data-bs-target="#repModal"> <i class="bi bi-arrows-angle-expand"></i></a>
-							<a href="services.php" class="details-link"><i class="bi bi-link-45deg"></i></a>
+							<a href="service.php?service=Repairs&id=6" class="details-link"><i class="bi bi-link-45deg"></i></a>
 						</div>
 					</div>
 				</div>
