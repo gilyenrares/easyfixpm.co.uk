@@ -1,5 +1,5 @@
 <?php
-if (isset($_POST['review-submit'])) {
+if (isset($_POST['feedback-submit'])) {
   session_start();
   require 'dbh.inc.php';
   $fullName = $_POST['rfn'];

@@ -28,6 +28,9 @@
               <a class="nav-link" href="projects.php">Projects</a>
             </li>
             <li class="nav-item inactive">
+             <a class="nav-link" href="feedback.php">Feedback</a>
+            </li>
+            <li class="nav-item inactive">
              <a class="nav-link" href="getaquote.php">Get a quote</a>
             </li>
             <li class="nav-item inactive">

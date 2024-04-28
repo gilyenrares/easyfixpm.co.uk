@@ -887,6 +887,7 @@ hr{
 
 .accordion-item {
   color: #fff;
+  border: none;
 }
 .accordion-header {
   color: var(--color-primary);
@@ -903,6 +904,68 @@ hr{
 .accordion-button::after{
   background-color: var(--color-primary);
 }
+/*--------------------------------------------------------------
+# Forms Section
+--------------------------------------------------------------*/
+.form-main{
+  background-color: var(--color-dark);
+  color: var(--color-default);
+}
+.form-main  .form-control{
+  background-color: var(--color-secondary);
+  border-color: var(--color-gray);
+  color: var(--color-default);
+}
+.form-main .form-check-input {
+  background-color: var(--color-secondary);
+  border-color: var(--color-primary);
+  color: var(--color-default);
+}
+.form-control::placeholder {
+  color: var(--color-default);
+}
+.label-main{
+  background-color: var(--color-secondary);
+}
+/* Feedback Form */
+.accordion-feedback{
+  background-color: var(--color-dark);
+}
+/* Rating Stars */
+ #stars .rating-group {
+   display: inline-flex;
+ }
+
+ #stars .rating-icon {
+   pointer-events: none;
+ }
+
+ #stars .rating-input {
+   display: none;
+ }
+
+ #stars .rating-label {
+   cursor: pointer;
+   padding: 0 0.1em;
+   font-size: 2rem;
+ }
+
+ #stars .rating-icon-star {
+   color: orange;
+ }
+
+ #stars .rating-input:checked~.rating-label .rating-icon-star {
+   color: #ddd;
+ }
+
+ #stars .rating-group:hover .rating-label .rating-icon-star {
+   color: orange;
+ }
+
+ #stars .rating-input:hover~.rating-label .rating-icon-star {
+   color: #ddd;
+ }
+
 /*--------------------------------------------------------------
 # Contact Section
 --------------------------------------------------------------*/
@@ -1030,9 +1093,7 @@ hr{
   color: var(--color-primary);
 }
 
-.form-control::placeholder{
-  color: var(--color-default);
-}
+
 
 .contact .php-email-form button[type=submit]:hover {
   background: rgba(39, 167, 118, 0.8);

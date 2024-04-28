@@ -67,6 +67,7 @@
                 <li><a class="nav-link" href="about.php">About Us</a></li>
                 <li><a class="nav-link" href="services.php">Services</a></li>
                 <li><a class="nav-link" href="projects.php">Projects</a></li>
+                <li><a class="nav-link" href="feedback.php">Feedback</a></li>
                 <li><a class="nav-link" href="getaquote.php">Get a quote</a></li>
                 <li><a class="nav-link" href="contact.php">Contact Us</a></li>
               </ul>
