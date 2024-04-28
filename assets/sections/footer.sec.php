@@ -46,7 +46,7 @@
         <div class="container">
           <div class="row d-flex justify-content-md-center">
             <div class="col-12 col-md-4 text-white text-center" >
-              <h2 class="brand"><span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> property maintenance</h2>
+              <h2 class="brand"><span class="px-2"><b>Easy</b><i>Fix</i></span> property maintenance</h2>
               <p>EasyFix Property Maintenance is a small team of sole traders working in Gloucestershire area. We offer services from small jobs to complete projects for domestic and commercial premises. There is no job too small, and we can offer a quick estimated quote after an initial discussion. We're fully insured, friendly and professional.</p>
             </div>
             <div class="col-12 col-md-2 text-white" >
@@ -80,7 +80,7 @@
     <br>
     <div class="container">
       <div class="copyright brand">
-        &copy; Copyright <strong><span class="bg-light px-2"><b>Easy</b><i>Fix</i></span></strong> . All Rights Reserved
+        &copy; Copyright <strong><span class="px-2"><b>Easy</b><i>Fix</i></span></strong> . All Rights Reserved
       </div>
       <div class="credits">
         Built by <a href="#">RGB-DEV</a> UIcons by <a href="https://www.flaticon.com/uicons">Flaticon</a>

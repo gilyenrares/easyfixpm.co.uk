@@ -2,7 +2,7 @@
   <section id="hero" class="s-hero mb-2">
     <div class="hero-container">
       <div data-aos="fade-up">
-        <h1 class="brand"><span class="bg-light px-2"><b>Easy</b><i>Fix</i></span></h1>
+        <h1 class="brand"><span class="px-2"><b>Easy</b><i>Fix</i></span></h1>
         <h2 class="m-0">Found something<span class="typed"
             data-typed-items="South, West, North,  "></span> Interesting</h2>
         <p class="text-danger"><i class="bi bi-arrow-down-circle"></i> 

@@ -27,7 +27,7 @@
   <section id="hero" class="m-hero">
     <div class="hero-container">
       <div data-aos="fade-in">
-        <h1 class="brand">Get a free <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> quote</h1>
+        <h1 class="brand">Get a free <span class="px-2"><b>Easy</b><i>Fix</i></span> quote</h1>
         <h2>Want your work done <span class="typed"
             data-typed-items="today, tomorrow, next week, other date, "></span></h2>
         <div class="actions">
@@ -44,7 +44,7 @@
  <div class="container py-5 text-center">
   <div class="row d-flex align-items-center justify-content-md-center">
     <div class="col-12 col-md-4" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
-       <h2 class="brand">We are <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span>property maintenance</h2>
+       <h2 class="brand-dark">We are <span class="px-2"><b>Easy</b><i>Fix</i></span>property maintenance</h2>
        <p>If you’d like a free, no obligation quotation then please complete the following form and we will get back to you as soon as we can (usually within 24 hours). We endeavour to give you a competitive quote over the phone, however, depending on the size of the job, we may need to visit the job location first.</p>
        <p>If you’d prefer to speak with someone straight away, you can call us on <a href="tel:+44 7397 879010" class="text-danger"><i class="bi bi-telephone-outbound"></i> 07397 879010 </a> or visit our <a href="contact.php" class="text-danger"> contact <i class="bi bi-box-arrow-up-right"></i></a> page for more options.</p>
     </div>
@@ -104,7 +104,7 @@
       <div class="row d-flex align-items-center justify-content-center">
     		<div class="form-check col-md-5 col-12 mb-3 text-start">
       			<input class="form-check-input" name="agree" type="checkbox" id="check" required="required">
-      			<label class="form-check-label" for="check">I Agree to receive a call back from <h3 class="brand"><span class="bg-light px-2"><b>Easy</b><i>Fix</i></span></h3></label>
+      			<label class="form-check-label" for="check">I Agree to receive a call back from <h3 class="brand-dark"><span class="px-2"><b>Easy</b><i>Fix</i></span></h3></label>
     		</div>
       </div>
       <div class="btn-group btn-group-lg d-flex mt-2" role="group" aria-label="Basic example">

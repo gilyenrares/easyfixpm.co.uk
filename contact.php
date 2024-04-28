@@ -27,7 +27,7 @@
   <section id="hero" class="m-hero">
     <div class="hero-container">
       <div data-aos="fade-in">
-        <h1 class="brand">Contact <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span></h1>
+        <h1 class="brand">Contact <span class="px-2"><b>Easy</b><i>Fix</i></span></h1>
         <h2>Get in touch regarding <span class="typed"
             data-typed-items="new work, current work, more information, , "></span></h2>
         <div class="actions">
@@ -42,7 +42,7 @@
  <div class="container py-5 text-center">
   <div class="row d-flex align-items-center justify-content-md-center">
     <div class="col-12 col-md-4" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
-       <h2 class="brand">How to contact <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span>property maintenance</h2>
+       <h2 class="brand-dark">How to contact <span class="px-2"><b>Easy</b><i>Fix</i></span>property maintenance</h2>
        <p>You can contact using the following options:</p>
        <a class="btn btn-primary m-2" href="tel:+44 7397 879010">CALL <i class="bi bi-telephone-forward-fill"></i> 07397 879010 </a>
        <a class="btn btn-primary m-2" href="mailto:info@easyfixpm.co.uk">EMAIL US <i class="bi bi-envelope-at-fill"></i></a>

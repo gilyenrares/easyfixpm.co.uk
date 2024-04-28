@@ -59,10 +59,17 @@ hr{
 }
 
 .brand span b {
-  color: #000 !important;
+  color: #fff ;
+}
+
+.brand-dark span b {
+  color: #000;
 }
 
 .brand span i {
+  color: #ff0000 !important;
+}
+.brand-dark span i {
   color: #ff0000 !important;
 }
 
@@ -415,11 +422,7 @@ hr{
 # Desktop Navigation
 --------------------------------------------------------------*/
 
-.navbar-brand{
-      -webkit-transform: skewX(-15deg);
-        -ms-transform: skewX(-15deg);
-        transform: skewX(-15deg);
-}
+
 /*--------------------------------------------------------------
 # homepage
 --------------------------------------------------------------*/
@@ -1066,6 +1069,18 @@ hr{
   height: 20vh !important;
 }
 
+.m-hero .hero-container{
+padding-bottom: 5%;
+}
+
+.s-hero .hero-container {
+  padding-bottom: 0;
+}
+
+.hero-container {
+  padding-bottom: 20%;
+}
+
 @media (min-width: 1024px) {
   #hero {
     background-attachment: fixed;
@@ -1079,7 +1094,10 @@ hr{
 
 @media (max-width: 768px) {
   #hero {
-    background-position-y: top;
+    background-position-y: bottom !important;
+  }
+  .m-hero{
+    background-position-y: bottom ;
   }
   #hero .hero-logo {
     margin: 20px;
@@ -1093,8 +1111,6 @@ hr{
 #hero .hero-container {
   background: rgba(0, 0, 0, 0.8);
   display: table-cell;
-  margin: 0;
-  padding: 0;
   text-align: center;
   vertical-align: middle;
 }
@@ -1103,7 +1119,6 @@ hr{
   margin: 30px 0 10px 0;
   font-weight: 700;
   line-height: 48px;
-  text-transform: uppercase;
   color: #fff;
 }
 

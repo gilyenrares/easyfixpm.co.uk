@@ -27,7 +27,7 @@
   <section id="hero">
     <div class="hero-container">
       <div data-aos="fade-in">
-        <h1 class="brand">Welcome to <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span></h1>
+        <h1 class="brand">Welcome to <span class="px-2"><b>Easy</b><i>Fix</i></span></h1>
         <h2>We provide <span class="typed"
             data-typed-items="Handyman, Patio, Stairs, Fencing, Parking Spaces, Panelling, Painting, Shelving, "></span>services</h2>
         <div class="actions">
@@ -44,7 +44,7 @@
     <div id="cover" class="col-12 col-md-8" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
     </div>
     <div class="col-12 col-md-4" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
-       <h2 class="brand">We are <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span>property maintenance</h2>
+       <h2 class="brand-dark">We are <span class="px-2"><b>Easy</b><i>Fix</i></span>property maintenance</h2>
        <p>We can help you whether you’re a homeowner, developer, landlord or a business with anything from a full refurbishment to replacing a socket – and everything in between!</p>
     </div>
   </div>
@@ -56,8 +56,8 @@
 
 <div class="container pb-5 my-5">
 	<div class="d-flex align-items-center pt-5">
-		<h2 class="brand">
-			What <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> property maintenance can do for me?
+		<h2 class="brand-dark">
+			What <span class="px-2"><b>Easy</b><i>Fix</i></span> property maintenance can do for me?
 		</h2>
 	</div>
 	<!-- ======= Service Section ======= -->
@@ -72,7 +72,7 @@
 							<div class="modal-content text-bg-dark">
 								<div class="modal-header">
 									<h1 class="modal-title fs-5 brand" id="dpModalLabel">
-										<span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> Driveways & Patios
+										<span class="px-2"><b>Easy</b><i>Fix</i></span> Driveways & Patios
 									</h1>
 									<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
 								</div>

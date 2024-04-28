@@ -34,7 +34,7 @@
         <i class="bi bi-house-up-fill text-success"> Residential</i>
         <div class="row justify-content-between align-items-center pt-4">
           <a class="col-4 pb-1 text-danger" href="#">View more <i class="bi bi-arrow-up-right-square"></i></a>
-          <h4 class="brand col-4 me-3"><span class="bg-light px-2"><b>Easy</b><i>Fix</i></span></h4>
+          <h4 class="brand col-4 me-3"><span class="px-2"><b>Easy</b><i>Fix</i></span></h4>
         </div>
       </div>
     </div>
@@ -49,7 +49,7 @@
         <i class="bi bi-house-up-fill text-success"> Residential</i>
         <div class="row justify-content-between align-items-center pt-4">
           <a class="col-4 pb-1 text-danger" href="#">View more <i class="bi bi-arrow-up-right-square"></i></a>
-          <h4 class="brand col-4 me-3"><span class="bg-light px-2"><b>Easy</b><i>Fix</i></span></h4>
+          <h4 class="brand col-4 me-3"><span class="px-2"><b>Easy</b><i>Fix</i></span></h4>
         </div>
       </div>
     </div>
@@ -64,7 +64,7 @@
         <i class="bi bi-house-up-fill text-success"> Residential</i>
         <div class="row justify-content-between align-items-center pt-4">
           <a class="col-4 pb-1 text-danger" href="#">View more <i class="bi bi-arrow-up-right-square"></i></a>
-          <h4 class="brand col-4 me-3"><span class="bg-light px-2"><b>Easy</b><i>Fix</i></span></h4>
+          <h4 class="brand col-4 me-3"><span class="px-2"><b>Easy</b><i>Fix</i></span></h4>
         </div>
       </div>
     </div>
@@ -82,7 +82,7 @@
         <i class="bi bi-house-up-fill text-success"> Residential</i>
         <div class="row justify-content-between align-items-center pt-4">
           <a class="col-4 pb-1 text-danger" href="#">View more <i class="bi bi-arrow-up-right-square"></i></a>
-          <h4 class="brand col-4 me-3"><span class="bg-light px-2"><b>Easy</b><i>Fix</i></span></h4>
+          <h4 class="brand col-4 me-3"><span class="px-2"><b>Easy</b><i>Fix</i></span></h4>
         </div>
       </div>
     </div>
@@ -97,7 +97,7 @@
         <i class="bi bi-house-up-fill text-success"> Residential</i>
         <div class="row justify-content-between align-items-center pt-4">
           <a class="col-4 pb-1 text-danger" href="#">View more <i class="bi bi-arrow-up-right-square"></i></a>
-          <h4 class="brand col-4 me-3"><span class="bg-light px-2"><b>Easy</b><i>Fix</i></span></h4>
+          <h4 class="brand col-4 me-3"><span class="px-2"><b>Easy</b><i>Fix</i></span></h4>
         </div>
       </div>
     </div>

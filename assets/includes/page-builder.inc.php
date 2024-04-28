@@ -15,7 +15,7 @@ if (isset($_GET['project'])) {
       <section id="hero" class="m-hero">
 	<div class="hero-container">
 		<div data-aos="fade-in">
-			<h1 class="brand">'.$row["projectName"].' <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span>
+			<h1 class="brand">'.$row["projectName"].' <span class="px-2"><b>Easy</b><i>Fix</i></span>
 			</h1>
 			<h2>Project highlights <span class="typed" data-typed-items="'.$row["projectHighlights"].'"></span></h2>
 			<div class="actions">
@@ -33,20 +33,20 @@ if (isset($_GET['project'])) {
 <div class="container py-5 text-center">
 	<div class="row d-flex align-items-center justify-content-md-center">
 		<div class="col-12 col-md-8" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
-			<h2 class="brand">'.$row["projectName"].' by </br><span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> property maintenance
+			<h2 class="brand-dark">'.$row["projectName"].' by </br><span class="px-2"><b>Easy</b><i>Fix</i></span> property maintenance
 			</h2>'.$row["projectDescription"].'</div>';
 		}
 	}else{
   echo'<!-- ======= Hero Section ======= -->
 <section id="hero" class="s-hero">
 	<div class="hero-container py-5">
-		<h2 class="brand">Error the <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> Page you are looking for does not exist.</h2></div>
+		<h2 class="brand-dark">Error the <span class="px-2"><b>Easy</b><i>Fix</i></span> Page you are looking for does not exist.</h2></div>
 </section>
 <!-- End Hero -->
 <div class="container py-5 text-center">
 	<div class="row d-flex align-items-center justify-content-md-center">
 		<div class="col-12 col-md-8" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
-			<h2 class="brand">Find what <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> page are you looking for in our <a class="text-danger" href="projects.php"> Projects <i class="bi bi-box-arrow-up-right"></i></a> page.
+			<h2 class="brand-dark">Find what <span class="px-2"><b>Easy</b><i>Fix</i></span> page are you looking for in our <a class="text-danger" href="projects.php"> Projects <i class="bi bi-box-arrow-up-right"></i></a> page.
 			</h2>
 		</div>';
 }
@@ -64,7 +64,7 @@ if (isset($_GET['project'])) {
       <section id="hero" class="m-hero">
 	<div class="hero-container">
 		<div data-aos="fade-in">
-			<h1 class="brand">'.$row["serviceName"].' <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span>
+			<h1 class="brand">'.$row["serviceName"].' <span class="px-2"><b>Easy</b><i>Fix</i></span>
 			</h1>
 			<h2>Popular Materials: <span class="typed" data-typed-items="'.$row["serviceHighlights"].'"></span></h2>
 			<div class="actions">
@@ -76,7 +76,7 @@ if (isset($_GET['project'])) {
 <!-- End Hero -->
 <div class="container py-5">
 	<div class="row d-flex justify-content-md-center">
-		<h2 class="brand text-center pb-3">'.$row["serviceName"].' by </br><span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> property maintenance</h2>
+		<h2 class="brand-dark text-center pb-3">'.$row["serviceName"].' by </br><span class="px-2"><b>Easy</b><i>Fix</i></span> property maintenance</h2>
 		<article class="col-12 col-md-6" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">'.$row["serviceDescription"].'</article>
 			<div class="col-12 col-md-6" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
 			<h3 class="text-center">'.$row["serviceName"].' Services</h3>'.$row["serviceList"].'
@@ -93,13 +93,13 @@ if (isset($_GET['project'])) {
   echo'<!-- ======= Hero Section ======= -->
 <section id="hero" class="s-hero">
 	<div class="hero-container py-5">
-		<h2 class="brand">Error the <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> Page you are looking for does not exist.</h2></div>
+		<h2 class="brand-dark">Error the <span class="px-2"><b>Easy</b><i>Fix</i></span> Page you are looking for does not exist.</h2></div>
 </section>
 <!-- End Hero -->
 <div class="container py-5 text-center">
 	<div class="row d-flex align-items-center justify-content-md-center">
 		<div class="col-12 col-md-8" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
-			<h2 class="brand">Find what <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> page are you looking for in our <a class="text-danger" href="services.php"> Services <i class="bi bi-box-arrow-up-right"></i></a> page.
+			<h2 class="brand-dark">Find what <span class="px-2"><b>Easy</b><i>Fix</i></span> page are you looking for in our <a class="text-danger" href="services.php"> Services <i class="bi bi-box-arrow-up-right"></i></a> page.
 			</h2>
 		</div>';
 }
@@ -107,13 +107,13 @@ if (isset($_GET['project'])) {
   echo'<!-- ======= Hero Section ======= -->
 <section id="hero" class="s-hero">
 	<div class="hero-container py-5">
-		<h2 class="brand">Error the <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> Page you are looking for does not exist.</h2></div>
+		<h2 class="brand-dark">Error the <span class="px-2"><b>Easy</b><i>Fix</i></span> Page you are looking for does not exist.</h2></div>
 </section>
 <!-- End Hero -->
 <div class="container py-5 text-center">
 	<div class="row d-flex align-items-center justify-content-md-center">
 		<div class="col-12 col-md-8" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
-			<h2 class="brand">Find what </br><span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> page are you looking for in <a class="text-danger" href="projects.php"> Projects <i class="bi bi-box-arrow-up-right"></i></a> page or <a class="text-danger" href="services.php"> Services <i class="bi bi-box-arrow-up-right"></i></a> Page.
+			<h2 class="brand-dark">Find what </br><span class="px-2"><b>Easy</b><i>Fix</i></span> page are you looking for in <a class="text-danger" href="projects.php"> Projects <i class="bi bi-box-arrow-up-right"></i></a> page or <a class="text-danger" href="services.php"> Services <i class="bi bi-box-arrow-up-right"></i></a> Page.
 			</h2>
 		</div>';
 }

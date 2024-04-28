@@ -1,8 +1,8 @@
 <!-- ======= Carousel Section ======= -->
 <div class="container pb-5 my-5">
 	<div class="d-flex align-items-center p-3">
-		<h2 class="brand">
-			Samples of <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> services in action.
+		<h2 class="brand-dark">
+			Samples of <span class="px-2"><b>Easy</b><i>Fix</i></span> services in action.
 		</h2>
 	</div>
 

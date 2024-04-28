@@ -31,7 +31,7 @@
           <img class="" src="assets/img/logo.png" alt="EasyFix Logo">
         </div> -->
 
-        <h1 class="brand">Our projects <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span></h1>
+        <h1 class="brand">Our projects <span class="px-2"><b>Easy</b><i>Fix</i></span></h1>
         <h2>We are a <span class="typed"
             data-typed-items="Motivated, Experienced, Professional, Fair, Family, "></span>company</h2>
         <div class="actions">

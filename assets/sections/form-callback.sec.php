@@ -1,7 +1,7 @@
 <!--------- Callback form ----------->
 <div class="row justify-content-center pt-3 bg-main rounded">
 	<h2 class="brand text-white">
-		Let <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> call you
+		Let <span class="px-2"><b>Easy</b><i>Fix</i></span> call you
 	</h2>
 	<div class="col-12 contact bg-dark p-3 rounded-bottom">
 		<form action="assets/includes/callback.inc.php" method="post" class="php-email-form">

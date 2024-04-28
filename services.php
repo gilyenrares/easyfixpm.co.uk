@@ -27,7 +27,7 @@
   <section id="hero" class="m-hero">
     <div class="hero-container">
       <div data-aos="fade-in">
-        <h1 class="brand">Our <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> services</h1>
+        <h1 class="brand">Our <span class="px-2"><b>Easy</b><i>Fix</i></span> services</h1>
         <h2>We provide <span class="typed"
             data-typed-items=" Patio, Stairs, Fencing, Parking Spaces, Panelling, Handyman, Painting, Shelving, "></span>services</h2>
         <div class="actions">
@@ -108,7 +108,7 @@
 <div class="container py-5 text-center">
   <div class="row d-flex align-items-center justify-content-md-center">
     <div class="col-12 col-md-4" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
-       <h2 class="brand">We are <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span>property maintenance</h2>
+       <h2 class="brand-dark">We are <span class="px-2"><b>Easy</b><i>Fix</i></span>property maintenance</h2>
        <p>We can help you whether you’re a homeowner, developer, landlord or a business with anything from a full refurbishment to replacing a socket – and everything in between!</p>
     </div>
     <div id="cover" class="col-12 col-md-8" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">

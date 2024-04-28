@@ -34,7 +34,7 @@
         <i class="bi bi-house-up-fill text-success"> Residential</i>
         <div class="row justify-content-between align-items-center pt-4">
           <a class="col-4 pb-1 text-danger" href="#" data-bs-toggle="modal" data-bs-target="#p1Modal">View more <i class="bi bi-arrow-up-right-square"></i></a>
-          <h4 class="brand col-4 me-3"><span class="bg-light px-2"><b>Easy</b><i>Fix</i></span></h4>
+          <h4 class="brand col-4 me-3"><span class="px-2"><b>Easy</b><i>Fix</i></span></h4>
         </div>
       </div>
     </div>
@@ -45,7 +45,7 @@
         <div class="modal-content text-bg-dark">
           <div class="modal-header">
             <h1 class="modal-title fs-5 brand" id="p1ModalLabel">
-              <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> Garden Patio - Residential Project
+              <span class="px-2"><b>Easy</b><i>Fix</i></span> Garden Patio - Residential Project
             </h1>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
@@ -72,7 +72,7 @@
         <i class="bi bi-house-up-fill text-success"> Residential</i>
         <div class="row justify-content-between align-items-center pt-4">
           <a class="col-4 pb-1 text-danger" href="#" data-bs-toggle="modal" data-bs-target="#p2Modal">View more <i class="bi bi-arrow-up-right-square"></i></a>
-          <h4 class="brand col-4 me-3"><span class="bg-light px-2"><b>Easy</b><i>Fix</i></span></h4>
+          <h4 class="brand col-4 me-3"><span class="px-2"><b>Easy</b><i>Fix</i></span></h4>
         </div>
       </div>
     </div>
@@ -83,7 +83,7 @@
         <div class="modal-content text-bg-dark">
           <div class="modal-header">
             <h1 class="modal-title fs-5 brand" id="p2ModalLabel">
-              <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> Garden Refurbishment - Residential Project
+              <span class="px-2"><b>Easy</b><i>Fix</i></span> Garden Refurbishment - Residential Project
             </h1>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
@@ -110,7 +110,7 @@
         <i class="bi bi-house-up-fill text-success"> Residential</i>
         <div class="row justify-content-between align-items-center pt-4">
           <a class="col-4 pb-1 text-danger" href="#" data-bs-toggle="modal" data-bs-target="#p3Modal">View more <i class="bi bi-arrow-up-right-square"></i></a>
-          <h4 class="brand col-4 me-3"><span class="bg-light px-2"><b>Easy</b><i>Fix</i></span></h4>
+          <h4 class="brand col-4 me-3"><span class="px-2"><b>Easy</b><i>Fix</i></span></h4>
         </div>
       </div>
     </div>
@@ -121,7 +121,7 @@
         <div class="modal-content text-bg-dark">
           <div class="modal-header">
             <h1 class="modal-title fs-5 brand" id="p3ModalLabel">
-              <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> Metal Stairs - Residential Project
+              <span class="px-2"><b>Easy</b><i>Fix</i></span> Metal Stairs - Residential Project
             </h1>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
@@ -151,7 +151,7 @@
         <i class="bi bi-house-up-fill text-success"> Residential</i>
         <div class="row justify-content-between align-items-center pt-4">
           <a class="col-4 pb-1 text-danger" href="#" data-bs-toggle="modal" data-bs-target="#p4Modal">View more <i class="bi bi-arrow-up-right-square"></i></a>
-          <h4 class="brand col-4 me-3"><span class="bg-light px-2"><b>Easy</b><i>Fix</i></span></h4>
+          <h4 class="brand col-4 me-3"><span class="px-2"><b>Easy</b><i>Fix</i></span></h4>
         </div>
       </div>
     </div>
@@ -162,7 +162,7 @@
         <div class="modal-content text-bg-dark">
           <div class="modal-header">
             <h1 class="modal-title fs-5 brand" id="p4ModalLabel">
-              <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> New Fence - Residential Project
+              <span class="px-2"><b>Easy</b><i>Fix</i></span> New Fence - Residential Project
             </h1>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>
@@ -189,7 +189,7 @@
         <i class="bi bi-house-up-fill text-success"> Residential</i>
         <div class="row justify-content-between align-items-center pt-4">
           <a class="col-4 pb-1 text-danger" href="#" data-bs-toggle="modal" data-bs-target="#p5Modal">View more <i class="bi bi-arrow-up-right-square"></i></a>
-          <h4 class="brand col-4 me-3"><span class="bg-light px-2"><b>Easy</b><i>Fix</i></span></h4>
+          <h4 class="brand col-4 me-3"><span class="px-2"><b>Easy</b><i>Fix</i></span></h4>
         </div>
       </div>
     </div>
@@ -200,7 +200,7 @@
         <div class="modal-content text-bg-dark">
           <div class="modal-header">
             <h1 class="modal-title fs-5 brand" id="p5ModalLabel">
-              <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> Parking Space - Residential Project
+              <span class="px-2"><b>Easy</b><i>Fix</i></span> Parking Space - Residential Project
             </h1>
             <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
           </div>

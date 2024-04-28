@@ -27,7 +27,7 @@
   <section id="hero" class="m-hero">
     <div class="hero-container">
       <div data-aos="fade-in">
-        <h1 class="brand">About <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span></h1>
+        <h1 class="brand">About <span class="px-2"><b>Easy</b><i>Fix</i></span></h1>
         <h2>We are a <span class="typed"
             data-typed-items="Motivated, Experienced, Professional, Fair, Family, "></span>company</h2>
         <div class="actions">
@@ -42,7 +42,7 @@
  <div class="container py-5 text-center">
   <div class="row d-flex align-items-center justify-content-md-center">
     <div class="col-12 col-md-4" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
-       <h2 class="brand">We are <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span>property maintenance</h2>
+       <h2 class="brand-dark">We are <span class="px-2"><b>Easy</b><i>Fix</i></span>property maintenance</h2>
        <p>We can help you whether you’re a homeowner, developer, landlord or a business with anything from a full refurbishment to replacing a socket – and everything in between!</p>
     </div>
     <div id="cover" class="col-12 col-md-8" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
@@ -59,7 +59,7 @@
     <div id="cover" class="col-12 col-md-6" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
     </div>
     <div class="col-12 col-md-6" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
-       <h2 class="brand">We are <span class="bg-light px-2"><b>Easy</b><i>Fix</i></span>property maintenance</h2>
+       <h2 class="brand-dark">We are <span class="px-2"><b>Easy</b><i>Fix</i></span>property maintenance</h2>
        <p>EasyFix offers a complete service pack, and can help with all aspects of property management services – from fixing a damaged gate or repairing a fence to completely refurbishing a house – ensuring nothing is out of place and that repair you never got to is a thing of the past.</p>
 
     	<p>We work hand-in-hand with our clients, providing regular updates on progress with their specific project. From the first site visit, estimate and schedule of works through to completion, we are there for you every step of the way.</p>
