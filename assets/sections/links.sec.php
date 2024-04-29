@@ -7,6 +7,7 @@
 
   gtag('config', 'G-538K8F0J7G');
 </script>
+<script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
   <!-- Favicons -->
   <link href="assets/img/favicon.ico" rel="icon">
   <link href="assets/img/favicon-32x32.png" rel="x-icon">
@@ -28,4 +29,4 @@
   <link href="assets/vendor/aos/aos.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
-  <link href="assets/css/main.css" rel="stylesheet">
+  <link href="assets/css/main.css?v=1" rel="stylesheet">

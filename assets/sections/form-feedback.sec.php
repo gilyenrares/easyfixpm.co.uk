@@ -5,11 +5,11 @@
 </div>
 <form class="form-main p-3 rounded-bottom needs-validation" action="assets/includes/feedback.inc.php" method="post" novalidate>
 	<h3 class="pt-3">Was any work carried out?</h3>
-	<div class="btn-group d-flex" role="group" aria-label="Work done toggle button group">
-		<input type="radio" class="btn-check" name="worked" id="radioYes" autocomplete="off" checked data-bs-toggle="collapse" data-bs-target="#ro1" aria-expanded="true" aria-controls="ro1" />
+	<div class="btn-group d-flex form-check" role="group" aria-label="Work done toggle button group">
+		<input type="radio" class="btn-check" name="worked" id="radioYes" value="true" autocomplete="off" checked data-bs-toggle="collapse" data-bs-target="#ro1" aria-expanded="true" aria-controls="ro1" />
 		<label class="btn btn-outline-success label-main" for="radioYes">Yes</label>
 
-		<input type="radio" class="btn-check" name="worked" id="radioNo" autocomplete="off" data-bs-toggle="collapse" data-bs-target="#ro2" aria-expanded="false" aria-controls="ro2" />
+		<input type="radio" class="btn-check" name="worked" id="radioNo" value="false" autocomplete="off" data-bs-toggle="collapse" data-bs-target="#ro2" aria-expanded="false" aria-controls="ro2" />
 		<label class="btn btn-outline-danger label-main" for="radioNo">No</label>
 	</div>
 
@@ -140,13 +140,13 @@
 
   <h3 class="pt-3">Brief of job requested</h3>
   <div class="mb-3">
-    <textarea  class="form-control" name="description" placeholder="Short job description" rows="2" value="<?php if (isset($_GET['description'])) {echo $_GET['description'];} ?>" required="required"></textarea>
+    <textarea  class="form-control" name="jobdesc" placeholder="Short job description" rows="2" value="<?php if (isset($_GET['jobdesc'])) {echo $_GET['jobdesc'];} ?>" required="required"></textarea>
     <div class="valid-feedback">Looks good!</div>
     <div class="invalid-feedback">A small job description is required.</div>
   </div>
   <h3 class="pt-3">Your feedback</h3>
   <div class="mb-3">
-    <textarea  class="form-control" name="feedback" placeholder="Write your feedback here" rows="6" value="<?php if (isset($_GET['description'])) {echo $_GET['description'];} ?>" required="required"></textarea>
+    <textarea  class="form-control" name="feedback" placeholder="Write your feedback here" rows="6" value="<?php if (isset($_GET['feedback'])) {echo $_GET['feedback'];} ?>" required="required"></textarea>
     <div class="valid-feedback">Looks good!</div>
     <div class="invalid-feedback">Please add a few words to your feedback.</div>
   </div>
@@ -155,7 +155,7 @@
   <div class="row">
     <div class="col-md-3 mb-3">
       <label for="title">Title</label>
-        <input type="text" class="form-control" name="ti" id="title" placeholder="Title" value="<?php if (isset($_GET['ti'])) {echo $_GET['ti'];} ?>" required="required">
+        <input type="text" class="form-control" name="title" id="title" placeholder="Title" value="<?php if (isset($_GET['title'])) {echo $_GET['title'];} ?>" required="required">
         <div class="valid-feedback">Looks good!</div>
         <div class="invalid-feedback">Your title is required.</div>
     </div>
@@ -174,7 +174,7 @@
   </div>
   <div class="row">
     <div class="form-check col-12 mb-3">
-      <input class="form-check-input mx-2" name="isAnon" type="checkbox" id="check">
+      <input class="form-check-input mx-2" name="isAnon" value="true" type="checkbox" id="check">
       <label class="form-check-label d-flex flex-wrap" for="check">Check if you want to remain anonymous on <p class="brand m-0"><span class="px-2"><b>Easy</b><i>Fix</i></span> </p> <i>*We'll use First part of your postcode instead.</i></label>
     </div>
   </div>

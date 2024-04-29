@@ -102,3 +102,7 @@
   <a href="#" class="fab d-flex align-items-center justify-content-center" data-bs-toggle="modal" data-bs-target="#contactOptionsModal">
     <i class="fi fi-sr-customer-service"></i>
   </a>
+ <script
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA8WGTQOsUQb2srchXz-0lyhUSKbqyai3w&callback=initMap&v=weekly"
+      defer
+    ></script>

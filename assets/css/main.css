@@ -57,7 +57,10 @@ hr{
   height: 3px;
   margin: 0 15vw;
 }
-
+#map{
+  height: 600px;
+  width: 100%;
+}
 .brand span b {
   color: #fff ;
 }
@@ -531,7 +534,8 @@ hr{
 }
 
  .carousel-item, .carousel-item img {
-  height: 70vh;
+  max-height: 70vh;
+  min-height: 30vh;
   object-fit: contain;
  }
 @media (max-width:768px) {

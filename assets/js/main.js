@@ -291,3 +291,38 @@ document.addEventListener('DOMContentLoaded', () => {
 		);
 	});
 })();
+
+const citymap = {
+	gloucestershire: {
+		center: { lat: 51.863256548095784, lng: -2.2434171194987873 },
+		size: 32000,
+	},
+	gloucester: {
+		center: { lat: 51.863256548095784, lng: -2.2434171194987873 },
+		size: 18000,
+	},
+};
+
+function initMap() {
+	const map = new google.maps.Map(document.getElementById('map'), {
+		zoom: 9,
+		center: { lat: 51.863256548095784, lng: -2.2434171194987873 },
+		mapTypeId: 'roadmap',
+	});
+
+	// Construct the polygon.
+	const bermudaTriangle = new google.maps.Circle({
+		strokeColor: '#0011ff',
+		strokeOpacity: 0.8,
+		strokeWeight: 2,
+		fillColor: '#0055ff',
+		fillOpacity: 0.35,
+		map,
+		center: { lat: 51.863256548095784, lng: -2.2434171194987873 },
+		radius: 30000,
+	});
+
+	bermudaTriangle.setMap(map);
+}
+
+window.initMap = initMap;
