@@ -40,7 +40,7 @@ if (isset($_GET['project'])) {
   echo'<!-- ======= Hero Section ======= -->
 <section id="hero" class="s-hero">
 	<div class="hero-container py-5">
-		<h2 class="brand-dark">Error the <span class="px-2"><b>Easy</b><i>Fix</i></span> Page you are looking for does not exist.</h2></div>
+		<h2 class="brand">Error the <span class="px-2"><b>Easy</b><i>Fix</i></span> Page you are looking for does not exist.</h2></div>
 </section>
 <!-- End Hero -->
 <div class="container py-5 text-center">
@@ -48,7 +48,9 @@ if (isset($_GET['project'])) {
 		<div class="col-12 col-md-8" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
 			<h2 class="brand-dark">Find what <span class="px-2"><b>Easy</b><i>Fix</i></span> page are you looking for in our <a class="text-danger" href="projects.php"> Projects <i class="bi bi-box-arrow-up-right"></i></a> page.
 			</h2>
-		</div>';
+		</div>
+	</div>
+</div>';
 }
 } elseif (isset($_GET['service'])) {
 	$service = mysqli_real_escape_string($conn, $_GET['service']);
@@ -93,7 +95,7 @@ if (isset($_GET['project'])) {
   echo'<!-- ======= Hero Section ======= -->
 <section id="hero" class="s-hero">
 	<div class="hero-container py-5">
-		<h2 class="brand-dark">Error the <span class="px-2"><b>Easy</b><i>Fix</i></span> Page you are looking for does not exist.</h2></div>
+		<h2 class="brand">Error the <span class="px-2"><b>Easy</b><i>Fix</i></span> Page you are looking for does not exist.</h2></div>
 </section>
 <!-- End Hero -->
 <div class="container py-5 text-center">
@@ -101,13 +103,15 @@ if (isset($_GET['project'])) {
 		<div class="col-12 col-md-8" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
 			<h2 class="brand-dark">Find what <span class="px-2"><b>Easy</b><i>Fix</i></span> page are you looking for in our <a class="text-danger" href="services.php"> Services <i class="bi bi-box-arrow-up-right"></i></a> page.
 			</h2>
-		</div>';
+		</div>
+	</div>
+</div>';
 }
 }else{
   echo'<!-- ======= Hero Section ======= -->
 <section id="hero" class="s-hero">
 	<div class="hero-container py-5">
-		<h2 class="brand-dark">Error the <span class="px-2"><b>Easy</b><i>Fix</i></span> Page you are looking for does not exist.</h2></div>
+		<h2 class="brand">Error the <span class="px-2"><b>Easy</b><i>Fix</i></span> Page you are looking for does not exist.</h2></div>
 </section>
 <!-- End Hero -->
 <div class="container py-5 text-center">
@@ -115,6 +119,8 @@ if (isset($_GET['project'])) {
 		<div class="col-12 col-md-8" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
 			<h2 class="brand-dark">Find what </br><span class="px-2"><b>Easy</b><i>Fix</i></span> page are you looking for in <a class="text-danger" href="projects.php"> Projects <i class="bi bi-box-arrow-up-right"></i></a> page or <a class="text-danger" href="services.php"> Services <i class="bi bi-box-arrow-up-right"></i></a> Page.
 			</h2>
-		</div>';
+		</div>
+	</div>
+</div>';
 }
  ?>

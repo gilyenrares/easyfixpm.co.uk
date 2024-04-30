@@ -22,6 +22,7 @@
               <a class="dropdown-item" href="service.php?service=Gardening&id=4">Gardening</a>
               <a class="dropdown-item" href="service.php?service=Handyman&id=5">Handyman</a>
               <a class="dropdown-item" href="service.php?service=Repairs&id=6">Repairs</a>
+              <a class="dropdown-item" href="service.php?service=Full%20Refurbishment&id=7">Refurbishments</a>
            </div>
             </li>
             <li class="nav-item inactive">
