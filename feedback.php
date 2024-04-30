@@ -37,7 +37,7 @@
     </div>
   </section>
   <!-- End Hero -->
-<!-- Operation area -->
+<!-- Reviews area banner -->
 <?php include "assets/sections/banner-reviews.sec.php" ?>
 
 <div class="container py-5 text-center">

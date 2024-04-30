@@ -43,8 +43,14 @@
 <!-- Found something banner -->
 <?php include "assets/sections/banner-found.sec.php" ?>
 
+<!-- Memberships banner -->
+<?php include "assets/sections/banner-memberships.sec.php" ?>
+
 <!-- Latest Project banner -->
 <?php include "assets/sections/banner-projects.sec.php" ?>
+
+<!-- Reviews area banner -->
+<?php include "assets/sections/banner-reviews.sec.php" ?>
 
 
 <!-- Driveways & Patios Carousel -->

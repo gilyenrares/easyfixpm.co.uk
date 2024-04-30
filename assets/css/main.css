@@ -1330,10 +1330,36 @@ padding-bottom: 5%;
     }
 }
 /*--------------------------------------------------------------
-# Banner
+# Banners
 --------------------------------------------------------------*/
+/* Reviews */
+.carousel-review img {
+  max-height: 60vh !important;
+  min-height: 30vh !important;
+  object-fit: cover !important;
+}
+.carousel-review p{
+  max-height: 50%;
+  overflow-y:auto;
+}
+.carousel-review .carousel-caption {
+  height: 50%;
+}
+@media (max-width: 768px) {
+  .carousel-review .carousel-caption {
+      height: 90%;
+    }
+}
+.brand-checkatrade span b:first-child {
+  color: #D10A38;
+}
 
-
+.brand-checkatrade span b:last-child {
+  color: #0058A2 !important;
+}
+.brand-mybuilder span b {
+  color: #6C2B8C;
+}
 
 
 /* Carousel */

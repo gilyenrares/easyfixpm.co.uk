@@ -278,6 +278,10 @@
 
 <!-- Operation area -->
 <?php include "assets/sections/banner-area.sec.php" ?>
+<!-- Reviews area banner -->
+<?php include "assets/sections/banner-reviews.sec.php" ?>
+<!-- Memberships banner -->
+<?php include "assets/sections/banner-memberships.sec.php" ?>
 
 <!-- Footer -->
 <?php include "assets/sections/footer.sec.php" ?>
