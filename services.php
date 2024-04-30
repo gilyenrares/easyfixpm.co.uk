@@ -117,13 +117,14 @@
   </div>
 </div>
 
-
-
-<!-- Operation area -->
-<?php include "assets/sections/banner-area.sec.php" ?>
+<!-- Memberships banner -->
+<?php include "assets/sections/banner-memberships.sec.php" ?>
 
 <!-- Other Services Carousel -->
 <?php include "assets/sections/carousel-os.sec.php" ?>
+
+<!-- Operation area -->
+<?php include "assets/sections/banner-area.sec.php" ?>
 
 <!-- Footer -->
 <?php include "assets/sections/footer.sec.php" ?>

@@ -107,6 +107,13 @@
 <?php include "assets/sections/carousel-p10.sec.php" ?>
 
 
+<!-- Project Builder -->
+<?php include "assets/includes/page-builder.inc.php" ?>
+
+<!-- Latest 5 Reviews Builder -->
+<?php include "assets/includes/latest-reviews.inc.php" ?>
+
+
   <!-- =======Small Hero Section ======= -->
   <section id="hero" class="s-hero">
     <div class="hero-container">

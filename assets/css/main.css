@@ -1339,7 +1339,7 @@ padding-bottom: 5%;
   object-fit: cover !important;
 }
 .carousel-review p{
-  max-height: 50%;
+  max-height: 60%;
   overflow-y:auto;
 }
 .carousel-review .carousel-caption {

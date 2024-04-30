@@ -20,7 +20,7 @@
 </div>
   <section id="hero" class="s-hero">
     <div class="hero-container">
-      <div data-aos="fade-in">
+      <div data-aos="fade-up">
         <h1 class="brand"><span class="px-2"><b>Easy</b><i>Fix</i></span></h1>
         <h2 class="m-0">We operate in<span class="typed"
             data-typed-items="South, West, North,  "></span> Gloucestershire</h2>
