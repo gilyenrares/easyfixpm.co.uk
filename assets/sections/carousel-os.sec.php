@@ -12,6 +12,7 @@
 			<button type="button" data-bs-target="#os-ref" data-bs-slide-to="1" aria-label="Slide 2"></button>
 			<button type="button" data-bs-target="#os-ref" data-bs-slide-to="2" aria-label="Slide 3"></button>
 			<button type="button" data-bs-target="#os-ref" data-bs-slide-to="3" aria-label="Slide 4"></button>
+			<button type="button" data-bs-target="#os-ref" data-bs-slide-to="4" aria-label="Slide 5"></button>
 		</div>
 		<div class="carousel-inner">
 			<div class="carousel-item active">
@@ -40,6 +41,13 @@
 				<div class="carousel-caption d-none d-md-block">
 					<h5>Garden Patio</h5>
 					<p>Wood decking replaced with slab patio.</p>
+				</div>
+			</div>
+			<div class="carousel-item">
+				<img src="assets/img/services/os5.jpg" class="d-block w-100" alt="..." />
+				<div class="carousel-caption d-none d-md-block">
+					<h5>Gate Repair</h5>
+					<p>Stone wall repaired and gate post fitted.</p>
 				</div>
 			</div>
 		</div>

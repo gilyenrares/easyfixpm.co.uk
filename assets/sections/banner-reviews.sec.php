@@ -27,7 +27,7 @@
 		<div class="col-12 col-lg-8" data-aos="fade-up" data-aos-delay="100" data-aos-duration="1000">
 			<!-- ======= Carousel Section ======= -->
 
-			<div id="review-ref" class="carousel slide carousel-fade">
+			<div id="review-ref" class="carousel slide carousel-fade" data-bs-ride="carousel">
 				<h3 class="brand-dark">What our customers say about <span class="px-2"><b>Easy</b><i>Fix</i></span
 				></h3>
 				<div class="carousel-indicators">
