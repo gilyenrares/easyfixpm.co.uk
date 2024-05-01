@@ -306,10 +306,10 @@
 				<!-- End Service Item --><div class="col-md-4" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000">
 					<h2 class="gallery-item-title text-center">Memberships</h2>
 					<div class="gallery-item h-100">
-						<img src="assets/img/banners/membership.webp" class="img-fluid" alt="" />
+						<img src="assets/img/banners/no-project.webp" class="img-fluid" alt="" />
 						<div class="row gallery-links d-flex align-items-center justify-content-center">
-							<a class="col-8 btn btn-lg btn-light" href="https://www.checkatrade.com/trades/easyfixpropertymaintenance" target="_Blank"><h3 class="brand-checkatrade"><span class="px-2"><b>Checka</b><b>trade</b></span></h3> Member <i class="bi bi-box-arrow-up-right"></i></a>
-							<a class="col-8 btn btn-lg btn-light" href="https://www.mybuilder.com/profile/easyfix_property_maintenance" target="_Blank"><h3 class="brand-mybuilder"><span class="px-2"><b>MyBuilder</b></span></h3> Member <i class="bi bi-box-arrow-up-right"></i></a>
+							<a class="col-8 btn btn-light" style="margin-block-start: 190px;" href="https://www.checkatrade.com/trades/easyfixpropertymaintenance" target="_Blank"><h3 class="brand-checkatrade"><span class="px-2"><b>Checka</b><b>trade</b></span></h3> Member <i class="bi bi-box-arrow-up-right"></i></a>
+							<a class="col-8 btn  btn-light" href="https://www.mybuilder.com/profile/easyfix_property_maintenance" target="_Blank"><h3 class="brand-mybuilder"><span class="px-2"><b>MyBuilder</b></span></h3> Member <i class="bi bi-box-arrow-up-right"></i></a>
 						</div>
 					</div>
 				</div>
