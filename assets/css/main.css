@@ -551,6 +551,7 @@ hr{
   position: relative;
   overflow: hidden;
   border-radius: 10px;
+  max-height: 40vh;
 }
 
 .gallery .gallery-item img {

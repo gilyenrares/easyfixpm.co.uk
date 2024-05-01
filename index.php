@@ -107,7 +107,7 @@
 							<div class="modal-content text-bg-dark">
 								<div class="modal-header">
 									<h1 class="modal-title fs-5 brand" id="fModalLabel">
-										<span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> Fencing
+										<span class="px-2"><b>Easy</b><i>Fix</i></span> Fencing
 									</h1>
 									<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
 								</div>
@@ -142,7 +142,7 @@
 							<div class="modal-content text-bg-dark">
 								<div class="modal-header">
 									<h1 class="modal-title fs-5 brand" id="decoModalLabel">
-										<span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> Decorating
+										<span class="px-2"><b>Easy</b><i>Fix</i></span> Decorating
 									</h1>
 									<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
 								</div>
@@ -176,7 +176,7 @@
 							<div class="modal-content text-bg-dark">
 								<div class="modal-header">
 									<h1 class="modal-title fs-5 brand" id="gModalLabel">
-										<span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> Gardening
+										<span class="px-2"><b>Easy</b><i>Fix</i></span> Gardening
 									</h1>
 									<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
 								</div>
@@ -210,7 +210,7 @@
 							<div class="modal-content text-bg-dark">
 								<div class="modal-header">
 									<h1 class="modal-title fs-5 brand" id="hmModalLabel">
-										<span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> Handyman
+										<span class="px-2"><b>Easy</b><i>Fix</i></span> Handyman
 									</h1>
 									<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
 								</div>
@@ -244,7 +244,7 @@
 							<div class="modal-content text-bg-dark">
 								<div class="modal-header">
 									<h1 class="modal-title fs-5 brand" id="repModalLabel">
-										<span class="bg-light px-2"><b>Easy</b><i>Fix</i></span> Repairs
+										<span class="px-2"><b>Easy</b><i>Fix</i></span> Repairs
 									</h1>
 									<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
 								</div>
@@ -266,6 +266,50 @@
 						<div class="gallery-links d-flex align-items-center justify-content-center">
 							<a href="#" class="details-arrow" title="Repairs" data-bs-toggle="modal" data-bs-target="#repModal"> <i class="bi bi-arrows-angle-expand"></i></a>
 							<a href="service.php?service=Repairs&id=6" class="details-link"><i class="bi bi-link-45deg"></i></a>
+						</div>
+					</div>
+				</div>
+				<!-- End Service Item -->
+				<div class="col-md-4" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000">
+					<h2 class="gallery-item-title text-center">Refurbishments</h2>
+					<!-- Modal -->
+					<div class="modal modal-xl fade" id="refModal" tabindex="-1" aria-labelledby="refModalLabel" aria-hidden="true">
+						<div class="modal-dialog modal-dialog-centered">
+							<div class="modal-content text-bg-dark">
+								<div class="modal-header">
+									<h1 class="modal-title fs-5 brand" id="refModalLabel">
+										<span class="px-2"><b>Easy</b><i>Fix</i></span>Full Refurbishments
+									</h1>
+									<button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+								</div>
+								<div class="modal-body">
+									<!-- Refurbishments Carousel -->
+									<?php include "assets/sections/carousel-fr.sec.php" ?>
+								</div>
+								<div class="modal-footer">
+									<a href="services.php" class="btn btn-primary"> Our Services <i class="bi bi-box-arrow-up-right"></i> </a>
+									<a href="service.php?service=Full%20Refurbishment&id=7" class="btn btn-info">More info <i class="bi bi-box-arrow-up-right"></i> </a>
+									<button type="button" class="btn btn-danger" data-bs-dismiss="modal">Close</button>
+								</div>
+							</div>
+						</div>
+					</div>
+					<!-- End Modal -->
+					<div class="gallery-item h-100">
+						<img src="assets/img/banners/refurb.webp" class="img-fluid" alt="" />
+						<div class="gallery-links d-flex align-items-center justify-content-center">
+							<a href="#" class="details-arrow" title="Repairs" data-bs-toggle="modal" data-bs-target="#refModal"> <i class="bi bi-arrows-angle-expand"></i></a>
+							<a href="service.php?service=Full%20Refurbishment&id=7" class="details-link"><i class="bi bi-link-45deg"></i></a>
+						</div>
+					</div>
+				</div>
+				<!-- End Service Item --><div class="col-md-4" data-aos="fade-up" data-aos-delay="300" data-aos-duration="1000">
+					<h2 class="gallery-item-title text-center">Memberships</h2>
+					<div class="gallery-item h-100">
+						<img src="assets/img/banners/membership.webp" class="img-fluid" alt="" />
+						<div class="row gallery-links d-flex align-items-center justify-content-center">
+							<a class="col-8 btn btn-lg btn-light" href="https://www.checkatrade.com/trades/easyfixpropertymaintenance" target="_Blank"><h3 class="brand-checkatrade"><span class="px-2"><b>Checka</b><b>trade</b></span></h3> Member <i class="bi bi-box-arrow-up-right"></i></a>
+							<a class="col-8 btn btn-lg btn-light" href="https://www.mybuilder.com/profile/easyfix_property_maintenance" target="_Blank"><h3 class="brand-mybuilder"><span class="px-2"><b>MyBuilder</b></span></h3> Member <i class="bi bi-box-arrow-up-right"></i></a>
 						</div>
 					</div>
 				</div>
