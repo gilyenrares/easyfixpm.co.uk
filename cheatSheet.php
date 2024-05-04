@@ -53,8 +53,11 @@
 <?php include "assets/sections/banner-reviews.sec.php" ?>
 
 
-<!-- Driveways & Patios Carousel -->
-<?php include "assets/sections/carousel-dp.sec.php" ?>
+<!-- Driveways Carousel -->
+<?php include "assets/sections/carousel-drw.sec.php" ?>
+
+<!-- Patios Carousel -->
+<?php include "assets/sections/carousel-pat.sec.php" ?>
 
 <!-- Fencing Carousel -->
 <?php include "assets/sections/carousel-f.sec.php" ?>
@@ -138,6 +141,13 @@
   </section>
   <!-- End Hero -->
 
+
+cwebp 1.jpg -o 1.webp
+cwebp 2.jpg -o 2.webp
+cwebp 3.jpg -o 3.webp
+cwebp 4.jpg -o 4.webp
+cwebp 5.jpg -o 5.webp
+cwebp 6.jpg -o 6.webp
 
 cwebp b1.jpg -o b1.webp
 cwebp b2.jpg -o b2.webp

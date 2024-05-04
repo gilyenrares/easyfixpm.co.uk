@@ -52,7 +52,7 @@
 </div>
 
 <!-- Reviews area banner -->
-<?php include "assets/sections/banner-reviews.sec.php" ?>
+<?php include "assets/includes/carousel-builder.inc.php" ?>
 
 
 <!-- Footer -->

@@ -52,13 +52,14 @@
             <div class="col-12 col-md-2 text-white" >
               <h2 class="brand">Services</h2>
               <ul class="list-group list-group-flush service-list">
-                <li><a class="nav-link" href="service.php?service=Driveways%20%26%20Patios&id=1">Driveways & patios</a></li>
-                <li><a class="nav-link" href="service.php?service=Fencing&id=2">Fencing</a></li>
-                <li><a class="nav-link" href="service.php?service=Decorating&id=3">Decorating</a></li>
-                <li><a class="nav-link" href="service.php?service=Gardening&id=4">Gardening</a></li>
-                <li><a class="nav-link" href="service.php?service=Handyman&id=5">Handyman</a></li>
-                <li><a class="nav-link" href="service.php?service=Repairs&id=6">Repairs</a></li>
-                <li><a class="nav-link" href="service.php?service=Full%20Refurbishment&id=7">Refurbishments</a></li>
+                <li><a class="nav-link" href="service.php?service=Driveways&id=1">Driveways</a></li>
+                <li><a class="nav-link" href="service.php?service=Patios&id=2">Patios</a></li>
+                <li><a class="nav-link" href="service.php?service=Fencing&id=3">Fencing</a></li>
+                <li><a class="nav-link" href="service.php?service=Decorating&id=4">Decorating</a></li>
+                <li><a class="nav-link" href="service.php?service=Gardening&id=5">Gardening</a></li>
+                <li><a class="nav-link" href="service.php?service=Handyman&id=6">Handyman</a></li>
+                <li><a class="nav-link" href="service.php?service=Repairs&id=7">Repairs</a></li>
+                <li><a class="nav-link" href="service.php?service=Full%20Refurbishment&id=8">Refurbishments</a></li>
               </ul>
             </div>
             <div class="col-12 col-md-2 text-white" >

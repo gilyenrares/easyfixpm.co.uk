@@ -16,13 +16,14 @@
               <a class="nav-link dropdown-toggle" id="dropdownMenuLink" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false" href="#">Services</a>
             <div class="dropdown-menu bg-main" aria-labelledby="dropdownMenuLink">
               <a class="dropdown-item" href="services.php">Services</a>
-              <a class="dropdown-item" href="service.php?service=Driveways%20%26%20Patios&id=1">Driveways/Patios</a>
-              <a class="dropdown-item" href="service.php?service=Fencing&id=2">Fencing</a>
-              <a class="dropdown-item" href="service.php?service=Decorating&id=3">Decorating</a>
-              <a class="dropdown-item" href="service.php?service=Gardening&id=4">Gardening</a>
-              <a class="dropdown-item" href="service.php?service=Handyman&id=5">Handyman</a>
-              <a class="dropdown-item" href="service.php?service=Repairs&id=6">Repairs</a>
-              <a class="dropdown-item" href="service.php?service=Full%20Refurbishment&id=7">Refurbishments</a>
+              <a class="dropdown-item" href="service.php?service=Driveways&id=1">Driveways</a>
+              <a class="dropdown-item" href="service.php?service=Patios&id=2">Patios</a>
+              <a class="dropdown-item" href="service.php?service=Fencing&id=3">Fencing</a>
+              <a class="dropdown-item" href="service.php?service=Decorating&id=4">Decorating</a>
+              <a class="dropdown-item" href="service.php?service=Gardening&id=5">Gardening</a>
+              <a class="dropdown-item" href="service.php?service=Handyman&id=6">Handyman</a>
+              <a class="dropdown-item" href="service.php?service=Repairs&id=7">Repairs</a>
+              <a class="dropdown-item" href="service.php?service=Full%20Refurbishment&id=8">Refurbishments</a>
            </div>
             </li>
             <li class="nav-item inactive">
