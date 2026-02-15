@@ -16,6 +16,7 @@
 
 						<a class="col justify-content-center bg-main p-1" href="https://www.facebook.com/profile.php?id=61555334727186" target="_blank"><i class="bi bi-facebook"></i></a>
 						<a class="col justify-content-center bg-main p-1" href="https://wa.me/447397879010"><i class="bi bi-whatsapp"></i></a>
+						<a class="col justify-content-center bg-main p-1" href="https://g.co/kgs/UmfzVHM"><i class="bi bi-google" target="_blank"></i></a>
 					</div>
 				</div>
 			</div>
