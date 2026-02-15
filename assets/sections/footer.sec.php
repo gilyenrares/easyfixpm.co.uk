@@ -23,19 +23,19 @@
               <i class="bi bi-envelope flex-shrink-0"></i>
               <div>
                 <h4>Email:</h4>
-                <p>info@lmz-projectsltd.uk</p>
+                <p>info@easyfixpm.co.uk</p>
               </div>
             </div>
             </a>
           </div><!-- End Info Item -->
 
           <div class="col-lg-2">
-            <a href="tel:+44 7837 378304">
+            <a href="tel:+44 7397 879010">
             <div class="info-item d-flex">
               <i class="bi bi-phone flex-shrink-0"></i>
               <div>
                 <h4>Call:</h4>
-                <p>07837 378304</p>
+                <p>07397 879010</p>
               </div>
             </div>
             </a>
@@ -95,6 +95,14 @@
   <!-- Back to top of the page -->
   <a href="#" class="scroll-top d-flex align-items-center justify-content-center">
     <i class="bi bi-arrow-up-short"></i>
+  </a>
+<!-- Contact floating action button -->
+<!-- Callback Modal -->
+<?php include "assets/sections/modal-callback.sec.php" ?>
+<!-- Contact Options Modal -->
+<?php include "assets/sections/modal-contact-options.sec.php" ?>
+  <a href="#" class="fab d-flex align-items-center justify-content-center" data-bs-toggle="modal" data-bs-target="#contactOptionsModal">
+    <i class="fi fi-sr-customer-service"></i>
   </a>
  <script
       src="https://maps.googleapis.com/maps/api/js?key=AIzaSyA8WGTQOsUQb2srchXz-0lyhUSKbqyai3w&callback=initMap&v=weekly"
