@@ -114,7 +114,7 @@
 <?php include "assets/includes/page-builder.inc.php" ?>
 
 <!-- Latest 5 Reviews Builder -->
-<?php include "assets/includes/last5-reviews.inc.php" ?>
+<?php include "assets/includes/latest-reviews.inc.php" ?>
 
 
   <!-- =======Small Hero Section ======= -->

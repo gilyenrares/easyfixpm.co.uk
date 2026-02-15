@@ -29,7 +29,7 @@
   <link href="assets/vendor/aos/aos.css" rel="stylesheet">
 
   <!-- Template Main CSS File -->
-  <link href="assets/css/main.css?v=1.4" rel="stylesheet">
+  <link href="assets/css/main.css?v=1.1" rel="stylesheet">
   <?php 
     session_start();
     require 'assets/includes/get-reviews.inc.php'; 
